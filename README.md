@@ -1,16 +1,20 @@
 # Bienvenue sur la documentation de votre logiciel de gestion pour le bâtiment
 
-\*\*\*\*💡 Suivez les nouveautés et évolutions de votre logiciel, en temps réel, dans la rubrique "[Nouveautés et évolutions](nouveautes-et-evolutions/annee-2021.md)"
+****:bulb: Suivez les nouveautés et évolutions de votre logiciel, en temps réel, dans la rubrique "[Nouveautés et évolutions](nouveautes-et-evolutions/annee-2021.md)"
 
-## Comment utiliser la documentation ? 🎯 
+## Comment utiliser la documentation ? :dart: 
 
-Pour trouver rapidement la réponse à votre question :
+Pour trouver rapidement la réponse à votre question : 
 
-👉 Saisissez un ou plusieurs mots dans le champ![](.gitbook/assets/screenshot-198-.png)"Rechercher" en haut à droite de cette page
+:bulb:
+
+
+
+:point_right: Saisissez un ou plusieurs mots dans le champ![](.gitbook/assets/screenshot-198-.png)"Rechercher" en haut à droite de cette page
 
 ou
 
-👉 Naviguez dans la liste à gauche de cette page. Cliquez sur un thème et/ou sous-thème.
+:point_right: Naviguez dans la liste à gauche de cette page. Cliquez sur un thème et/ou sous-thème.
 
 Accédez ensuite directement à l'information souhaitée grâce aux titres du sommaire à droite de cette page.
 
@@ -22,15 +26,26 @@ De nombreux liens, [marqués en bleu](./), dans les différentes pages vous perm
 
 ## Les questions les plus fréquentes :
 
-{% page-ref page="faq-aides-trucs-et-astuces/la-panicroom.md" %}
+{% content-ref url="faq-aides-trucs-et-astuces/la-panicroom.md" %}
+[la-panicroom.md](faq-aides-trucs-et-astuces/la-panicroom.md)
+{% endcontent-ref %}
 
-{% page-ref page="faq-aides-trucs-et-astuces/trucs-et-astuces.md" %}
+{% content-ref url="faq-aides-trucs-et-astuces/trucs-et-astuces.md" %}
+[trucs-et-astuces.md](faq-aides-trucs-et-astuces/trucs-et-astuces.md)
+{% endcontent-ref %}
 
-{% page-ref page="pour-aller-plus-loin/les-factures/modifier-supprimer-ou-annuler-une-facture.md" %}
+{% content-ref url="pour-aller-plus-loin/les-factures/modifier-supprimer-ou-annuler-une-facture.md" %}
+[modifier-supprimer-ou-annuler-une-facture.md](pour-aller-plus-loin/les-factures/modifier-supprimer-ou-annuler-une-facture.md)
+{% endcontent-ref %}
 
-{% page-ref page="pour-aller-plus-loin/les-factures/situation-de-travaux.md" %}
+{% content-ref url="pour-aller-plus-loin/les-factures/situation-de-travaux.md" %}
+[situation-de-travaux.md](pour-aller-plus-loin/les-factures/situation-de-travaux.md)
+{% endcontent-ref %}
 
-{% page-ref page="pour-aller-plus-loin/les-reglements/courriers-de-relance-ou-de-situation.md" %}
+{% content-ref url="pour-aller-plus-loin/les-reglements/courriers-de-relance-ou-de-situation.md" %}
+[courriers-de-relance-ou-de-situation.md](pour-aller-plus-loin/les-reglements/courriers-de-relance-ou-de-situation.md)
+{% endcontent-ref %}
 
-{% page-ref page="aide-au-demarrage/parametrage-de-mon-entreprise/envois-par-mail/" %}
-
+{% content-ref url="aide-au-demarrage/parametrage-de-mon-entreprise/envois-par-mail/" %}
+[envois-par-mail](aide-au-demarrage/parametrage-de-mon-entreprise/envois-par-mail/)
+{% endcontent-ref %}
