@@ -28,7 +28,7 @@ La meilleure méthode est la suivante :
 
 ![](../.gitbook/assets/screenshot-137c-.png)
 
- :digit_three:Saisissez le contenu de votre avenant, comme pour un simple devis.
+ :digit_three: Saisissez le contenu de votre avenant, comme pour un simple devis.
 
 :point_right: Pour que votre avenant "annule" un ouvrage_ _du devis initial : 
 
