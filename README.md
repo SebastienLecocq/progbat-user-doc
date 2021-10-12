@@ -6,8 +6,6 @@
 
 Pour trouver rapidement la réponse à votre question : 
 
-:bulb:
-
 
 
 :point_right: Saisissez un ou plusieurs mots dans le champ![](.gitbook/assets/screenshot-198-.png)"Rechercher" en haut à droite de cette page
