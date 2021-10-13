@@ -21,9 +21,12 @@ Il peut vous arriver de devoir réaliser un avoir pour des travaux non réalisé
 * Cliquez sur "Nouvelle facture", puis choisissez "Facture d'avoir".
 * Lisez le petit texte d'information qui résume le contenu de cet article, et cliquez sur "Créer un avoir direct":
 * Une fois la facture créée :
-  * Créez un titre avec une quantité -1, et saisissez vos lignes d'avoir normalement dans ce titre, **ou**
-  * Saisissez vos lignes d'avoir en mettant les quantités en négatif, **ou**
-  * Saisissez vos lignes d'avoir en mettant les prix en négatif. 
+  * Créez un titre avec une quantité -1, et saisissez vos lignes d'avoir normalement dans ce titre,\
+    **ou**
+  * Saisissez vos lignes d'avoir en mettant les quantités en négatif,\
+    **ou**
+  * Saisissez vos lignes d'avoir en mettant les prix en négatif.\
+
 * Une facture dont le total hors taxe est négatif est considéré comme un avoir par le logiciel.
 
 ### Réaliser un avoir à partir d'une facture
@@ -44,8 +47,6 @@ Une autre méthode est de créer une situation de travaux. Cette méthode sera t
 * Créez un nouveau titre, par exemple "Travaux non effectués".
 * Sélectionnez une ligne de la facture, et dupliquez-la.
 * Déplacez-la nouvelle ligne dans le titre "Travaux non effectués".
-  * Si la ligne doit être totalement annulée \(pas exécutée du tout\), passez simplement sa quantité en négatif.
-  * Si la ligne a été réalisée partiellement, annulez-la en passant sa quantité en négatif, dupliquez-la , et mettez la quantité réellement exécutée \(ou un autre prix unitaire\).
-
-
+  * Si la ligne doit être totalement annulée (pas exécutée du tout), passez simplement sa quantité en négatif.
+  * Si la ligne a été réalisée partiellement, annulez-la en passant sa quantité en négatif, dupliquez-la , et mettez la quantité réellement exécutée (ou un autre prix unitaire).
 

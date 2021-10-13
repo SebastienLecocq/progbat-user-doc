@@ -9,8 +9,8 @@ La gestion des droits permet d'autoriser ou de bloquer l'accès de vos utilisate
 * **L' expert-comptable** a accès uniquement à la consultation des factures de vente et d'achat, au paramétrage de l'entreprise et des modèles de documents, aux exports comptables, ainsi qu'à la ProGBox pour exporter vos factures client en un clic. Il aura également accès au support technique via le menu "Assistance".
 
 {% hint style="info" %}
-La gestion des droits utilisateurs est une option activée pendant votre période d'essai, mais n'est pas disponible par défaut.  
-Pour activer cette option, rendez-vous sous le menu Administration &gt; Ma boutique &gt; Ajouter des options ou contactez votre revendeur.
+La gestion des droits utilisateurs est une option activée pendant votre période d'essai, mais n'est pas disponible par défaut.\
+Pour activer cette option, rendez-vous sous le menu Administration > Ma boutique > Ajouter des options ou contactez votre revendeur.
 {% endhint %}
 
 
@@ -21,15 +21,15 @@ Un rôle est un ensemble de droits que vous donnez à une catégorie d'utilisate
 
 ![](../../../.gitbook/assets/droits.png)
 
-1 Ouvrez le menu "Administration &gt; Utilisateurs"
+:digit_one: Ouvrez le menu "Administration > Utilisateurs"
 
-2 Cliquez sur le bouton "Gestion des droits"
+:digit_two: Cliquez sur le bouton "Gestion des droits"
 
-3 Cliquez sur le bouton "Nouveau rôle" et donnez un nom à ce rôle
+:digit_three: Cliquez sur le bouton "Nouveau rôle" et donnez un nom à ce rôle
 
-4 Cochez les [fonctionnalités](gestion-des-droits.md#liste-des-permissions) autorisées pour ce rôle
+:digit_four: Cochez les [fonctionnalités](gestion-des-droits.md#liste-des-permissions) autorisées pour ce rôle
 
-5 Enregistrez.
+:digit_five: Enregistrez.
 
 {% hint style="info" %}
 Vous pouvez créer autant de rôles différents que vous le souhaitez.
@@ -39,14 +39,14 @@ Vous pouvez créer autant de rôles différents que vous le souhaitez.
 
 ## Attribuer un rôle à un utilisateur
 
-1 ****Ouvrez la fiche d'un utilisateur à partir de la liste des utilisateurs
+:digit_one:** **Ouvrez la fiche d'un utilisateur à partir de la liste des utilisateurs
 
-2 Dans le champs "Droits", sélectionnez le rôle que vous souhaitez attribuer à cet utilisateur
+:digit_two: Dans le champs "Droits", sélectionnez le rôle que vous souhaitez attribuer à cet utilisateur
 
-3 Validez.
+:digit_three: Validez.
 
 {% hint style="info" %}
-Si votre version actuelle \(hors période de test\) n'intègre pas la gestion des droits, et que vous aviez défini des rôles, les utilisateurs se verront attribuer par défaut le rôle "Utilisateur".
+Si votre version actuelle (hors période de test) n'intègre pas la gestion des droits, et que vous aviez défini des rôles, les utilisateurs se verront attribuer par défaut le rôle "Utilisateur".
 {% endhint %}
 
 
@@ -61,7 +61,7 @@ Tous les utilisateurs dépendants de ce rôle verront leurs droits immédiatemen
 
 Les rôles "Administrateur", "Utilisateur" et "Expert comptable" sont des rôles définis par défaut et ne sont pas modifiables.
 
-\*\*\*\*
+****
 
 ## Liste des permissions
 
@@ -78,8 +78,8 @@ Les rôles "Administrateur", "Utilisateur" et "Expert comptable" sont des rôles
 * Créer / modifier / supprimer des clients
 * Consulter les fiches fournisseurs
 * Créer / modifier / supprimer des fournisseurs
-* Consulter les fiches des tiers \(autres que clients et fournisseurs\)
-* Créer / modifier / supprimer des tiers \(autres que clients et fournisseurs\)
+* Consulter les fiches des tiers (autres que clients et fournisseurs)
+* Créer / modifier / supprimer des tiers (autres que clients et fournisseurs)
 * Gérer la liste des types de tiers
 
 ### Affaires / Chantiers
@@ -134,14 +134,12 @@ Les rôles "Administrateur", "Utilisateur" et "Expert comptable" sont des rôles
 
 ### Utilisateur
 
-* Modifier ses préférences \(Envois de documents, taux de TVA, ...etc\)
+* Modifier ses préférences (Envois de documents, taux de TVA, ...etc)
 * Accéder à mon agenda
 
 ### Support
 
 * Accéder au support technique
-
-
 
 
 

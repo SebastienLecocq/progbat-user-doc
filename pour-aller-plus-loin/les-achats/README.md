@@ -4,7 +4,7 @@
 
 La gestion des achats est essentielle pour suivre la [rentabilité de vos chantiers](../les-chantiers-1/la-fiche-chantier-en-detail.md#onglet-travaux), et de votre entreprise de manière générale.
 
-ℹ Maîtriser ses coûts en temps réel permet d'identifier rapidement la cause d'une perte d'argent sur un chantier par exemple, de réajuster si nécessaire certains prix de vente, sans attendre le bilan comptable qui risque d'arriver trop tard.
+:information_source: Maîtriser ses coûts en temps réel permet d'identifier rapidement la cause d'une perte d'argent sur un chantier par exemple, de réajuster si nécessaire certains prix de vente, sans attendre le bilan comptable qui risque d'arriver trop tard.
 
 Les outils qui vous sont proposés sont simples, rapides et efficaces, et vous seront précieux pour bien gérer vos chantiers et votre entreprise.
 
@@ -22,49 +22,56 @@ La saisie de vos coûts et achats sous le logiciel vous permettra de vérifier, 
 
 
 
-#### 1 Préparation des achats
+#### :digit_one: Préparation des achats
 
 Depuis la synthèse du devis :
 
-✔ Générez en un clic un [Bon de préparation](../les-devis/synthese-du-devis.md#creer-un-bon-de-preparation), pour bien préparer vos chantiers, et voir ce qu'il faudra commander
+:heavy_check_mark: Générez en un clic un [Bon de préparation](../les-devis/synthese-du-devis.md#creer-un-bon-de-preparation), pour bien préparer vos chantiers, et voir ce qu'il faudra commander
 
-✔ Envoyez immédiatement une [Demande de prix](demandes-de-prix.md) à vos fournisseurs et sous-traitants, pour les comparer et améliorer la gestion de vos coûts
-
-
-
-#### 2 Commandes
-
-✔ [Créez vos commandes fournisseur](les-bons-de-commande/bon-de-commande-fournisseur.md) et [sous-traitant](les-bons-de-commande/bon-de-commande-sous-traitant.md), sans avoir à en saisir les lignes
+:heavy_check_mark: Envoyez immédiatement une [Demande de prix](demandes-de-prix.md) à vos fournisseurs et sous-traitants, pour les comparer et améliorer la gestion de vos coûts
 
 
 
-#### 3 Livraisons
+#### :digit_two: Commandes
 
-✔ [Créez vos bons de livraisons et de réceptions de travaux sous-traités](les-bons-de-livraison/), sans avoir à en saisir les lignes
-
-
-
-#### 4 Saisie des achats
-
-✔ [Enregistrez vos factures d'achat](les-factures-dachat.md), sans avoir à en saisir les lignes
-
-✔Saisissez les heures effectuées pour ce chantier \([_c.f. Salariés_](../le-personnel/)\)
+:heavy_check_mark: [Créez vos commandes fournisseur](les-bons-de-commande/bon-de-commande-fournisseur.md) et [sous-traitant](les-bons-de-commande/bon-de-commande-sous-traitant.md), sans avoir à en saisir les lignes
 
 
 
-#### 5 Analyse
+#### :digit_three: Livraisons
 
-✔ Depuis la [fiche chantier](../les-chantiers-1/la-fiche-chantier-en-detail.md#onglet-travaux), comparez en un clin d’œil vos dépenses et vos recettes, et évaluez puis constatez la rentabilité de votre chantier grâce à l'outil de [pilotage en temps réel](../les-chantiers-1/pilotage-temps-reel.md)
-
-✔ Depuis les chiffres clés \(Menu "Gestion"\), constatez et exportez votre activité \(globalement ou en filtrant\), suivez et prévoyez votre activité et trésorerie grâce au carnet de commandes.
+:heavy_check_mark: [Créez vos bons de livraisons et de réceptions de travaux sous-traités](les-bons-de-livraison/), sans avoir à en saisir les lignes
 
 
 
-{% page-ref page="demandes-de-prix.md" %}
+#### :digit_four: Saisie des achats
 
-{% page-ref page="les-bons-de-commande/" %}
+:heavy_check_mark: [Enregistrez vos factures d'achat](les-factures-dachat.md), sans avoir à en saisir les lignes
 
-{% page-ref page="les-bons-de-livraison/" %}
+:heavy_check_mark:Saisissez les heures effectuées pour ce chantier ([_c.f. Salariés_](../le-personnel/))
 
-{% page-ref page="les-factures-dachat.md" %}
 
+
+#### :digit_five: Analyse
+
+:heavy_check_mark: Depuis la [fiche chantier](../les-chantiers-1/la-fiche-chantier-en-detail.md#onglet-travaux), comparez en un clin d’œil vos dépenses et vos recettes, et évaluez puis constatez la rentabilité de votre chantier grâce à l'outil de [pilotage en temps réel](../les-chantiers-1/pilotage-temps-reel.md)
+
+:heavy_check_mark: Depuis les chiffres clés (Menu "Gestion"), constatez et exportez votre activité (globalement ou en filtrant), suivez et prévoyez votre activité et trésorerie grâce au carnet de commandes.
+
+
+
+{% content-ref url="demandes-de-prix.md" %}
+[demandes-de-prix.md](demandes-de-prix.md)
+{% endcontent-ref %}
+
+{% content-ref url="les-bons-de-commande/" %}
+[les-bons-de-commande](les-bons-de-commande/)
+{% endcontent-ref %}
+
+{% content-ref url="les-bons-de-livraison/" %}
+[les-bons-de-livraison](les-bons-de-livraison/)
+{% endcontent-ref %}
+
+{% content-ref url="les-factures-dachat.md" %}
+[les-factures-dachat.md](les-factures-dachat.md)
+{% endcontent-ref %}

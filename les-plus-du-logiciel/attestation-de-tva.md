@@ -11,8 +11,8 @@ Dans la réalité, c'est l'entreprise qui fournit et transmet l'attestation au c
 ## Quand établir l'attestation de TVA ?
 
 {% hint style="warning" %}
-L'attestation de TVA doit **obligatoirement** être établie, signée et renvoyée à l'entreprise **avant toute facturation.**  
-[Consultez cet article pour la France](https://www.service-public.fr/professionnels-entreprises/vosdroits/F23568).
+L'attestation de TVA doit **obligatoirement** être établie, signée et renvoyée à l'entreprise **avant toute facturation.**\
+****[Consultez cet article pour la France](https://www.service-public.fr/professionnels-entreprises/vosdroits/F23568).
 {% endhint %}
 
 C'est pour cette raison que le logiciel vous permet de créer l'attestation de TVA à partir du devis, et de la joindre à l'édition du devis. Le client a ainsi tout le temps de signer et vous renvoyer l'attestation, bien avant que vous ne facturiez les travaux.
@@ -29,11 +29,11 @@ C'est la méthode conseillée, car l'attestation sera rattachée au devis et vou
 
 * Ouvrez le devis,
 * Cliquez à droite de la page sur "Créer une attestation".
-* Selon votre pays \(actuellement disponible pour France et Belgique\), l'attestation correspondante pré-remplie s'affiche.
-* Complétez la si nécessaire, cochez les "bonnes cases" \(France\), et validez.
+* Selon votre pays (actuellement disponible pour France et Belgique), l'attestation correspondante pré-remplie s'affiche.
+* Complétez la si nécessaire, cochez les "bonnes cases" (France), et validez.
 * Le bouton "Créer une attestation" est remplacé par le lien vers l'attestation que vous venez de créer. Ce lien vous permet d'ouvrir l'attestation pour la modifier si nécessaire.
 
-### A partir du menu "Gestion -&gt; Attestation de TVA"
+### A partir du menu "Gestion -> Attestation de TVA"
 
 * Cliquez sur "Nouvelle attestation".
 * Remplissez manuellement votre attestation.
@@ -44,7 +44,7 @@ C'est la méthode conseillée, car l'attestation sera rattachée au devis et vou
 ## Comment transmettre l'attestation de TVA à mon client ?
 
 {% hint style="info" %}
-**Nouveauté** : Gagnez du temps en faisant signer électroniquement l'attestation de TVA simplifiée générée depuis le logiciel. [_Cliquez ici pour savoir comment procéder._](signature-electronique/)\_\_
+**Nouveauté** : Gagnez du temps en faisant signer électroniquement l'attestation de TVA simplifiée générée depuis le logiciel. [_Cliquez ici pour savoir comment procéder._](signature-electronique/)__
 {% endhint %}
 
 ### Depuis le devis
@@ -54,13 +54,12 @@ C'est la méthode conseillée, car l'attestation sera rattachée au devis et vou
 
 ### Avec le devis
 
-* Éditez votre devis \(bouton "Imprimer/Envoyer" depuis le devis, ou en cliquant sur l'imprimante dans la liste des devis\).
+* Éditez votre devis (bouton "Imprimer/Envoyer" depuis le devis, ou en cliquant sur l'imprimante dans la liste des devis).
 * Si une attestation existe, une case à cocher sur la droite de la page vous permet d'ajouter l'attestation au pdf de votre devis.
 * Vous pouvez maintenant imprimer, enregistrer, ou envoyer par mail le devis accompagné de son attestation de TVA.
 
 ### Depuis la liste des attestations
 
-* Ouvrez le menu "Gestion -&gt; Attestations de TVA"
+* Ouvrez le menu "Gestion -> Attestations de TVA"
 * Recherchez l'attestation à imprimer,
 * Cliquez sur l'imprimante en bout de ligne.
-

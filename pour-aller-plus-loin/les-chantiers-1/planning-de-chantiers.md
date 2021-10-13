@@ -14,15 +14,15 @@ Enfin, les vues mensuelles et hebdomadaires permettent de prévoir le personnel 
 
 
 
-1 Ouvrez le menu "Affaires &gt; Planning"
+:digit_one: Ouvrez le menu "Affaires > Planning"
 
 ![](../../.gitbook/assets/planning-1.jpg)
 
-2 Cliquez sur le bouton vert "Ajouter un chantier au planning"
+:digit_two: Cliquez sur le bouton vert "Ajouter un chantier au planning"
 
-3 Recherchez et sélectionnez un chantier à ajouter au planning
+:digit_three: Recherchez et sélectionnez un chantier à ajouter au planning
 
-4 Ajoutez maintenant les différentes phases de votre chantier, en précisant pour chaque phase la date de début, et de fin.
+:digit_four: Ajoutez maintenant les différentes phases de votre chantier, en précisant pour chaque phase la date de début, et de fin.
 
 ![](../../.gitbook/assets/planning-2.jpg)
 
@@ -35,6 +35,4 @@ L'affectation du personnel aux phases du chantier permet au conducteur de travau
 Elle guide le personnel lors de leur [saisie des heures](../le-personnel/gestion-des-heures.md#saisie-des-heures-par-les-compagnons) sur smartphone, et simplifie votre validation de ces heures sous le logiciel.
 
 ![](../../.gitbook/assets/screenshot-45b-.png)
-
-
 

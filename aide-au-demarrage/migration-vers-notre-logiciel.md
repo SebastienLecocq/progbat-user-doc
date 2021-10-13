@@ -4,25 +4,25 @@
 
 Voici comment récupérer vos données principales, et assurer la continuité de votre activité.
 
-## 1 Importer vos fichiers clients, fournisseurs, tarifs
+## :digit_one: Importer vos fichiers clients, fournisseurs, tarifs
 
 Vous pouvez très simplement importer vos fichiers [clients et fournisseurs](../pour-aller-plus-loin/les-tiers/importer.md), [fournitures et ouvrages](../pour-aller-plus-loin/bibliotheque-de-chiffrage/importer/import-de-fichier-fournitures-ou-ouvrages.md) depuis votre ancien logiciel, ou Excel.
 
 Si vous n'y parvenez pas, n'hésitez pas à solliciter votre assistance, par le menu "Assistance" de votre espace client.
 
-## 2 Importer vos devis
+## :digit_two: Importer vos devis
 
 L'intérêt est de pouvoir facturer un devis réalisé sur votre ancien logiciel, sans avoir à le ressaisir.
 
 [Voici comment importer un devis](../pour-aller-plus-loin/les-devis/import-export.md#import-de-dpgf-et-devis-au-format-excel).
 
-## 3 Importer vos factures
+## :digit_three: Importer vos factures
 
 {% hint style="warning" %}
 **Il n'est pas possible d'importer les factures réalisées sur un autre système de facturation.**
 {% endhint %}
 
-Le logiciel est certifié conforme à la loi de finance de 2016 \(dite loi anti-fraude à la TVA de 2018\) \(pour la France\).
+Le logiciel est certifié conforme à la loi de finance de 2016 (dite loi anti-fraude à la TVA de 2018) (pour la France).
 
 L'application de cette loi ne permet pas d'importer et de certifier des factures qui n'ont pas été réalisées sur notre propre système.
 
@@ -32,15 +32,17 @@ L'application de cette loi ne permet pas d'importer et de certifier des factures
 
 Vous avez réalisé une ou plusieurs situations de travaux pour un chantier, sur Excel ou un autre logiciel, et souhaitez réaliser la prochaine situation sur ce logiciel.
 
-  
+\
 La procédure n'est pas compliquée, mais réclame toute votre attention. Suivez-bien toutes les étapes :
 
-#### 1 Importez le contenu du devis
+#### :digit_one: Importez le contenu du devis
 
 * Créez le devis sur le logiciel, et [importez son contenu](../pour-aller-plus-loin/les-devis/import-export.md#import-de-dpgf-et-devis-au-format-excel)
-* Bien entendu, vous pouvez importer le contenu de votre dernière situation, comme s'il s'agissait d'un devis.
+*   Bien entendu, vous pouvez importer le contenu de votre dernière situation, comme s'il s'agissait d'un devis.
 
-#### 2 Réalisez une situation de travaux
+
+
+#### :digit_two: Réalisez une situation de travaux
 
 * Ouvrez la liste des factures
 * Cliquez sur "Nouvelle facture"
@@ -48,24 +50,23 @@ La procédure n'est pas compliquée, mais réclame toute votre attention. Suivez
 
 ![](../.gitbook/assets/screenshot-53-.png)
 
-* Choisissez le devis correspondant à cette situation, et créez la facture
+*   Choisissez le devis correspondant à cette situation, et créez la facture
 
-  \*\*\*\*⚠ **Mettez à jour le numéro de la situation**, c'est à dire le numéro de la dernière situation réalisée sur votre ancien logiciel
-
+    ****:warning: **Mettez à jour le numéro de la situation**, c'est à dire le numéro de la dernière situation réalisée sur votre ancien logiciel
 * Saisissez les avancements de la dernière situation réalisée sur votre ancien logiciel
-* Finalisez la facture :
+*   Finalisez la facture :
 
-  ⚠ **Le logiciel vous précise que cette facture ne sera pas comptabilisée.** En effet, elle sert juste de support à la prochaine situation que vous réaliserez sur le logiciel. La facture est validée en mode "Test", elle ne sera pas comptabilisée dans votre Chiffre d'affaires.
+    :warning: **Le logiciel vous précise que cette facture ne sera pas comptabilisée.** En effet, elle sert juste de support à la prochaine situation que vous réaliserez sur le logiciel. La facture est validée en mode "Test", elle ne sera pas comptabilisée dans votre Chiffre d'affaires.
 
-  \*\*\*\*
+    ****
 
-#### 3 Réalisez la situation suivante sur le logiciel
+#### :digit_three: Réalisez la situation suivante sur le logiciel
 
 * Ouvrez la situation de travaux "Test", et [créez une nouvelle situation](../pour-aller-plus-loin/les-factures/situation-de-travaux.md#realiser-les-situations-suivantes)
 * Mettez à jour les avancements, contrôlez et finalisez la facture
-* Le logiciel vous proposera de continuer en mode apprentissage, ou de passer en mode réel, car la facture précédente est une facture de test :
+*   Le logiciel vous proposera de continuer en mode apprentissage, ou de passer en mode réel, car la facture précédente est une facture de test :
 
-  \*\*\*\*⚠ **Passez en mode réel**, la facture est ainsi validée en mode "réel", et tiendra bien compte de l'avancement précédent.
+    ****:warning: **Passez en mode réel**, la facture est ainsi validée en mode "réel", et tiendra bien compte de l'avancement précédent.
 
 
 
@@ -73,15 +74,13 @@ La procédure n'est pas compliquée, mais réclame toute votre attention. Suivez
 
 Vous avez émis une facture d'acompte sous l'ancien logiciel et vous devez déduire cet acompte de votre prochaine facture :
 
-1 Créez un devis sous le logiciel
+:digit_one: Créez un devis sous le logiciel
 
-2 [Importez le contenu de votre devis](../pour-aller-plus-loin/les-devis/import-export.md#import-de-dpgf-et-devis-au-format-excel) initial, ou saisissez-le manuellement
+:digit_two: [Importez le contenu de votre devis](../pour-aller-plus-loin/les-devis/import-export.md#import-de-dpgf-et-devis-au-format-excel) initial, ou saisissez-le manuellement
 
-3 Créez votre [facture de travaux](), ou [situation de travaux](../pour-aller-plus-loin/les-factures/situation-de-travaux.md), à partir du devis
+:digit_three: Créez votre [facture de travaux](broken-reference), ou [situation de travaux](../pour-aller-plus-loin/les-factures/situation-de-travaux.md), à partir du devis
 
-4 Dans le pied de la facture, cliquez sur le petit crayon à côté de l'acompte :
+:digit_four: Dans le pied de la facture, cliquez sur le petit crayon à côté de l'acompte :
 
-Saisissez le montant à déduire \(montant net à payer indiqué sur votre facture d'acompte\)
-
-
+Saisissez le montant à déduire (montant net à payer indiqué sur votre facture d'acompte)
 

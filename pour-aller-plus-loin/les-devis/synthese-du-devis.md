@@ -7,27 +7,27 @@ En un clin d’œil, vous connaissez le montant des dépenses, et la marge prév
 En un clic, vous pourrez créer un bon de préparation, une demande de prix ou un bon de commande par exemple.
 
 {% hint style="info" %}
-La synthèse du devis s'alimente automatiquement des éléments \(matériaux, main d'oeuvre, sous-traitance,...\) présents dans la [composition des ouvrages](../bibliotheque-de-chiffrage/la-bibliotheque-douvrages/#la-composition-des-ouvrages) que vous avez ajoutés au devis.
+La synthèse du devis s'alimente automatiquement des éléments (matériaux, main d'oeuvre, sous-traitance,...) présents dans la [composition des ouvrages](../bibliotheque-de-chiffrage/la-bibliotheque-douvrages/#la-composition-des-ouvrages) que vous avez ajoutés au devis.
 {% endhint %}
 
 
 
-## 👉 Le bouton "Actions"
+## :point_right: Le bouton "Actions"
 
 
 
-![](../../.gitbook/assets/capture%20%2820%29.png)
+![](<../../.gitbook/assets/capture (20).png>)
 
-Depuis la synthèse d’un devis,  réalisez un ensemble d’actions qui vous facilitera la préparation du chantier :   
-
-
-### 1 Imprimer la synthèse
-
-Cela se passe d'explications. 😉 
+Depuis la synthèse d’un devis,  réalisez un ensemble d’actions qui vous facilitera la préparation du chantier : \
 
 
+### :digit_one: Imprimer la synthèse
 
-### 2 Créer un bon de préparation
+Cela se passe d'explications. :wink: 
+
+
+
+### :digit_two: Créer un bon de préparation
 
 Éditez en un clic un bon de préparation, vous aurez ainsi la synthèse de tous les éléments à récupérer au dépôt avant de vous rendre sur le chantier.
 
@@ -35,31 +35,29 @@ Si vous gérez vos stocks sous Excel ou un autre logiciel, le bon de préparatio
 
 
 
-### 3 Exporter au format CSV
+### :digit_three: Exporter au format CSV
 
 Pour pouvoir récupérer la synthèse sur Excel.
 
 
 
-### 4 Créer un bon de commande fournisseur
+### :digit_four: Créer un bon de commande fournisseur
 
 Consultez l'article dédié en cliquant [ici](../les-achats/les-bons-de-commande/bon-de-commande-fournisseur.md#depuis-la-synthese-du-devis).
 
 
 
-### 5 Créer une commande sous-traitant
+### :digit_five: Créer une commande sous-traitant
 
 Consultez l'article dédié en cliquant [ici](../les-achats/les-bons-de-commande/bon-de-commande-sous-traitant.md#creer-une-commande-sous-traitant).
 
 
 
-### 6 Créer une demande de prix fournisseur
+### :digit_six: Créer une demande de prix fournisseur
 
 Consultez l'article dédié en cliquant [ici](../les-achats/demandes-de-prix.md).
 
 
 
-_Pour créer une demande de prix sous-traitant, cliquez_ [_ici_](../les-achats/demandes-de-prix.md#creer-une-demande-de-prix-sous-traitant)_._
-
-
+_Pour créer une demande de prix sous-traitant, cliquez _[_ici_](../les-achats/demandes-de-prix.md#creer-une-demande-de-prix-sous-traitant)_._
 

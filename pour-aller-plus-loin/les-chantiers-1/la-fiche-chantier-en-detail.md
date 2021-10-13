@@ -2,7 +2,7 @@
 
 La fiche chantier est décomposée en 4 onglets :
 
-## 1 Onglet "Coordonnées du chantier"
+## :digit_one: Onglet "Coordonnées du chantier"
 
 Ce premier onglet affiche :
 
@@ -18,7 +18,7 @@ Lorsqu'un devis rattaché à un chantier est passé au statut "Accepté", le sta
 
 
 
-## 2 Onglet "Travaux"
+## :digit_two: Onglet "Travaux"
 
 {% hint style="info" %}
 **Cet onglet est probablement le plus important, et celui que vous consulterez le plus souvent**
@@ -28,16 +28,18 @@ Il contient de nombreuses vignettes, chacune d'elle affichant un graphique stati
 
 * Consultez en un clin d'œil, le montant des devis acceptés pour ce chantier, le chiffre d'affaires réalisé à ce jour, et l'état des règlements :
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 * Visualisez les montants de vos achats et de votre main d'œuvre, en les comparant instantanément aux [prévisions](../les-devis/prevoir-le-temps-passe.md). La vignette "Analyse du chantier" vous permet de constater l'état de rentabilité de votre chantier à ce jour :
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](<../../.gitbook/assets/image (8).png>)
 
 * Un simple clic sur une vignette affiche le détail des documents concernés.
-* Un simple clic sur la vignette **Analyse du chantier** ouvre l'outil de[ Pilotage temps réel](pilotage-temps-reel.md), un outil simple et rapide pour estimer l'avancement de votre chantier, et éviter un dérapage avant qu'il ne soit trop tard.
+*   Un simple clic sur la vignette **Analyse du chantier** ouvre l'outil de[ Pilotage temps réel](pilotage-temps-reel.md), un outil simple et rapide pour estimer l'avancement de votre chantier, et éviter un dérapage avant qu'il ne soit trop tard.
 
-## 3 Onglet "Contacts"
+
+
+## :digit_three: Onglet "Contacts"
 
 Si vous réalisez plutôt de "gros" chantiers, vous allez régulièrement rencontrer les mêmes architectes, maîtres d'œuvre, coordinateurs de sécurité, OPC, etc...
 
@@ -47,9 +49,7 @@ Vous pourrez alors simplement ajouter les contacts pour chaque chantier, pour fa
 
 
 
-## 4 Onglet "ProGBox"
+## :digit_four: Onglet "ProGBox"
 
 Comme sur de nombreux formulaires, vous retrouvez sur la fiche chantier l'espace de stockage de documents [ProGBox](../../les-plus-du-logiciel/progbox-archivage-de-documents.md). Ne recherchez plus vos documents quelque part sur Google Drive ou sur DropBox, tout est organisé automatiquement dans [ProGBox](../../les-plus-du-logiciel/progbox-archivage-de-documents.md).
-
-
 

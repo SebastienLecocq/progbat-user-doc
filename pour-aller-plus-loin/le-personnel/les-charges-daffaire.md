@@ -6,6 +6,5 @@ Pour afficher des chargés d'affaires dans la liste "Suivi par" d'un devis, ou "
 * Dans la fiche, cocher la case "Chargé d'affaire".
 * Tous les chargés d'affaire enregistrés dans votre base de données apparaîtront dans la liste.
 
-  
+\
 _L'accès aux fiches personnel est disponible à partir de la version Premium._
-

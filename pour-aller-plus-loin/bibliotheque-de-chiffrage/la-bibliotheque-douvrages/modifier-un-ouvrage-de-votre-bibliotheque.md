@@ -4,7 +4,7 @@
 
 
 
-### 👉 Depuis le devis
+### :point_right: Depuis le devis
 
 Vous avez modifié un ouvrage dans votre devis, et souhaitez enregistrer cette modification dans votre bibliothèque ?
 
@@ -17,11 +17,10 @@ Exactement comme pour la création d'un ouvrage depuis le devis, cliquez sur la 
 
 
 
-### 👉 Depuis la bibliothèque d'ouvrages
+### :point_right: Depuis la bibliothèque d'ouvrages
 
 Recherchez l'ouvrage à modifier dans la liste des ouvrages, et ouvrez le formulaire pour apporter les modifications souhaitées.
 
-⚠ La modification d'un ouvrage dans la bibliothèque ne modifiera aucune ligne de devis ou de factures déjà créés.
+:warning: La modification d'un ouvrage dans la bibliothèque ne modifiera aucune ligne de devis ou de factures déjà créés.
 
-_\*\*\*\*_
-
+_****_

@@ -8,17 +8,17 @@ description: >-
 
 ## Créer un titre
 
-#### \*\*\*\*
+#### ****
 
-1Vous venez de créer votre devis : Cliquez sur l'onglet "Lignes", et choisissez de commencer par "Un titre".
+:digit_one:Vous venez de créer votre devis : Cliquez sur l'onglet "Lignes", et choisissez de commencer par "Un titre".
 
 ![](../../../../.gitbook/assets/screenshot-102-.png)
 
 
 
-2 Vous avez créé un titre __\("Plâtrerie" __par exemple\), et vous souhaitez créer un nouveau titre \("Menuiserie"\) :
+:digit_two: Vous avez créé un titre_ _("Plâtrerie"_ _par exemple), et vous souhaitez créer un nouveau titre ("Menuiserie") :
 
-![](../../../../.gitbook/assets/screenshot-103a-%20%281%29.png)
+![](<../../../../.gitbook/assets/screenshot-103a- (1).png>)
 
 * Sélectionnez n'importe quelle ligne de votre devis
 * Cliquez sur la flèche ![](../../../../.gitbook/assets/screenshot-100-.png) du bouton "Ajouter" 
@@ -27,7 +27,7 @@ description: >-
 Une nouvelle ligne de titre sera ajoutée à la fin de votre devis**.**
 
 {% hint style="info" %}
-💡 Vous pourrez [déplacer un titre](../le-menu-de-lignes.md#deplacement-de-ligne) et/ou son contenu par la suite.
+:bulb: Vous pourrez [déplacer un titre](../le-menu-de-lignes.md#deplacement-de-ligne) et/ou son contenu par la suite.
 {% endhint %}
 
 
@@ -36,29 +36,28 @@ Une nouvelle ligne de titre sera ajoutée à la fin de votre devis**.**
 
 ![](../../../../.gitbook/assets/screenshot-103g-.png)
 
-1 A partir d'une ligne de titre, cliquez simplement sur "Un sous-titre" dans le menu "Ajouter"
+:digit_one: A partir d'une ligne de titre, cliquez simplement sur "Un sous-titre" dans le menu "Ajouter"
 
-_Dans l'exemple ci-dessous : à partir du titre 2 "Travaux" , créer un sous-titre vous permettra de détailler les différents travaux à réaliser \("Réalisation d'une terrasse" par exemple\)._
+_Dans l'exemple ci-dessous : à partir du titre 2 "Travaux" , créer un sous-titre vous permettra de détailler les différents travaux à réaliser ("Réalisation d'une terrasse" par exemple)._
 
-\_\_
+__
 
 ![](../../../../.gitbook/assets/screenshot-103h-.png)
 
 
 
-2 A partir de ce sous-titre, dans le menu "Ajouter", vous pourrez choisir :
+:digit_two: A partir de ce sous-titre, dans le menu "Ajouter", vous pourrez choisir :
 
-* **Un sous-titre de niveau inférieur**
+*   **Un sous-titre de niveau inférieur**
 
-  _Dans l'exemple ci-dessus : Depuis le sous-titre 2.1, créer un sous-titre de niveau inférieur va permettre  de distinguer les zones de travaux \(2.1.1 "Face Nord" par exemple\)_
+    _Dans l'exemple ci-dessus : Depuis le sous-titre 2.1, créer un sous-titre de niveau inférieur va permettre  de distinguer les zones de travaux (2.1.1 "Face Nord" par exemple)_
 
-  \_\_
+    __
+*   **Un sous-titre de même niveau**
 
-* **Un sous-titre de même niveau**
+    _Dans l'exemple ci-dessus : Depuis le sous-titre 2.1.1, créer un sous-titre de même niveau vous permettra de continuer à lister les zones de travaux (2.1.2 "Face Sud")_
 
-  _Dans l'exemple ci-dessus : Depuis le sous-titre 2.1.1, créer un sous-titre de même niveau vous permettra de continuer à lister les zones de travaux \(2.1.2 "Face Sud"\)_
-
-  \_\_
+    __
 
 {% hint style="info" %}
 Comment [déplacer un sous-titre](../le-menu-de-lignes.md#deplacement-de-ligne) et/ou son contenu?
@@ -66,5 +65,6 @@ Comment [déplacer un sous-titre](../le-menu-de-lignes.md#deplacement-de-ligne) 
 
 
 
-{% page-ref page="lignes-du-devis.md" %}
-
+{% content-ref url="lignes-du-devis.md" %}
+[lignes-du-devis.md](lignes-du-devis.md)
+{% endcontent-ref %}

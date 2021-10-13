@@ -1,6 +1,6 @@
 # Catégories et groupes de tiers
 
-## 1 Catégories de tiers
+## :digit_one: Catégories de tiers
 
 Plusieurs catégories de tiers sont proposées par défaut :
 
@@ -19,7 +19,7 @@ Comme par exemple "Architectes", "Entreprises de travail temporaire", ou encore 
 
 
 
-👉 Depuis le menu "Tiers &gt; Nouvelle catégorie" :
+:point_right: Depuis le menu "Tiers > Nouvelle catégorie" :
 
 ![](../../.gitbook/assets/screenshot-176-.png)
 
@@ -29,30 +29,33 @@ Ou bien, depuis une [liste de tiers](les-listes-de-tiers/), à droite de la page
 
 
 
-👉 Définissez si cette catégorie de tiers peut vous adresser des factures : 
+:point_right: Définissez si cette catégorie de tiers peut vous adresser des factures : 
 
 ![](../../.gitbook/assets/screenshot-208-.png)
 
-* Les dépenses auprès de ces tiers \([factures d'achat](../les-achats/les-factures-dachat.md)\) pourront alors être enregistrées sous le logiciel, et affectées à un chantier, pour mieux en évaluer la [rentabilité](les-clients/la-fiche-client-en-details.md#onglet-activite). 
+*   Les dépenses auprès de ces tiers ([factures d'achat](../les-achats/les-factures-dachat.md)) pourront alors être enregistrées sous le logiciel, et affectées à un chantier, pour mieux en évaluer la [rentabilité](les-clients/la-fiche-client-en-details.md#onglet-activite). 
+
 
 * Vous pourrez également saisir et suivre vos [règlements](../les-reglements/reglements-fournisseurs.md) adressés à ces tiers.
 
 
 
-## 2 Groupes de tiers
+## :digit_two: Groupes de tiers
 
 Vous pouvez affecter un ou plusieurs groupes à vos tiers, de sorte à mieux les trier et mieux les identifier :
 
 * **Par activité** : Mairies, Profession libérale, Agence immobilière, Négoce, Plombier, ...
-* **Mais aussi** : Mauvais payeur, Partenaire, Famille, ...
+*   **Mais aussi** : Mauvais payeur, Partenaire, Famille, ...
+
+
 
 ### Créer un groupe
 
-👉 Depuis une [liste de tiers](les-listes-de-tiers/), à droite de la page : cliquez sur "Gérer les groupes", puis sur "Nouveau groupe"
+:point_right: Depuis une [liste de tiers](les-listes-de-tiers/), à droite de la page : cliquez sur "Gérer les groupes", puis sur "Nouveau groupe"
 
 ![](../../.gitbook/assets/screenshot-177-.png)
 
-👉Ou bien depuis la [fiche du tiers](les-clients/la-fiche-client-en-details.md) : saisissez le nom du groupe à créer et tapez sur la touche 'Tabulation' ou 'Entrée' de votre clavier, il sera automatiquement créé dans votre liste de groupes et ajouté à la fiche client.
+:point_right:Ou bien depuis la [fiche du tiers](les-clients/la-fiche-client-en-details.md) : saisissez le nom du groupe à créer et tapez sur la touche 'Tabulation' ou 'Entrée' de votre clavier, il sera automatiquement créé dans votre liste de groupes et ajouté à la fiche client.
 
 ![](../../.gitbook/assets/screenshot-178-.png)
 
@@ -62,15 +65,15 @@ Vous pouvez affecter un ou plusieurs groupes à vos tiers, de sorte à mieux les
 
 ![](../../.gitbook/assets/screenshot-178a-.png)
 
-👉 Depuis la [fiche du tiers](les-clients/la-fiche-client-en-details.md) : saisissez les premières lettres du groupe, et sélectionnez-le dans la liste proposée
+:point_right: Depuis la [fiche du tiers](les-clients/la-fiche-client-en-details.md) : saisissez les premières lettres du groupe, et sélectionnez-le dans la liste proposée
 
-👉 Pour détacher un groupe d'une fiche tiers, désélectionnez simplement le nom du groupe en cliquant dessus \(il passera du vert au blanc\).
+:point_right: Pour détacher un groupe d'une fiche tiers, désélectionnez simplement le nom du groupe en cliquant dessus (il passera du vert au blanc).
 
-\*\*\*\*⚠ **N'oubliez pas d'enregistrer avant de fermer le formulaire.**
+****:warning: **N'oubliez pas d'enregistrer avant de fermer le formulaire.**
 
 
 
-💡 Depuis votre liste de tiers, vous pourrez activer le filtre d'un groupe, pour ne voir que les tiers affectés à ce groupe.
+:bulb: Depuis votre liste de tiers, vous pourrez activer le filtre d'un groupe, pour ne voir que les tiers affectés à ce groupe.
 
 ![](../../.gitbook/assets/screenshot-179-.png)
 
@@ -78,7 +81,6 @@ Vous pouvez affecter un ou plusieurs groupes à vos tiers, de sorte à mieux les
 
 ### Modifier ou supprimer un groupe
 
-👉 Depuis une liste de tiers : cliquez sur "Gérer les groupes", puis sur le groupe à modifier / supprimer.
+:point_right: Depuis une liste de tiers : cliquez sur "Gérer les groupes", puis sur le groupe à modifier / supprimer.
 
-👉 Depuis une fiche tiers : cliquez sur le crayon vert ![](../../.gitbook/assets/screenshot-161-.png), puis sélectionnez le groupe à modifier / supprimer.
-
+:point_right: Depuis une fiche tiers : cliquez sur le crayon vert ![](../../.gitbook/assets/screenshot-161-.png), puis sélectionnez le groupe à modifier / supprimer.

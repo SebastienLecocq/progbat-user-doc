@@ -4,17 +4,19 @@
 
 ![](../../.gitbook/assets/screenshot-59-.png)
 
-### 
+###
 
-### 1 Adresse du siège social
+### :digit_one: Adresse du siège social
 
 Le logiciel crée automatiquement une adresse fictive pour votre siège social lors de la création du compte. Vous devez bien sur mettre à jour cette adresse :
 
 * Ouvrez la section "Adresses".
 * Dans la liste, cliquez sur l'identifiant du siège social.
-* Mettez vos coordonnées à jour, et validez.
+*   Mettez vos coordonnées à jour, et validez.
 
-### 2 Créez des adresses pour des agences, ou des dépôts
+
+
+### :digit_two: Créez des adresses pour des agences, ou des dépôts
 
 Dans la même liste, en cliquant sur le bouton "Nouvelle adresse", vous pourrez créer autant d'adresses que d'établissements de votre entreprise.
 
@@ -23,7 +25,8 @@ Dans la même liste, en cliquant sur le bouton "Nouvelle adresse", vous pourrez 
 {% hint style="info" %}
 Le logiciel appliquera dans vos documents commerciaux l'adresse définie comme "Siège social"
 
-* Pour définir une adresse comme étant le siège social, cliquez sur le bouton "Mettre comme siège social"
+*   Pour définir une adresse comme étant le siège social, cliquez sur le bouton "Mettre comme siège social"
+
 
 * Cliquez sur "Mettre comme livraison par défaut" pour définir le site de livraison.
 {% endhint %}
@@ -45,23 +48,23 @@ Si vous avez supprimé ce saut de page, il est toujours possible de l'ajouter à
 
 ![](../../.gitbook/assets/screenshot-221-.png)
 
-💡 Si vous utilisez nos modèles de devis proposés par défaut pour imprimer/envoyer vos devis et factures, le contenu de ce cadre "Assurances et conditions générales" sera automatiquement affiché en fin de document, sans rien avoir à faire. Vous pourrez modifier cet affichage en [personnalisant vos modèles de document](../../les-plus-du-logiciel/modeles-de-document.md).
+:bulb: Si vous utilisez nos modèles de devis proposés par défaut pour imprimer/envoyer vos devis et factures, le contenu de ce cadre "Assurances et conditions générales" sera automatiquement affiché en fin de document, sans rien avoir à faire. Vous pourrez modifier cet affichage en [personnalisant vos modèles de document](../../les-plus-du-logiciel/modeles-de-document.md).
 
 
 
 ### Assurance professionnelle
 
-Depuis le 20/06/2014, il est obligatoire de mentionner sur tous vos devis et factures \(pour la France\) :
+Depuis le 20/06/2014, il est obligatoire de mentionner sur tous vos devis et factures (pour la France) :
 
 * Les références de votre assurance professionnelle
 * Les coordonnées de l'assureur
 * La couverture géographique de votre contrat.
 
-👉 Saisissez ces informations dans le cadre de conditions générales, sous le saut de page.
+:point_right: Saisissez ces informations dans le cadre de conditions générales, sous le saut de page.
 
 Si vous utilisez nos modèles proposés par défaut pour imprimer/envoyer vos devis et factures, vos donnée d'assurances seront automatiquement affichées au dessus de vos conditions générales de vente, sans rien avoir à faire.
 
-➡ Vous pourrez personnaliser cet affichage en [personnalisant vos modèles de document](../../les-plus-du-logiciel/modeles-de-document.md).
+:arrow_right: Vous pourrez personnaliser cet affichage en [personnalisant vos modèles de document](../../les-plus-du-logiciel/modeles-de-document.md).
 
 
 
@@ -73,5 +76,4 @@ Elles doivent être les plus claires et explicites possibles, dans votre intér�
 
 Si vous utilisez nos modèles proposés par défaut pour imprimer/envoyer vos devis et factures, vos conditions générales de vente seront automatiquement affichées en annexe, sans rien avoir à faire.
 
-➡ Vous pourrez personnaliser cet affichage en [personnalisant vos modèles de document](../../les-plus-du-logiciel/modeles-de-document.md).
-
+:arrow_right: Vous pourrez personnaliser cet affichage en [personnalisant vos modèles de document](../../les-plus-du-logiciel/modeles-de-document.md).

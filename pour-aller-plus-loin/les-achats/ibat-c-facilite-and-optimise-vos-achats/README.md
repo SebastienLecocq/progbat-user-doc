@@ -4,31 +4,35 @@
 
 
 
-☑ Tous vos fournisseurs et leurs tarifs seront disponibles sur iBAT©, y compris ceux négociés spécialement pour vous !
+:ballot_box_with_check: Tous vos fournisseurs et leurs tarifs seront disponibles sur iBAT©, y compris ceux négociés spécialement pour vous !
 
-​☑ Plus besoin de joindre les commerciaux de vos fournisseurs à tout prix, puisque vous commandez directement en ligne, et pouvez laisser des commentaires lors de la commande
+​:ballot_box_with_check: Plus besoin de joindre les commerciaux de vos fournisseurs à tout prix, puisque vous commandez directement en ligne, et pouvez laisser des commentaires lors de la commande
 
-​☑ Créez vos listes d’articles favoris à commander en 1 clic
+​:ballot_box_with_check: Créez vos listes d’articles favoris à commander en 1 clic
 
-​☑ Organisez-vous grâce au planning de livraisons
+​:ballot_box_with_check: Organisez-vous grâce au planning de livraisons
 
-☑ Géolocalisez des fournisseurs, pour les urgences
+:ballot_box_with_check: Géolocalisez des fournisseurs, pour les urgences
 
 {% hint style="success" %}
-* Moins de surfacturation subie
+*   Moins de surfacturation subie
 
-*  Maîtrise et optimisation de vos prix d’achats
+
+*    Maîtrise et optimisation de vos prix d’achats
+
 
 * Gain d'argent et de temps
 {% endhint %}
 
 **Tout cela, en totale interaction avec le logiciel !**
 
-\*\*\*\*
+****
 
-{% page-ref page="activer-ibat-c.md" %}
+{% content-ref url="activer-ibat-c.md" %}
+[activer-ibat-c.md](activer-ibat-c.md)
+{% endcontent-ref %}
 
-{% page-ref page="commander-avec-ibat-c.md" %}
-
-
+{% content-ref url="commander-avec-ibat-c.md" %}
+[commander-avec-ibat-c.md](commander-avec-ibat-c.md)
+{% endcontent-ref %}
 

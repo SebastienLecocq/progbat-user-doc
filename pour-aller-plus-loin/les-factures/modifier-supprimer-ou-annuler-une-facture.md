@@ -23,7 +23,7 @@ Une nouvelle facture est toujours créée en mode provisoire.
 
 ### Modification
 
-La modification d'une facture validée est très encadrée par la loi.   
+La modification d'une facture validée est très encadrée par la loi. \
 Toutes modifications apportées à une facture sont enregistrées, historisées et archivées, et visibles par l’administration en cas de contrôle fiscal.
 
 * Ouvrez la facture à modifier,
@@ -32,7 +32,7 @@ Toutes modifications apportées à une facture sont enregistrées, historisées 
 * La facture passe en mode correction, vous pouvez la modifier.
 * Une fois les modifications effectuées, finalisez à nouveau la facture.
 
-**La modification d'une facture ne permettra ni de la supprimer, ni de modifier son numéro ou encore de** [**modifier sa date**](valider-une-facture.md#modifier-la-date-de-la-facture) **d'émission.**
+**La modification d'une facture ne permettra ni de la supprimer, ni de modifier son numéro ou encore de **[**modifier sa date**](valider-une-facture.md#modifier-la-date-de-la-facture)** d'émission.**
 
 ## **Cas particuliers**
 
@@ -42,7 +42,7 @@ Toutes modifications apportées à une facture sont enregistrées, historisées 
 * La facture est une facture d'acompte, et une facture de travaux à déjà été réalisée pour ce chantier.
 * La facture est une facture d'avancement, et une facture d'avancement ultérieure a déjà été réalisée.
 * La facture a été réglée.
-  * Dans ce cas, il faut annuler le\(s\) règlement\(s\) avant de modifier ou annuler la facture.
+  * Dans ce cas, il faut annuler le(s) règlement(s) avant de modifier ou annuler la facture.
   * Attention, si la facture est dans un des cas précédent, annuler le règlement ne permettra pas de la modifier ou de l'annuler.
 
 ### Facture de test
@@ -50,5 +50,4 @@ Toutes modifications apportées à une facture sont enregistrées, historisées 
 * Une facture de test ne peut être ni modifiée, ni annulée, ni supprimée.
 * Pour faire disparaître les factures de test de la liste des factures, activez le filtre "Cacher les factures de test" à droite de la liste des factures.
 
-\*\*\*\*
-
+****

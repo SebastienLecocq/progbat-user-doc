@@ -4,7 +4,7 @@ description: 'Il est possible d''appliquer une remise à votre client de plusieu
 
 # Remises
 
-## 1 Remise globale
+## :digit_one: Remise globale
 
 ![](../../.gitbook/assets/screenshot-34c-.png)
 
@@ -17,16 +17,17 @@ Dans la case "Remise H.T" du pied du devis, vous pourrez saisir :
 Cette remise sera visible par le client dans le bloc des totaux, au pied du devis.
 {% endhint %}
 
-## 2 Remise par ligne
+## :digit_two: Remise par ligne
 
 ![](../../.gitbook/assets/screenshot-61-copie-.png)
 
 * Cliquez sur le symbole![](../../.gitbook/assets/screenshot-34b-.png)à gauche du prix unitaire
-* Saisissez le taux de remise à appliquer,_10% par exemple_, ou bien directement le prix unitaire remisé.
+*   Saisissez le taux de remise à appliquer,_10% par exemple_, ou bien directement le prix unitaire remisé.
+
+
 
 ![](../../.gitbook/assets/screenshot-31-.png)
 
 Si vous utilisez nos modèles proposés par défaut pour imprimer/envoyer vos devis, une colonne "Prix unitaire" et "Remise" seront automatiquement affichées pour mettre en valeur cette remise accordée.
 
-➡ Vous pourrez modifier cet affichage en [personnalisant vos modèles de document](../../les-plus-du-logiciel/modeles-de-document.md).
-
+:arrow_right: Vous pourrez modifier cet affichage en [personnalisant vos modèles de document](../../les-plus-du-logiciel/modeles-de-document.md).

@@ -30,7 +30,8 @@ La page de saisie des heures se présente sous la forme d'un tableau affichant t
 * Modifiez éventuellement les heures passées ce jour là.
 * Vous pouvez bien sur saisir 4 heures sur un chantier, et faire une nouvelle saisie de 4 heures le même jour pour la même personne, mais sur un autre chantier.
 * Enregistrez.
-* Chaque chantier se verra attribuer une couleur différente. En cliquant sur le bouton "Légende", vous affichez la liste des chantiers de la page, avec leurs couleurs respectives.
+* Chaque chantier se verra attribuer une couleur différente.\
+  En cliquant sur le bouton "Légende", vous affichez la liste des chantiers de la page, avec leurs couleurs respectives.
 
 ### Saisir plusieurs jours
 
@@ -69,7 +70,7 @@ Pour que vos salariés puissent saisir leurs heures, il faut leur en autoriser l
 
 ### L'application mobile
 
-![](../../.gitbook/assets/capture%20%286%29.png)
+![](<../../.gitbook/assets/capture (6).png>)
 
 L'interface de l'application mobile permet à chacun de vos compagnons :
 
@@ -80,11 +81,11 @@ L'interface de l'application mobile permet à chacun de vos compagnons :
   * Soit en cliquant sur le bouton "Saisir mes heures" de l'emploi du temps,
   * Soit en sélectionnant la date depuis le menu "Saisie des heures".
 
-#### 
+####
 
 ### Saisie des heures sur l'application mobile
 
-![](../../.gitbook/assets/screenshot_6.png)
+![](../../.gitbook/assets/screenshot\_6.png)
 
 Sur le panneau de saisie des heures, le compagnon peut renseigner différents éléments : 
 
@@ -105,7 +106,7 @@ Une fois les informations vérifiées, le compagnon n’a plus qu’à les enreg
 
 ### Contrôle de la saisie
 
-Toutes les heures saisies par vos compagnons sont affichées dans la page de saisie des heures \(menu Personnel -&gt; Saisie des heures\), en attente de validation.
+Toutes les heures saisies par vos compagnons sont affichées dans la page de saisie des heures (menu Personnel -> Saisie des heures), en attente de validation.
 
 * Vérifiez les heures saisies par vos compagnons,
 * Validez la saisie en bout de ligne.
@@ -115,9 +116,8 @@ Toutes les heures saisies par vos compagnons sont affichées dans la page de sai
 
 * Cliquez sur le bouton "Visualiser en liste".
 * Le planning est remplacé par la liste des heures travaillées.
-* Vous pouvez maintenant filtrer votre liste \(champs de recherche dans les entêtes de colonne\) pour afficher les heures d'un chantier, d'un salarié, d'une période, etc...
+* Vous pouvez maintenant filtrer votre liste (champs de recherche dans les entêtes de colonne) pour afficher les heures d'un chantier, d'un salarié, d'une période, etc...
 
 ## Exporter / imprimer les heures saisies
 
 Vous pouvez également imprimer ou exporter la liste filtrée, pour par exemple la transmettre à votre comptable ou votre société d'intérim pour la réalisation des fiches de paie.
-

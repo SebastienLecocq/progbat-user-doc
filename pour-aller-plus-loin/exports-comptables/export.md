@@ -1,7 +1,7 @@
 # Export
 
 {% hint style="info" %}
-💡 Avant de réaliser un export comptable, il est important de bien [**paramétrer votre plan comptable**](parametrage-1/).
+:bulb: Avant de réaliser un export comptable, il est important de bien [**paramétrer votre plan comptable**](parametrage-1/).
 {% endhint %}
 
 ![](../../.gitbook/assets/menu-export-comptable.png)
@@ -16,7 +16,7 @@ La page affiche la liste des exports comptables déjà réalisés
 
 ![](../../.gitbook/assets/creation-export.jpg)
 
-* Sélectionnez la période d'export, et le format du logiciel de comptabilité \(Quadratus, ACD, EBP, Coala, etc...\)
+* Sélectionnez la période d'export, et le format du logiciel de comptabilité (Quadratus, ACD, EBP, Coala, etc...)
 * Cliquez sur Prévisualiser.
   * Si vous avez sélectionné une période déjà exportée, le logiciel n'exportera que les pièces éventuellement ajoutées à cette période.
   * Le nombre de pièces exportées sur le nombre total des pièces de la période est précisé en tête de la prévisualisation.
@@ -43,6 +43,4 @@ Mais si vous souhaitez refaire l'extraction de cette période, suite à des modi
 Vous avez peut-être égaré le fichier d'export d'une période.
 
 Vous pouvez le régénérer, en cliquant simplement en bout de ligne sur la petite icône de téléchargement.
-
-
 

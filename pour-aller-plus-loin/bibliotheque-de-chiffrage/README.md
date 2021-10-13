@@ -12,29 +12,39 @@ La gestion d'une bibliothèque de prix pour le bâtiment est un peu plus complex
 * Recalculez automatiquement vos prix de vente par rapport à vos prix d'achat,
 * .....
 
-#### 
+####
 
 ### Le logiciel gère 2 bibliothèques bien distinctes, mais complémentaires :
 
 * **La bibliothèque d'éléments**, qui va regrouper tout ce qui "coûte" pour réaliser un chantier :
-  * Les fournitures \(matériaux par exemple\),
+  * Les fournitures (matériaux par exemple),
   * La main d'oeuvre,
   * La location de matériel,
-  * Les travaux confiés à des sous-traitants.
+  *   Les travaux confiés à des sous-traitants.
+
+
 * **La bibliothèque d'ouvrages**, qui va regrouper les travaux que vous allez vendre à vos clients.
   * C'est principalement cette bibliothèque qui vous servira à **créer vos devis de manière extrêmement rapide**
 
-\*\*\*\*
+****
 
-{% page-ref page="la-bibliotheque-delements.md" %}
+{% content-ref url="la-bibliotheque-delements.md" %}
+[la-bibliotheque-delements.md](la-bibliotheque-delements.md)
+{% endcontent-ref %}
 
-{% page-ref page="la-bibliotheque-douvrages/" %}
+{% content-ref url="la-bibliotheque-douvrages/" %}
+[la-bibliotheque-douvrages](la-bibliotheque-douvrages/)
+{% endcontent-ref %}
 
-{% page-ref page="importer/" %}
+{% content-ref url="importer/" %}
+[importer](importer/)
+{% endcontent-ref %}
 
-{% page-ref page="batichiffrage-c/" %}
+{% content-ref url="batichiffrage-c/" %}
+[batichiffrage-c](batichiffrage-c/)
+{% endcontent-ref %}
 
-{% page-ref page="../../les-plus-du-logiciel/bibliotheque-de-textes.md" %}
-
-
+{% content-ref url="../../les-plus-du-logiciel/bibliotheque-de-textes.md" %}
+[bibliotheque-de-textes.md](../../les-plus-du-logiciel/bibliotheque-de-textes.md)
+{% endcontent-ref %}
 

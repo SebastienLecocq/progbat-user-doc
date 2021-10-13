@@ -32,21 +32,21 @@ Le logiciel vous permet de bénéficier d'un système de composition "rapide", d
 
 
 
-1 Cliquez sur les 3 petits cubes  ![](../../.gitbook/assets/screenshot-117-.png) dans le menu de ligne, ou bien sur le nombre d'heures prévues
+:digit_one: Cliquez sur les 3 petits cubes  ![](../../.gitbook/assets/screenshot-117-.png) dans le menu de ligne, ou bien sur le nombre d'heures prévues
 
 ![](../../.gitbook/assets/screenshot-118-.png)
 
-2 Une composition "par défaut" s'affiche
+:digit_two: Une composition "par défaut" s'affiche
 
 ![](../../.gitbook/assets/screenshot-121c-.png)
 
-3 Renseignez le nombre d'heures \(et le montant estimé des dépenses en matériaux\), pour que le logiciel calcule le prix de vente de cet ouvrage
+:digit_three: Renseignez le nombre d'heures (et le montant estimé des dépenses en matériaux), pour que le logiciel calcule le prix de vente de cet ouvrage
 
-\_\_4 __Vérifiez ou modifiez les prix \(d'achat et de vente\) et/ou les marges
+__:digit_four:_ _Vérifiez ou modifiez les prix (d'achat et de vente) et/ou les marges
 
-💡 Le prix de vente de la main d'œuvre "par défaut" et la marge à appliquer "par défaut", peuvent être paramétrés en cliquant sur le petit crayon ![](../../.gitbook/assets/screenshot-122a-.png) à côté du prix de vente de la main d'oeuvre
+:bulb: Le prix de vente de la main d'œuvre "par défaut" et la marge à appliquer "par défaut", peuvent être paramétrés en cliquant sur le petit crayon ![](../../.gitbook/assets/screenshot-122a-.png) à côté du prix de vente de la main d'oeuvre
 
-5 Enregistrez. Le temps prévu s'affiche directement au devis.
+:digit_five: Enregistrez. Le temps prévu s'affiche directement au devis.
 
 
 
@@ -54,7 +54,7 @@ Le logiciel vous permet de bénéficier d'un système de composition "rapide", d
 
 Vous avez déjà enregistré votre ouvrage en bibliothèque, en le composant de lignes de matériaux et de main d'oeuvre.
 
-Lorsque vous intégrez cet ouvrage "composé" au devis, le temps prévu \(renseigné\) dans cet ouvrage s'affiche automatiquement, pour 1 unité \(1 m² par exemple\).
+Lorsque vous intégrez cet ouvrage "composé" au devis, le temps prévu (renseigné) dans cet ouvrage s'affiche automatiquement, pour 1 unité (1 m² par exemple).
 
 ![](../../.gitbook/assets/screenshot-119ca-.png)
 
@@ -68,5 +68,4 @@ Vous pouvez bien sûr modifier ce temps, et même toute votre composition : proc
 
 La saisie des temps et des dépenses en matériaux prévus vont vous permettre d'alimenter [la synthèse du devis](synthese-du-devis.md), afin de contrôler votre prévisionnel avant de valider le devis.
 
-Selon votre licence, vous pourrez également saisir vos achats et vos temps de main d'oeuvre \(et bénéficier de toutes les statistiques de la [page travaux](../les-chantiers-1/la-fiche-chantier-en-detail.md#onglet-travaux)\) pour suivre en temps réel la rentabilité de vos chantiers.
-
+Selon votre licence, vous pourrez également saisir vos achats et vos temps de main d'oeuvre (et bénéficier de toutes les statistiques de la [page travaux](../les-chantiers-1/la-fiche-chantier-en-detail.md#onglet-travaux)) pour suivre en temps réel la rentabilité de vos chantiers.

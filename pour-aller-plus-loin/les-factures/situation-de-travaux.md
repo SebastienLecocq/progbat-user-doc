@@ -14,57 +14,59 @@ La facture d'acompte correspond à une somme d'argent versée par le client avan
 Comptablement et fiscalement, **la facture d'acompte n'est pas du chiffre d'affaires**
 {% endhint %}
 
-Lorsque les travaux ont débuté, et que l'on souhaite établir une facture intermédiaire pour obtenir un règlement, il faut réaliser une [facture d'avancement](situation-de-travaux.md) \(ou situation de travaux\). Cette facture détaille les travaux à réaliser, en appliquant à chaque ligne un pourcentage d'avancement, qui déterminera le montant de la facture et du règlement attendu.
+Lorsque les travaux ont débuté, et que l'on souhaite établir une facture intermédiaire pour obtenir un règlement, il faut réaliser une [facture d'avancement](situation-de-travaux.md) (ou situation de travaux). Cette facture détaille les travaux à réaliser, en appliquant à chaque ligne un pourcentage d'avancement, qui déterminera le montant de la facture et du règlement attendu.
 
 {% hint style="warning" %}
-**La réalisation de factures d'acompte, en cours de chantier, n'est pas légale \(en France\).**
+**La réalisation de factures d'acompte, en cours de chantier, n'est pas légale (en France).**
 {% endhint %}
 
-\*\*\*\*
+****
 
 ## Réaliser la première situation de travaux
 
-1 Créez une facture de travaux :
+:digit_one: Créez une facture de travaux :
 
-👉 A partir d'un devis : Cliquez sur le bouton "Facturer" à droite de la page, puis "Facture de travaux"
+:point_right: A partir d'un devis : Cliquez sur le bouton "Facturer" à droite de la page, puis "Facture de travaux"
 
-![](../../.gitbook/assets/screenshot-153b-%20%281%29.png)
+![](<../../.gitbook/assets/screenshot-153b- (1).png>)
 
-👉 Ou bien, ouvrez la liste des factures, cliquez sur le bouton "Nouvelle facture", puis "Facture de travaux à partir d'un devis". Recherchez le devis à facturer, et validez.
+:point_right: Ou bien, ouvrez la liste des factures, cliquez sur le bouton "Nouvelle facture", puis "Facture de travaux à partir d'un devis". Recherchez le devis à facturer, et validez.
 
 ![](../../.gitbook/assets/screenshot-154b-.png)
 
-👉 Ou encore, ouvrez la facture d'acompte, et cliquez sur le bouton "Facture de travaux" à droite de la page
+:point_right: Ou encore, ouvrez la facture d'acompte, et cliquez sur le bouton "Facture de travaux" à droite de la page
 
 ![](../../.gitbook/assets/screenshot-157-.png)
 
-2 Ouvrez l'onglet "Lignes" de la facture
+:digit_two: Ouvrez l'onglet "Lignes" de la facture
 
-Dans la colonne![](../../.gitbook/assets/screenshot-158-.png)\(pourcentage d'avancement\), vous remarquerez que tous les avancements sont à 100, donc 100%
+Dans la colonne![](../../.gitbook/assets/screenshot-158-.png)(pourcentage d'avancement), vous remarquerez que tous les avancements sont à 100, donc 100%
 
 
 
-3 Vous pouvez saisir vos avancements en pourcentage, [en valeur](situation-de-travaux.md#saisir-les-avancements-en-valeur), ou [en quantité](situation-de-travaux.md#saisir-les-avancements-en-quantite).
+:digit_three: Vous pouvez saisir vos avancements en pourcentage, [en valeur](situation-de-travaux.md#saisir-les-avancements-en-valeur), ou [en quantité](situation-de-travaux.md#saisir-les-avancements-en-quantite).
 
-* Modifiez l'avancement pour chaque ligne, entre 0 et 100 :
+*   Modifiez l'avancement pour chaque ligne, entre 0 et 100 :
 
-  👉 0 = les travaux de cette ligne n'ont pas encore été commencés
+    :point_right: 0 = les travaux de cette ligne n'ont pas encore été commencés
 
-  👉 100 = les travaux de cette ligne sont terminés
+    :point_right: 100 = les travaux de cette ligne sont terminés
 
-* Appliquez le même avancement à toutes les lignes d'un titre ou d'un sous-titre en le sélectionnant, et en cliquant sur le petit crayon bleu ![](../../.gitbook/assets/screenshot-160-.png) dans la colonne d'avancement
 
-* Appliquez le même avancement à tout le document :
+*   Appliquez le même avancement à toutes les lignes d'un titre ou d'un sous-titre en le sélectionnant, et en cliquant sur le petit crayon bleu ![](../../.gitbook/assets/screenshot-160-.png) dans la colonne d'avancement
 
-  👉 Cliquez sur le bouton ![](../../.gitbook/assets/screenshot-158a-.png) en haut de colonne
 
-  👉 Ou bien, depuis l'onglet "Pied" de la facture, cliquez sur le crayon vert ![](../../.gitbook/assets/screenshot-161-.png) à droite de la case d'avancement.
+*   Appliquez le même avancement à tout le document :
+
+    :point_right: Cliquez sur le bouton ![](../../.gitbook/assets/screenshot-158a-.png) en haut de colonne
+
+    :point_right: Ou bien, depuis l'onglet "Pied" de la facture, cliquez sur le crayon vert ![](../../.gitbook/assets/screenshot-161-.png) à droite de la case d'avancement.
 
 Le logiciel se charge de réaliser les calculs nécessaires.
 
 
 
-4 Vérifiez les données de l'onglet "Pied" de votre facture, modifiez / ajoutez des données **uniquement** si nécessaire \(saisir d'une déduction pour [compte prorata](../deductions-complementaires/le-compte-prorata.md#dans-la-facture) par exemple\).
+:digit_four: Vérifiez les données de l'onglet "Pied" de votre facture, modifiez / ajoutez des données **uniquement **si nécessaire (saisir d'une déduction pour [compte prorata](../deductions-complementaires/le-compte-prorata.md#dans-la-facture) par exemple).
 
 Si vous aviez réalisé une facture d'acompte, la totalité de l'acompte sera déduite de la première situation de travaux. Si vous le souhaitez, vous pourrez [déduire l'acompte partiellement](la-facture-dacompte.md#deduction-partielle-de-lacompte).
 
@@ -72,22 +74,24 @@ Si vous aviez réalisé une facture d'acompte, la totalité de l'acompte sera d�
 
 ## Réaliser les situations suivantes
 
-Pour la prochaine facture \(intermédiaire ou finale\) :
+Pour la prochaine facture (intermédiaire ou finale) :
 
-👉 Ouvrez la dernière situation, et cliquez sur "Nouvelle situation" à droite de la page
+:point_right: Ouvrez la dernière situation, et cliquez sur "Nouvelle situation" à droite de la page
 
-👉 ****Ou bien, ouvrez la liste des factures, cliquez sur le bouton "Nouvelle facture", puis "Facture de travaux à partir d'une situation". Recherchez la dernière situation réalisée pour ce chantier, et validez.
+:point_right:** **Ou bien, ouvrez la liste des factures, cliquez sur le bouton "Nouvelle facture", puis "Facture de travaux à partir d'une situation". Recherchez la dernière situation réalisée pour ce chantier, et validez.
 
 
 
-\*\*\*\*⚠ **Il faut toujours saisir l'avancement total de la ligne au jour de la situation**, le logiciel fera les calculs nécessaires pour déduire la situation précédente.
+****:warning: **Il faut toujours saisir l'avancement total de la ligne au jour de la situation**, le logiciel fera les calculs nécessaires pour déduire la situation précédente.
 
 Exemple :
 
 * Vous avez saisi 35 % d'avancement en situation 1
 * Si vous saisissez 60% à la situation 2, le logiciel facturera 60 - 35, soit 25%
 * Et si vous saisissez 100% à la situation 3, le logiciel facturera 100 - 60, soit 40%
-* Au total, vous aurez facturé 35% + 25% + 40%, soit 100% du chantier. Le compte est bon.
+*   Au total, vous aurez facturé 35% + 25% + 40%, soit 100% du chantier. Le compte est bon.
+
+
 
 ## Saisir les avancements en valeur
 
@@ -98,7 +102,7 @@ Mais vous pouvez saisir le **montant** de l'avancement, plutôt que son pourcent
 Le pourcentage d'avancement correspondant sera automatiquement calculé.
 
 {% hint style="info" %}
-🔔 Le pourcentage d'avancement sera toujours affiché avec 2 décimales, bien que le logiciel tienne compte de toute la précision. Il peut donc y avoir des écarts de centimes si vous refaites manuellement le calcul. 
+:bell: Le pourcentage d'avancement sera toujours affiché avec 2 décimales, bien que le logiciel tienne compte de toute la précision. Il peut donc y avoir des écarts de centimes si vous refaites manuellement le calcul. 
 
 Par exemple :
 
@@ -109,7 +113,7 @@ Par exemple :
 
 En réalité, le logiciel applique le taux d'avancement complet, soit ‭‭43.84426517011575 ‬%
 
-Si un client vous fait remarquer que les montants sont "faux", vous pourrez lui en donner l'explication 😉 
+Si un client vous fait remarquer que les montants sont "faux", vous pourrez lui en donner l'explication :wink: 
 {% endhint %}
 
 ## Saisir les avancements en quantité
@@ -122,7 +126,8 @@ Voici comment procéder :
 
 Vous devez par exemple facturer  132 m²  sur  534 m²  prévus au marché, au prix unitaire de 48.58 € :
 
-* Dans la colonne![](../../.gitbook/assets/screenshot-158b-.png), saisissez 132\*48.58, c'est à dire la quantité réalisée par le prix unitaire
+*   Dans la colonne![](../../.gitbook/assets/screenshot-158b-.png), saisissez 132\*48.58, c'est à dire la quantité réalisée par le prix unitaire
+
 
 * Le logiciel affichera immédiatement 6412.56 dans la colonne![](../../.gitbook/assets/screenshot-158b-.png), et 24.72 dans la colonne ![](../../.gitbook/assets/screenshot-158-.png) 
 
@@ -132,15 +137,14 @@ Vous devez par exemple facturer  132 m²  sur  534 m²  prévus au marché, au p
 
 ### Dans le modèle de facture :
 
-1 Ouvrez le menu "Administration &gt; Modèles de documents", cliquez sur la section "Factures"
+:digit_one: Ouvrez le menu "Administration > Modèles de documents", cliquez sur la section "Factures"
 
-2 Ouvrez ou [créez votre modèle personnalisé](../../les-plus-du-logiciel/modeles-de-document.md#creer-un-modele) de facture
+:digit_two: Ouvrez ou [créez votre modèle personnalisé](../../les-plus-du-logiciel/modeles-de-document.md#creer-un-modele) de facture
 
-3 Cliquez sur la section "Corps du document" \(celle indiquant les lignes d'ouvrages et leur prix\)
+:digit_three: Cliquez sur la section "Corps du document" (celle indiquant les lignes d'ouvrages et leur prix)
 
-4 A droite de la page, ajoutez la colonne "Quantité réalisée"
+:digit_four: A droite de la page, ajoutez la colonne "Quantité réalisée"
 
 Cette colonne, uniquement visible dans une situation de travaux, affichera la quantité réalisée, c'est à dire 132 m² dans notre exemple.
 
 ![](../../.gitbook/assets/screenshot-163a-.png)
-

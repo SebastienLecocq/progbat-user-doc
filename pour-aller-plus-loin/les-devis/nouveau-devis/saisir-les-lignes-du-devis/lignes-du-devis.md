@@ -6,27 +6,29 @@ Vous avez créé votre devis, vous avez [créé un titre](titres_devis.md#creer-
 
 
 
-## 1Créer une ligne de devis
+## :digit_one:Créer une ligne de devis
 
 Dans une ligne de devis, vous allez pouvoir saisir :
 
-* **Le plus souvent, des ouvrages**
+*   **Le plus souvent, des ouvrages**
 
-  _Exemple :_  "Fourniture et mise en œuvre d'une cloison…", "Mise en peinture d'un plafond…", "Fourniture et pose d'un WC suspendu", …
+    _Exemple :  _"Fourniture et mise en œuvre d'une cloison…", "Mise en peinture d'un plafond…", "Fourniture et pose d'un WC suspendu", …
 
-* **Des fournitures**
 
-  _Exemple :_  "Fourniture seule d'une cabine de douche, hors pose et mise en service", …
+*   **Des fournitures**
 
-* **De la main d'oeuvre**
+    _Exemple :  _"Fourniture seule d'une cabine de douche, hors pose et mise en service", …
 
-  _Exemple :_  "Mise à disposition de main d'oeuvre spécialisée…", ... 
+
+*   **De la main d'oeuvre**
+
+    _Exemple :  _"Mise à disposition de main d'oeuvre spécialisée…", ... 
 
 ![](../../../../.gitbook/assets/screenshot-105c-.png)
 
-👉 Cliquez directement sur le bouton "Ajouter", ou bien passez par le menu "Ajouter" et cliquez sur "Une ligne".
+:point_right: Cliquez directement sur le bouton "Ajouter", ou bien passez par le menu "Ajouter" et cliquez sur "Une ligne".
 
-Le logiciel crée une nouvelle ligne dans le titre ou le sous-titre actif \(fond bleu\).
+Le logiciel crée une nouvelle ligne dans le titre ou le sous-titre actif (fond bleu).
 
 {% hint style="info" %}
 Consultez les [méthodes de saisie](methodes-de-saisie.md) pour plus de rapidité dans vos chiffrages.
@@ -34,9 +36,9 @@ Consultez les [méthodes de saisie](methodes-de-saisie.md) pour plus de rapidit�
 
 
 
-## 2 Créer une ligne de commentaire
+## :digit_two: Créer une ligne de commentaire
 
-Il arrive que vous ayez besoin de saisir un texte explicatif, ou un commentaire dans votre devis.   
+Il arrive que vous ayez besoin de saisir un texte explicatif, ou un commentaire dans votre devis. \
 Dans ce cas, cliquez sur "Un commentaire" dans le menu du bouton "Ajouter".
 
 ![](../../../../.gitbook/assets/screenshot-105d-.png)
@@ -48,7 +50,7 @@ Une ligne de commentaire :
 
 
 
-## 3 Créer un saut de page
+## :digit_three: Créer un saut de page
 
 Aérez votre devis en utilisant le saut de page.
 
@@ -59,10 +61,9 @@ A l'impression, le logiciel passera à la page suivante en rencontrant la ligne 
 
 
 {% hint style="info" %}
-* Pour aérer votre devis, vous pouvez ajouter une ligne de commentaire vide, après chaque titre, sous-titre ou ligne d'ouvrage.
+*   Pour aérer votre devis, vous pouvez ajouter une ligne de commentaire vide, après chaque titre, sous-titre ou ligne d'ouvrage.
+
 
 * Comment utiliser l'[éditeur de lignes ](mise-en-forme-des-lignes-traitement-de-texte.md)?
 {% endhint %}
-
-
 

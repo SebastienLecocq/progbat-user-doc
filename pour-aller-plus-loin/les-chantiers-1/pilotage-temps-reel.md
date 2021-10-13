@@ -14,17 +14,20 @@ Ce petit outil graphique, extrêmement simple à utiliser, permet de s'assurer, 
 
 ### Le pilote met en évidence :
 
-\*\*\*\*👉 **Les achats de matériaux sont pratiquement à 100%, alors que le chantier n'est qu'à 70% d'avancement :**
+****:point_right: **Les achats de matériaux sont pratiquement à 100%, alors que le chantier n'est qu'à 70% d'avancement :**
 
 * Si tous les matériaux pour ce chantier ont déjà été achetés, tout est normal, puisque je n'aurais plus d'achat à faire jusqu'à la fin.
-* Sinon, il faut s'inquiéter sur ce problème.
+*   Sinon, il faut s'inquiéter sur ce problème.
 
-\*\*\*\*👉 **84% de la main d'œuvre prévue a déjà été utilisée :**
+
+
+****:point_right: **84% de la main d'œuvre prévue a déjà été utilisée :**
 
 * Si le chantier nécessitait plus de monde au début qu'à la fin, cet écart peut être normal.
-* Sinon, il faut là aussi s'inquiéter, le chantier est en train de déraper.
+*   Sinon, il faut là aussi s'inquiéter, le chantier est en train de déraper.
+
+
 
 {% hint style="info" %}
 Que ces écarts soient justifiés ou non, le **pilotage temps réel** alerte immédiatement le responsable du chantier sur un éventuel dérapage, et met en évidence l'évolution des dépenses par rapport aux prévisions.
 {% endhint %}
-

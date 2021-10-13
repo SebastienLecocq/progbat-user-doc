@@ -10,7 +10,7 @@ En cliquant sur la petite cloche, les notifications s'affichent.
 
 
 
-### 1 Facture en retard de paiement
+### :digit_one: Facture en retard de paiement
 
 ![](../.gitbook/assets/screenshot-129-.png)
 
@@ -20,22 +20,22 @@ En cliquant sur la petite cloche, les notifications s'affichent.
 
 
 
-### 2 Attestation de TVA en attente de réception
+### :digit_two: Attestation de TVA en attente de réception
 
 ![](../.gitbook/assets/screenshot-130-.png)
 
 * Cliquez sur la notification pour afficher la liste des attestations de TVA
 * La notification restera active tant que vous n'aurez pas coché la case "Retour client"
 
-💡 En faisant [signer électroniquement l'attestation de TVA](signature-electronique/envoyer-une-attestation-de-tva-en-signature-electronique.md), en même temps que le devis ou non, la validation du retour client est automatique et vous est notifiée via cette même cloche.
+:bulb: En faisant [signer électroniquement l'attestation de TVA](signature-electronique/envoyer-une-attestation-de-tva-en-signature-electronique.md), en même temps que le devis ou non, la validation du retour client est automatique et vous est notifiée via cette même cloche.
 
 
 
-### 3 Signature électronique validée, d'un devis et/ou d'une attestation de TVA
+### :digit_three: Signature électronique validée, d'un devis et/ou d'une attestation de TVA
 
 ![](../.gitbook/assets/screenshot-133-.png)
 
-\(cf [signature électronique](signature-electronique/)\)
+(cf [signature électronique](signature-electronique/))
 
 * Cliquez sur la notification pour afficher le devis, le statut du devis est automatiquement passé à "Accepté".
 * Le devis signé se trouve dans l'onglet [ProGBox](progbox-archivage-de-documents.md) du devis
@@ -43,17 +43,15 @@ En cliquant sur la petite cloche, les notifications s'affichent.
 
 
 
-### 4 Restitution de la retenue de garantie
+### :digit_four: Restitution de la retenue de garantie
 
 ![](../.gitbook/assets/screenshot-132-.png)
 
-\(cf gestion des [retenues de garantie](../pour-aller-plus-loin/deductions-complementaires/retenue-de-garantie.md#gerer-les-retenues-de-garantie)\)
+(cf gestion des [retenues de garantie](../pour-aller-plus-loin/deductions-complementaires/retenue-de-garantie.md#gerer-les-retenues-de-garantie))
 
-* Si vous avez bien renseigné la date de réception des travaux, et la durée de la retenue de garantie, une notification apparaîtra 15 jours avant terme. \(généralement 12 mois après la date de réception\)
+* Si vous avez bien renseigné la date de réception des travaux, et la durée de la retenue de garantie, une notification apparaîtra 15 jours avant terme. (généralement 12 mois après la date de réception)
 * En cliquant sur la notification, vous pourrez immédiatement générer le courrier de demande de libération
 * Dès le remboursement de la retenue de garantie saisi, la notification disparaîtra.
-
-
 
 
 

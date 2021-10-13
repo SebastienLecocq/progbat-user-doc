@@ -16,7 +16,7 @@ Après avoir terminé et contrôlé votre facture provisoire, vous pouvez la "[F
 
 Vous avez terminé et contrôlé votre facture provisoire, vous devez maintenant la "Finaliser".
 
-Cette action a pour but de donner à cette facture une date, un numéro et une échéance définitifs, et de l'intégrer dans le calcul de votre chiffre d'affaire.  
+Cette action a pour but de donner à cette facture une date, un numéro et une échéance définitifs, et de l'intégrer dans le calcul de votre chiffre d'affaire.\
 Cette facture validée pourra être transmise à votre client, pour règlement.
 
 {% hint style="info" %}
@@ -30,9 +30,9 @@ Finaliser une facture provisoire est très simple :
 * Ouvrez la facture provisoire
 * Cliquez sur le bouton vert "Prévisualiser / Finaliser" en haut à droite de la page
 
-![](../../.gitbook/assets/capture%20%2825%29.png)
+![](<../../.gitbook/assets/capture (25).png>)
 
-* Votre facture s'affiche en pdf, avec la mention "Provisoire" en filigrane \(obligation légale\).
+* Votre facture s'affiche en pdf, avec la mention "Provisoire" en filigrane (obligation légale).
 * Changez si besoin le [modèle de facture](../../les-plus-du-logiciel/modeles-de-document.md),
 * Cliquez sur le bouton vert "Finaliser la facture".
   * Vérifiez et modifiez éventuellement la date de la facture.
@@ -53,9 +53,9 @@ Par exemple, si la dernière facture réalisée sur le logiciel est datée du 30
 
 Dans certains cas, vous pourriez malgré tout être amené à contourner la règle, par exemple pour facturer une situation de travaux le 25 du mois, alors que vous avez déjà réalisé des factures de travaux depuis.
 
-Le logiciel permet de modifier la date réglementaire d'une facture, dans les limites suivantes :  
-  
-**Il n'est pas possible** 
+Le logiciel permet de modifier la date réglementaire d'une facture, dans les limites suivantes :\
+\
+**Il n'est pas possible **
 
 * **de saisir une date ultérieure à la date du jour**
 * **de saisir une date antérieure à la dernière facture exportée en comptabilité**
@@ -72,12 +72,12 @@ _**Il est important de savoir que ces modifications restent contraires à la ré
 _**Attention, le préfixage est à utiliser dans des cas très particuliers, vous ne devez généralement pas utiliser cette fonction.**_
 {% endhint %}
 
-Vous avez besoin de gérer plusieurs séries de facturation, selon qu'il s'agisse de dépannages ou de travaux par exemple.  
+Vous avez besoin de gérer plusieurs séries de facturation, selon qu'il s'agisse de dépannages ou de travaux par exemple.\
 Au moment de la finalisation de la facture :
 
 * Le logiciel affiche automatiquement le numéro de la facture.
 * En cochant la case "Préfixer le n° de facture", un champ apparaît devant le numéro de facture.
-* Ajouter le préfixe souhaité \(par exemple "TRV" pour les factures de travaux, "DEP" pour les factures de dépannage, ...\).
+* Ajouter le préfixe souhaité (par exemple "TRV" pour les factures de travaux, "DEP" pour les factures de dépannage, ...).
 * Important : le compteur de numérotation de la facture sera modifié en fonction du préfixe, pour avoir une continuité de numérotation par série.
 
 ![](../../.gitbook/assets/prefixe_facture.png)
@@ -89,8 +89,6 @@ Pour répondre à la réglementation, les factures que vous envoyez à vos clien
 Le logiciel archive automatiquement le pdf de chaque facture validée dans la [ProGBox](../../les-plus-du-logiciel/progbox-archivage-de-documents.md#archivage-des-factures-clients), dans le dossier ".factures".
 
 Vous pouvez maintenant [imprimer](imprimer-une-facture.md) ou envoyer votre facture par mail à votre client.
-
-
 
 
 

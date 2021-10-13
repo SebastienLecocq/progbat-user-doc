@@ -9,10 +9,9 @@
   * L'extension sera ajoutée au compte d'achat ou de vente, afin de ventiler vos achats et vos ventes par taux de TVA.
 
 {% hint style="info" %}
-💡 Au moment de l'export comptable, le "Code vente", par exemple 7071, sera complété par l'extension du compte de vente, en fonction du taux de TVA de la ligne dans la facture.
+:bulb: Au moment de l'export comptable, le "Code vente", par exemple 7071, sera complété par l'extension du compte de vente, en fonction du taux de TVA de la ligne dans la facture.
 
 Si l'extension TVA à 10% est paramétrée à 1000 par exemple, et que la ligne est facturée à 10% de TVA, le code comptable utilisé sera 70711000.
 
 Ainsi, avec un seul code, vous obtenez toutes les ventilations possibles par taux de TVA.
 {% endhint %}
-

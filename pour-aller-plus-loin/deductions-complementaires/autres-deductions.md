@@ -12,17 +12,17 @@ Le montant de la prime doit être clairement affiché, et être déduit du total
 
 ## Saisir le montant de la prime
 
-1 Ouvrez le pied du devis
+:digit_one: Ouvrez le pied du devis
 
-2 Cliquez sur le petit crayon du champ "Déductions" 
+:digit_two: Cliquez sur le petit crayon du champ "Déductions" 
 
 ![](../../.gitbook/assets/screenshot-149-.png)
 
-3 Saisissez une nouvelle déduction, par exemple :
+:digit_three: Saisissez une nouvelle déduction, par exemple :
 
 ![](../../.gitbook/assets/screenshot-150c-.png)
 
-4 Enregistrez.
+:digit_four: Enregistrez.
 
 La prime est déduite du total TTC, le net à payer pour ce devis est de 1 euro.
 
@@ -34,9 +34,9 @@ La prime est déduite du total TTC, le net à payer pour ce devis est de 1 euro.
 
 ### **Préparez un texte pré-enregistré**
 
-1 Ouvrez le menu "Bibliothèque &gt; Textes"
+:digit_one: Ouvrez le menu "Bibliothèque > Textes"
 
-2 Créez un nouveau texte :
+:digit_two: Créez un nouveau texte :
 
 * Identifiant : "Prime énergie"
 * Libellé : "_Le texte réglementaire demandé par votre organisme de financement_".
@@ -45,11 +45,10 @@ La prime est déduite du total TTC, le net à payer pour ce devis est de 1 euro.
 
 ### **Ajoutez la mention au devis**
 
-1 Cliquez sur "Modifier les conditions de règlement" dans le pied du devis
+:digit_one: Cliquez sur "Modifier les conditions de règlement" dans le pied du devis
 
-2 Placez-vous à la fin du texte de vos conditions de règlement, et cherchez le texte "Prime énergie" dans les textes pré-enregistrés
+:digit_two: Placez-vous à la fin du texte de vos conditions de règlement, et cherchez le texte "Prime énergie" dans les textes pré-enregistrés
 
 ![](../../.gitbook/assets/screenshot-151a-.png)
 
 Le texte est immédiatement inséré, et facilitera l'acceptation du dossier de votre client.
-

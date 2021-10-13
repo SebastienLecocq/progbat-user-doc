@@ -5,18 +5,18 @@ BatiChiffrage© est le premier éditeur de base de prix pour le bâtiment sur le
 Les bibliothèques BatiChiffrage© sont 100% compatibles avec votre logiciel.
 
 {% hint style="info" %}
-💡 Une bibliothèque de prix permet de commencer ou améliorer vos chiffrages tout en constituant votre propre bibliothèque de travail.
+:bulb: Une bibliothèque de prix permet de commencer ou améliorer vos chiffrages tout en constituant votre propre bibliothèque de travail.
 {% endhint %}
 
 ## Acheter une bibliothèque BatiChiffrage©
 
-Le logiciel propose une bibliothèque de démonstration de 750 ouvrages, en ouvrant le menu "Bibliothèque" &gt; "Tarifs BTP".
+Le logiciel propose une bibliothèque de démonstration de 750 ouvrages, en ouvrant le menu "Bibliothèque" > "Tarifs BTP".
 
 Vous pouvez acquérir une bibliothèque BatiChiffrage© Gros oeuvre, Second oeuvre, Génie climatique, Electricité, Aménagements extérieurs, Multiservices ou Tous corps d'état regroupant les 5 premiers volumes.
 
-Pour cela, rendez-vous sous le menu "Administration" &gt; "Ma boutique" &gt; "Produits et services" ou contactez votre revendeur.
+Pour cela, rendez-vous sous le menu "Administration" > "Ma boutique" > "Produits et services" ou contactez votre revendeur.
 
-La bibliothèque sera mise à disposition sous le même accès "Bibliothèque" &gt; "Tarifs BTP".
+La bibliothèque sera mise à disposition sous le même accès "Bibliothèque" > "Tarifs BTP".
 
 ## Un concept unique d'intégration
 
@@ -28,7 +28,7 @@ Importez les ouvrages BatiChiffrage© au fur et à mesure de vos besoins, et con
 
 Dès qu'un ouvrage est importé, il est immédiatement accessible dans votre bibliothèque personnelle, modifiable et/ou utilisable dans vos devis et factures.
 
-{% page-ref page="utiliser-batichiffrage-c-au-quotidien.md" %}
-
-
+{% content-ref url="utiliser-batichiffrage-c-au-quotidien.md" %}
+[utiliser-batichiffrage-c-au-quotidien.md](utiliser-batichiffrage-c-au-quotidien.md)
+{% endcontent-ref %}
 

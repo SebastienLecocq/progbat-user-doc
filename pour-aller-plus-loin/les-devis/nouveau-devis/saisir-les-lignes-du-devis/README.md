@@ -8,13 +8,22 @@
 
 
 
-{% page-ref page="titres\_devis.md" %}
+{% content-ref url="titres_devis.md" %}
+[titres_devis.md](titres_devis.md)
+{% endcontent-ref %}
 
-{% page-ref page="lignes-du-devis.md" %}
+{% content-ref url="lignes-du-devis.md" %}
+[lignes-du-devis.md](lignes-du-devis.md)
+{% endcontent-ref %}
 
-{% page-ref page="methodes-de-saisie.md" %}
+{% content-ref url="methodes-de-saisie.md" %}
+[methodes-de-saisie.md](methodes-de-saisie.md)
+{% endcontent-ref %}
 
-{% page-ref page="mise-en-forme-des-lignes-traitement-de-texte.md" %}
+{% content-ref url="mise-en-forme-des-lignes-traitement-de-texte.md" %}
+[mise-en-forme-des-lignes-traitement-de-texte.md](mise-en-forme-des-lignes-traitement-de-texte.md)
+{% endcontent-ref %}
 
-{% page-ref page="../le-menu-de-lignes.md" %}
-
+{% content-ref url="../le-menu-de-lignes.md" %}
+[le-menu-de-lignes.md](../le-menu-de-lignes.md)
+{% endcontent-ref %}
