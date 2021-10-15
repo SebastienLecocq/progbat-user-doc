@@ -40,7 +40,15 @@ En plus de vous permettre l'accès à vos [fiches tiers](../les-clients/la-fiche
 
     :bulb: En cas de doute sur l'ordre des tris, désélectionnez tous les tris et recommencez.
 
+:warning: **Attention**, le tri est réalisé dans l'ordre dans lequel vous l'activez :
 
+Si vous triez la colonne Identifiant, puis la colonne Ville, la liste sera triée d'abord par Identifiant, puis par Ville.
+
+Ceci peut donner parfois l'impression que le tri ne fonctionne pas.
+
+****:point_right: **En cas de doute sur l'ordre des tris, désélectionnez tous les tris et recommencez.**
+
+****
 
 ### :digit_three: Les filtres
 
