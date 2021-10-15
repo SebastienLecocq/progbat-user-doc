@@ -1,16 +1,24 @@
-# Chantiers
+# 👷 Chantiers
 
 ![](../../.gitbook/assets/chantiers-acces-rapide.png)
 
-{% page-ref page="pourquoi-creer-un-chantier.md" %}
+{% content-ref url="pourquoi-creer-un-chantier.md" %}
+[pourquoi-creer-un-chantier.md](pourquoi-creer-un-chantier.md)
+{% endcontent-ref %}
 
-{% page-ref page="creer-un-chantier.md" %}
+{% content-ref url="creer-un-chantier.md" %}
+[creer-un-chantier.md](creer-un-chantier.md)
+{% endcontent-ref %}
 
-{% page-ref page="la-fiche-chantier-en-detail.md" %}
+{% content-ref url="la-fiche-chantier-en-detail.md" %}
+[la-fiche-chantier-en-detail.md](la-fiche-chantier-en-detail.md)
+{% endcontent-ref %}
 
-{% page-ref page="pilotage-temps-reel.md" %}
+{% content-ref url="pilotage-temps-reel.md" %}
+[pilotage-temps-reel.md](pilotage-temps-reel.md)
+{% endcontent-ref %}
 
-{% page-ref page="planning-de-chantiers.md" %}
-
-
+{% content-ref url="planning-de-chantiers.md" %}
+[planning-de-chantiers.md](planning-de-chantiers.md)
+{% endcontent-ref %}
 

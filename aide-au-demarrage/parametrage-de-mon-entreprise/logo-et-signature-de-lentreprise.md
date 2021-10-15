@@ -25,7 +25,7 @@
 
 Si vous utilisez nos modèles proposés par défaut pour imprimer/envoyer vos devis et factures, votre logo sera automatiquement affiché, sans rien avoir à faire.
 
-:arrow_right: Vous pourrez ajouter des logos supplémentaires (certifications par exemple) en [personnalisant vos modèles de document](../../les-plus-du-logiciel/modeles-de-document.md), mais ils ne s'afficheront à l'impression/envoi du devis ou de la facture que si l'option "[Galerie d'images](../../les-plus-du-logiciel/galerie-dimages.md)" a été souscrite.
+:arrow_right: Vous pourrez ajouter des logos supplémentaires (certifications par exemple) en [personnalisant vos modèles de document](../../pour-aller-plus-loin/modeles-de-document.md), mais ils ne s'afficheront à l'impression/envoi du devis ou de la facture que si l'option "[Galerie d'images](../../les-plus-du-logiciel/galerie-dimages.md)" a été souscrite.
 
 
 

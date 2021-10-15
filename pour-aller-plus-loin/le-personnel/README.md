@@ -1,10 +1,15 @@
-# Salariés
+# 👫 Salariés
 
 Gérez votre personnel, les intérimaires, et valorisez les heures passées sur chaque chantier.
 
-{% page-ref page="fiche-personnel.md" %}
+{% content-ref url="fiche-personnel.md" %}
+[fiche-personnel.md](fiche-personnel.md)
+{% endcontent-ref %}
 
-{% page-ref page="les-charges-daffaire.md" %}
+{% content-ref url="les-charges-daffaire.md" %}
+[les-charges-daffaire.md](les-charges-daffaire.md)
+{% endcontent-ref %}
 
-{% page-ref page="gestion-des-heures.md" %}
-
+{% content-ref url="gestion-des-heures.md" %}
+[gestion-des-heures.md](gestion-des-heures.md)
+{% endcontent-ref %}

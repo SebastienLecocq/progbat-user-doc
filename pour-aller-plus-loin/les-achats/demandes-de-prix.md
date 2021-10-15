@@ -79,7 +79,7 @@ Créer une demande de prix sous-traitant revient à créer un bon de commande so
 
 La demande de prix est créée, et enregistrée comme une commande sous-traitant, vous la retrouverez dans la liste de vos commandes
 
-:digit_three: Cliquez sur "Imprimer / Envoyer", puis sélectionnez à droite de la page le modèle "Demande de prix". _Vous pouvez _[_personnaliser ce modèle_](../../les-plus-du-logiciel/modeles-de-document.md)__
+:digit_three: Cliquez sur "Imprimer / Envoyer", puis sélectionnez à droite de la page le modèle "Demande de prix". _Vous pouvez _[_personnaliser ce modèle_](../modeles-de-document.md)__
 
-:digit_four: Une fois le sous-traitant choisi et les prix renseignés, faites-lui parvenir votre commande avec le modèle "Commande sous-traitant", ou bien votre [modèle personnalisé](../../les-plus-du-logiciel/modeles-de-document.md).
+:digit_four: Une fois le sous-traitant choisi et les prix renseignés, faites-lui parvenir votre commande avec le modèle "Commande sous-traitant", ou bien votre [modèle personnalisé](../modeles-de-document.md).
 

@@ -35,15 +35,15 @@ _Consultez l'article dédié en cliquant _[_ici_](remise.md)_._
 
 ### Les Déductions
 
-Saisissez ici vos déductions sur total TTC comme par exemple les [primes énergies](../deductions-complementaires/autres-deductions.md) CEE, MaPrimeRénov', etc...
+Saisissez ici vos déductions sur total TTC comme par exemple les [primes énergies](deductions-complementaires/autres-deductions.md) CEE, MaPrimeRénov', etc...
 
 {% hint style="danger" %}
 Ne doivent pas être saisis ici :
 
-*   La [retenue de garantie](../deductions-complementaires/retenue-de-garantie.md), qui doit être saisie dans le pavé "conditions de règlement" du pied du devis (développé plus bas), pour être totalement gérée par le logiciel.
+*   La [retenue de garantie](deductions-complementaires/retenue-de-garantie.md), qui doit être saisie dans le pavé "conditions de règlement" du pied du devis (développé plus bas), pour être totalement gérée par le logiciel.
 
 
-* Le [compte prorata](../deductions-complementaires/le-compte-prorata.md) : Indiquez le pourcentage de déduction à prévoir dans une ligne de commentaire (Onglet "Lignes" du devis), ou bien dans le texte libre de vos conditions de règlement client. La déduction sur total TTC sera saisie lors de la facturation, dans l'onglet "Pied".
+* Le [compte prorata](deductions-complementaires/le-compte-prorata.md) : Indiquez le pourcentage de déduction à prévoir dans une ligne de commentaire (Onglet "Lignes" du devis), ou bien dans le texte libre de vos conditions de règlement client. La déduction sur total TTC sera saisie lors de la facturation, dans l'onglet "Pied".
 {% endhint %}
 
 ## :digit_two:La TVA
@@ -75,7 +75,7 @@ Vous pouvez modifier les conditions de règlement pour ce marché.
 ![](../../.gitbook/assets/screenshot-143-.png)
 
 {% hint style="info" %}
-Si votre marché fait l'objet d'une [retenue de garantie](../deductions-complementaires/retenue-de-garantie.md), saisissez-là dans le cadre dédié.
+Si votre marché fait l'objet d'une [retenue de garantie](deductions-complementaires/retenue-de-garantie.md), saisissez-là dans le cadre dédié.
 {% endhint %}
 
 Cliquez sur "Enregistrer comme conditions par défaut" pour que ces conditions soient à la fois appliquées au devis et définies par défaut.
@@ -93,5 +93,5 @@ Cliquez sur:floppy_disk:pour définir ce texte par défaut. Vos prochains devis 
 ![](../../.gitbook/assets/screenshot-41-.png)
 
 {% hint style="info" %}
-:bulb: Insérez un [texte pré-enregistré](../../les-plus-du-logiciel/bibliotheque-de-textes.md) pour adapter votre texte d'acceptation au type de marché.
+:bulb: Insérez un [texte pré-enregistré](../bibliotheque-de-textes.md) pour adapter votre texte d'acceptation au type de marché.
 {% endhint %}

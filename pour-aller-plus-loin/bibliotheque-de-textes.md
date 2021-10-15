@@ -1,4 +1,4 @@
-# Bibliothèque de textes
+# 📗 Bibliothèque de textes
 
 ## Les textes pré-enregistrés
 

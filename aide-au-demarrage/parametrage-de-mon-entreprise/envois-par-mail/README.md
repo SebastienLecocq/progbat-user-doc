@@ -41,7 +41,7 @@ Cliquez [ici](parametrer-ma-propre-adresse-mail.md).
 
 :digit_two: Renseignez l'objet du devis ("Devis rénovation ..." par exemple)
 
-:digit_three: Gagnez du temps de saisie, [insérez un texte pré-enregistré](../../../les-plus-du-logiciel/bibliotheque-de-textes.md) dans le contenu de votre mail
+:digit_three: Gagnez du temps de saisie, [insérez un texte pré-enregistré](../../../pour-aller-plus-loin/bibliotheque-de-textes.md) dans le contenu de votre mail
 
 :digit_four: Ajoutez un ou plusieurs documents (plans, facture précédente,...), directement depuis votre [ProGBox](../../../les-plus-du-logiciel/progbox-archivage-de-documents.md), ou bien depuis votre ordinateur
 

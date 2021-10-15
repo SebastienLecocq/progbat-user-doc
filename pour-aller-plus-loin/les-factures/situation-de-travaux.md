@@ -66,7 +66,7 @@ Le logiciel se charge de réaliser les calculs nécessaires.
 
 
 
-:digit_four: Vérifiez les données de l'onglet "Pied" de votre facture, modifiez / ajoutez des données **uniquement **si nécessaire (saisir d'une déduction pour [compte prorata](../deductions-complementaires/le-compte-prorata.md#dans-la-facture) par exemple).
+:digit_four: Vérifiez les données de l'onglet "Pied" de votre facture, modifiez / ajoutez des données **uniquement **si nécessaire (saisir d'une déduction pour [compte prorata](../les-devis/deductions-complementaires/le-compte-prorata.md#dans-la-facture) par exemple).
 
 Si vous aviez réalisé une facture d'acompte, la totalité de l'acompte sera déduite de la première situation de travaux. Si vous le souhaitez, vous pourrez [déduire l'acompte partiellement](la-facture-dacompte.md#deduction-partielle-de-lacompte).
 
@@ -139,7 +139,7 @@ Vous devez par exemple facturer  132 m²  sur  534 m²  prévus au marché, au p
 
 :digit_one: Ouvrez le menu "Administration > Modèles de documents", cliquez sur la section "Factures"
 
-:digit_two: Ouvrez ou [créez votre modèle personnalisé](../../les-plus-du-logiciel/modeles-de-document.md#creer-un-modele) de facture
+:digit_two: Ouvrez ou [créez votre modèle personnalisé](../modeles-de-document.md#creer-un-modele) de facture
 
 :digit_three: Cliquez sur la section "Corps du document" (celle indiquant les lignes d'ouvrages et leur prix)
 

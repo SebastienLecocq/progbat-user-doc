@@ -109,9 +109,9 @@ __
 
 
 {% hint style="info" %}
-Comme tous les documents, vous pouvez [créer et personnaliser vos propres modèles](../../../les-plus-du-logiciel/modeles-de-document.md#creer-un-modele) de bons de commande
+Comme tous les documents, vous pouvez [créer et personnaliser vos propres modèles](../../modeles-de-document.md#creer-un-modele) de bons de commande
 
-__:bulb: La gestion des [modèles de document](../../../les-plus-du-logiciel/modeles-de-document.md#section-corps-de-document) vous permettra d'imprimer vos bons de commande sans les prix si nécessaire, pour en faire un [bon de préparation](../../les-devis/synthese-du-devis.md#creer-un-bon-de-preparation) par exemple.
+__:bulb: La gestion des [modèles de document](../../modeles-de-document.md#section-corps-de-document) vous permettra d'imprimer vos bons de commande sans les prix si nécessaire, pour en faire un [bon de préparation](../../les-devis/synthese-du-devis.md#creer-un-bon-de-preparation) par exemple.
 {% endhint %}
 
 __

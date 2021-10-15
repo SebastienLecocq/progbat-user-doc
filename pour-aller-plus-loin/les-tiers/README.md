@@ -1,14 +1,25 @@
-# Tiers
+# 🤝 Tiers
 
-{% page-ref page="categories-et-groupes-de-tiers.md" %}
+{% content-ref url="categories-et-groupes-de-tiers.md" %}
+[categories-et-groupes-de-tiers.md](categories-et-groupes-de-tiers.md)
+{% endcontent-ref %}
 
-{% page-ref page="les-listes-de-tiers/" %}
+{% content-ref url="les-listes-de-tiers/" %}
+[les-listes-de-tiers](les-listes-de-tiers/)
+{% endcontent-ref %}
 
-{% page-ref page="les-clients/" %}
+{% content-ref url="les-clients/" %}
+[les-clients](les-clients/)
+{% endcontent-ref %}
 
-{% page-ref page="les-fournisseurs/" %}
+{% content-ref url="les-fournisseurs/" %}
+[les-fournisseurs](les-fournisseurs/)
+{% endcontent-ref %}
 
-{% page-ref page="les-sous-traitants/" %}
+{% content-ref url="les-sous-traitants/" %}
+[les-sous-traitants](les-sous-traitants/)
+{% endcontent-ref %}
 
-{% page-ref page="importer.md" %}
-
+{% content-ref url="importer.md" %}
+[importer.md](importer.md)
+{% endcontent-ref %}

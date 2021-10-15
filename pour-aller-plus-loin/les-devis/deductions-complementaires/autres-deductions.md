@@ -16,11 +16,11 @@ Le montant de la prime doit être clairement affiché, et être déduit du total
 
 :digit_two: Cliquez sur le petit crayon du champ "Déductions" 
 
-![](../../.gitbook/assets/screenshot-149-.png)
+![](../../../.gitbook/assets/screenshot-149-.png)
 
 :digit_three: Saisissez une nouvelle déduction, par exemple :
 
-![](../../.gitbook/assets/screenshot-150c-.png)
+![](../../../.gitbook/assets/screenshot-150c-.png)
 
 :digit_four: Enregistrez.
 
@@ -49,6 +49,6 @@ La prime est déduite du total TTC, le net à payer pour ce devis est de 1 euro.
 
 :digit_two: Placez-vous à la fin du texte de vos conditions de règlement, et cherchez le texte "Prime énergie" dans les textes pré-enregistrés
 
-![](../../.gitbook/assets/screenshot-151a-.png)
+![](../../../.gitbook/assets/screenshot-151a-.png)
 
 Le texte est immédiatement inséré, et facilitera l'acceptation du dossier de votre client.

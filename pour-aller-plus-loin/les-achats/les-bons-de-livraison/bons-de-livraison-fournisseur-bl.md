@@ -103,7 +103,7 @@ Ouvrez la liste des bons de livraison, depuis le menu "Dépenses > Bons de livra
 
 :digit_three: Une lettre de relance s'édite automatiquement :
 
-*   Vous pouvez [créer et personnaliser vos propres modèles](../../../les-plus-du-logiciel/modeles-de-document.md#creer-un-modele) de relance fournisseur
+*   Vous pouvez [créer et personnaliser vos propres modèles](../../modeles-de-document.md#creer-un-modele) de relance fournisseur
 
 
 *   Envoyer par email : Cliquez [ici](../../../aide-au-demarrage/parametrage-de-mon-entreprise/envois-par-mail/parametrer-ma-propre-adresse-mail.md) pour paramétrer vos envois par mail depuis le logiciel

@@ -33,7 +33,7 @@ Finaliser une facture provisoire est très simple :
 ![](<../../.gitbook/assets/capture (25).png>)
 
 * Votre facture s'affiche en pdf, avec la mention "Provisoire" en filigrane (obligation légale).
-* Changez si besoin le [modèle de facture](../../les-plus-du-logiciel/modeles-de-document.md),
+* Changez si besoin le [modèle de facture](../modeles-de-document.md),
 * Cliquez sur le bouton vert "Finaliser la facture".
   * Vérifiez et modifiez éventuellement la date de la facture.
 * Vérifiez et modifiez éventuellement la date d'échéance.

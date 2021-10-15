@@ -1,4 +1,4 @@
-# Galerie d'images
+# 🧩 Galerie d'images
 
 :bulb: Le logiciel vous permet de gérer une bibliothèque d'images, notamment pour agrémenter vos devis, en apportant à votre client une information visuelle, claire et professionnelle.
 

@@ -1,4 +1,4 @@
-# Achats
+# 💳 Achats
 
 ![](../../.gitbook/assets/achats-acces-rapide.png)
 

@@ -30,4 +30,4 @@ Cette remise sera visible par le client dans le bloc des totaux, au pied du devi
 
 Si vous utilisez nos modèles proposés par défaut pour imprimer/envoyer vos devis, une colonne "Prix unitaire" et "Remise" seront automatiquement affichées pour mettre en valeur cette remise accordée.
 
-:arrow_right: Vous pourrez modifier cet affichage en [personnalisant vos modèles de document](../../les-plus-du-logiciel/modeles-de-document.md).
+:arrow_right: Vous pourrez modifier cet affichage en [personnalisant vos modèles de document](../modeles-de-document.md).

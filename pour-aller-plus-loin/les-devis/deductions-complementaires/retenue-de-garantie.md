@@ -21,9 +21,9 @@ Vous pouvez la définir :
 * Cliquez sur "Modifiez les conditions" dans le cadre "Conditions de règlement"
 * Dans le champ "Retenue de garantie", saisissez par exemple "5" pour une RG de 5%.
 
-:point_right: Dans la [facture](../les-factures/deductions-et-majorations.md#retenue-de-garantie-plus-dinformations)
+:point_right: Dans la [facture](../../les-factures/deductions-et-majorations.md#retenue-de-garantie-plus-dinformations)
 
-:point_right: Dans les paramètres "par défaut", depuis le menu "Administration > Mon entreprise", dans les [Conditions de règlement](../../aide-au-demarrage/parametrage-de-mon-entreprise/conditions-de-reglement.md#retenue-de-garantie).
+:point_right: Dans les paramètres "par défaut", depuis le menu "Administration > Mon entreprise", dans les [Conditions de règlement](../../../aide-au-demarrage/parametrage-de-mon-entreprise/conditions-de-reglement.md#retenue-de-garantie).
 
 ## :digit_two: Application de la retenue de garantie
 
@@ -56,7 +56,7 @@ Le tableau affiche tous les chantiers pour lesquels une retenue de garantie a é
 
 Cliquez sur le  +  en début de ligne pour afficher le détail des retenues de garantie d'une affaire, par facture.
 
-![](../../.gitbook/assets/screenshot-144d-.png)
+![](../../../.gitbook/assets/screenshot-144d-.png)
 
 
 
@@ -64,18 +64,18 @@ Cliquez sur le  +  en début de ligne pour afficher le détail des retenues de g
 
 Généralement 12 mois après la date de réception officielle des travaux, la retenue de garantie doit vous être restituée par le Maître d'Ouvrage.
 
-* Cliquez sur les petites roues crantées ![](../../.gitbook/assets/screenshot-145-.png) en bout de ligne de l'affaire concernée
+* Cliquez sur les petites roues crantées ![](../../../.gitbook/assets/screenshot-145-.png) en bout de ligne de l'affaire concernée
 * Précisez la durée de la retenue de garantie et la date de réception officielle des travaux.
 
 {% hint style="info" %}
-:bell: Ces informations vont générer une [notification](../../les-plus-du-logiciel/notifications.md#notification-pour-restitution-de-la-retenue-de-garantie), qui vous alertera automatiquement quelques jours avant terme, afin de réclamer la restitution de la retenue de garantie, sans risque d'oubli
+:bell: Ces informations vont générer une [notification](../../../les-plus-du-logiciel/notifications.md#notification-pour-restitution-de-la-retenue-de-garantie), qui vous alertera automatiquement quelques jours avant terme, afin de réclamer la restitution de la retenue de garantie, sans risque d'oubli
 {% endhint %}
 
 
 
 ### :point_right: Courrier de demande de libération
 
-* Cliquez sur l'imprimante ![](../../.gitbook/assets/screenshot-146-.png) en bout de ligne de l'affaire concernée
+* Cliquez sur l'imprimante ![](../../../.gitbook/assets/screenshot-146-.png) en bout de ligne de l'affaire concernée
 * Un courrier de demande de libération est automatiquement édité, avec toutes les informations nécessaires.
 
 {% hint style="info" %}
@@ -88,7 +88,7 @@ Elle doit être libérée sur simple demande, et pourra faire l'objet d'une [att
 
 ### :point_right: Enregistrement de la restitution de la retenue de garantie
 
-* Cliquez sur le petit crayon![](../../.gitbook/assets/screenshot-147-.png)en bout de ligne de l'affaire concernée
+* Cliquez sur le petit crayon![](../../../.gitbook/assets/screenshot-147-.png)en bout de ligne de l'affaire concernée
 * Confirmez (ou corrigez) le montant reçu
 * La retenue de garantie est maintenant totalement (ou partiellement) soldée.
 
@@ -98,7 +98,7 @@ Elle doit être libérée sur simple demande, et pourra faire l'objet d'une [att
 
 Une fois le [remboursement saisi](retenue-de-garantie.md#enregistrement-de-la-restitution-de-la-retenue-de-garantie), vous pouvez imprimer un courrier à l'attention du Maître d'Ouvrage, attestant de ce remboursement :
 
-* Cliquez sur l'imprimante ![](../../.gitbook/assets/screenshot-146-.png) en bout de ligne de l'affaire concernée
+* Cliquez sur l'imprimante ![](../../../.gitbook/assets/screenshot-146-.png) en bout de ligne de l'affaire concernée
 * Une attestation de libération est automatiquement éditée, avec toutes les informations nécessaires.
 
 {% hint style="info" %}

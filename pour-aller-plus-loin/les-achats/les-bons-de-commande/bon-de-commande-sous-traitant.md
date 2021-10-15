@@ -56,7 +56,7 @@ Enregistrez les ouvrages saisis, dans votre bibliothèque, directement depuis le
 * Le bon de commande créé à l'instant
 * Un [contrat de sous-traitance](bon-de-commande-sous-traitant.md#contrat-de-sous-traitance) (voir ci-dessous).
 
-:bulb: Comme tous les documents, vous pouvez [créer et personnaliser vos propres modèles](../../../les-plus-du-logiciel/modeles-de-document.md#creer-un-modele) de bons de commande
+:bulb: Comme tous les documents, vous pouvez [créer et personnaliser vos propres modèles](../../modeles-de-document.md#creer-un-modele) de bons de commande
 
 ## Contrat de sous-traitance
 
@@ -64,7 +64,7 @@ Le contrat de sous-traitance permet de cadrer et de sécuriser les relations ent
 
 À l'impression de votre bon de commande sous-traitant, vous aurez le choix d'imprimer d'abord un contrat de sous-traitance.
 
-Le logiciel vous propose un modèle "standard" de contrat de sous-traitance, mais il est possible de personnaliser ce modèle, afin de l'adapter à votre activité, à vos besoins. Cliquez [ici](../../../les-plus-du-logiciel/modeles-de-document.md#creer-un-modele) pour savoir comment personnaliser un modèle de document.
+Le logiciel vous propose un modèle "standard" de contrat de sous-traitance, mais il est possible de personnaliser ce modèle, afin de l'adapter à votre activité, à vos besoins. Cliquez [ici](../../modeles-de-document.md#creer-un-modele) pour savoir comment personnaliser un modèle de document.
 
 ## Réception des travaux sous-traitant
 

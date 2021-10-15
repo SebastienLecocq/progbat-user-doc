@@ -2,7 +2,7 @@
 description: Toujours plus puissant, toujours plus ergonomique, toujours plus ouvert....
 ---
 
-# Année 2020
+# ⭐ Année 2020
 
 | Janvier 2020 | Que s'est-il passé ?                                                                                                                                      |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,7 +35,7 @@ description: Toujours plus puissant, toujours plus ergonomique, toujours plus ou
 | 11/05/2020 | _**1er jour de déconfinement de la France suite à la crise sanitaire COVID-19. Nos équipes  sont restées mobilisées durant ces 7 semaines, pour encore plus de nouveautés et d'évolutions**_ |
 | 18/05/2020 | [Les devis type](../pour-aller-plus-loin/les-devis/devis-type.md) sont disponibles. Gain de temps et de productivité pour vos chiffrages !                                                   |
 | 25/05/2020 | Affichez vos conditions générales en [multi-colonnage](../faq-aides-trucs-et-astuces/trucs-et-astuces.md#affichage-en-plusieurs-colonnes) très simplement.                                   |
-| 27/05/2020 | Ajoutez un [récapitulatif des lots](../les-plus-du-logiciel/modeles-de-document.md#recapitulatif-des-lots) dans vos modèles de devis et de factures.                                         |
+| 27/05/2020 | Ajoutez un [récapitulatif des lots](../pour-aller-plus-loin/modeles-de-document.md#recapitulatif-des-lots) dans vos modèles de devis et de factures.                                         |
 
 | Juin 2020  | Que s'est-il passé ?                                                                                                   |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -57,7 +57,7 @@ description: Toujours plus puissant, toujours plus ergonomique, toujours plus ou
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 07/10/2020   | Un nouveau niveau de [droit utilisateur](../aide-au-demarrage/parametrage-de-mon-entreprise/les-utilisateurs/gestion-des-droits.md) a été ajouté pour votre expert-comptable.                                                                     |
 | 07/10/2020   | Evolution de l'affichage des dossiers liés de la [ProGBox](../les-plus-du-logiciel/progbox-archivage-de-documents.md#deposer-et-rechercher-un-document-sur-progbox), pour des accès encore plus simples à vos documents                           |
-| 08/10/2020   | Nouveau design du module de gestion des [modèles de documents](../les-plus-du-logiciel/modeles-de-document.md).                                                                                                                                   |
+| 08/10/2020   | Nouveau design du module de gestion des [modèles de documents](../pour-aller-plus-loin/modeles-de-document.md).                                                                                                                                   |
 | 08/10/2020   | [Nouveau statut](../pour-aller-plus-loin/les-devis/statut-des-devis.md#le-statut-travaux-dun-devis) dans vos devis : "Travaux en cours" et "Travaux terminés"                                                                                     |
 | 19/10/2020   | Le [récapitulatif marché](../pour-aller-plus-loin/les-factures/imprimer-une-facture.md#option-avec-recapitulatif) s'ajoute maintenant aux [factures validées](../pour-aller-plus-loin/les-factures/valider-une-facture.md#finaliser-une-facture). |
 | 29/10/2020   | Nouvelle fonctionnalité : [le pilotage temps réel](../pour-aller-plus-loin/les-chantiers-1/pilotage-temps-reel.md).                                                                                                                               |

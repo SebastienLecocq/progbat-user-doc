@@ -48,7 +48,7 @@ Si vous avez supprimé ce saut de page, il est toujours possible de l'ajouter à
 
 ![](../../.gitbook/assets/screenshot-221-.png)
 
-:bulb: Si vous utilisez nos modèles de devis proposés par défaut pour imprimer/envoyer vos devis et factures, le contenu de ce cadre "Assurances et conditions générales" sera automatiquement affiché en fin de document, sans rien avoir à faire. Vous pourrez modifier cet affichage en [personnalisant vos modèles de document](../../les-plus-du-logiciel/modeles-de-document.md).
+:bulb: Si vous utilisez nos modèles de devis proposés par défaut pour imprimer/envoyer vos devis et factures, le contenu de ce cadre "Assurances et conditions générales" sera automatiquement affiché en fin de document, sans rien avoir à faire. Vous pourrez modifier cet affichage en [personnalisant vos modèles de document](../../pour-aller-plus-loin/modeles-de-document.md).
 
 
 
@@ -64,7 +64,7 @@ Depuis le 20/06/2014, il est obligatoire de mentionner sur tous vos devis et fac
 
 Si vous utilisez nos modèles proposés par défaut pour imprimer/envoyer vos devis et factures, vos donnée d'assurances seront automatiquement affichées au dessus de vos conditions générales de vente, sans rien avoir à faire.
 
-:arrow_right: Vous pourrez personnaliser cet affichage en [personnalisant vos modèles de document](../../les-plus-du-logiciel/modeles-de-document.md).
+:arrow_right: Vous pourrez personnaliser cet affichage en [personnalisant vos modèles de document](../../pour-aller-plus-loin/modeles-de-document.md).
 
 
 
@@ -76,4 +76,4 @@ Elles doivent être les plus claires et explicites possibles, dans votre intér�
 
 Si vous utilisez nos modèles proposés par défaut pour imprimer/envoyer vos devis et factures, vos conditions générales de vente seront automatiquement affichées en annexe, sans rien avoir à faire.
 
-:arrow_right: Vous pourrez personnaliser cet affichage en [personnalisant vos modèles de document](../../les-plus-du-logiciel/modeles-de-document.md).
+:arrow_right: Vous pourrez personnaliser cet affichage en [personnalisant vos modèles de document](../../pour-aller-plus-loin/modeles-de-document.md).

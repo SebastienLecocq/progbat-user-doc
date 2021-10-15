@@ -13,4 +13,4 @@ En France, le numéro SIREN est composé de 9 chiffres (le SIRET), et de 5 autre
 
 Si vous utilisez nos modèles proposés par défaut pour imprimer/envoyer vos devis et factures, certaines de ces informations seront automatiquement affichées, sans rien avoir à faire.
 
-:arrow_right: Vous pourrez modifier cet affichage, ou ajouter des données officielles à afficher, en [personnalisant vos modèles de document](../../les-plus-du-logiciel/modeles-de-document.md).
+:arrow_right: Vous pourrez modifier cet affichage, ou ajouter des données officielles à afficher, en [personnalisant vos modèles de document](../../pour-aller-plus-loin/modeles-de-document.md).

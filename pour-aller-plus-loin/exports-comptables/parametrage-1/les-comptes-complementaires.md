@@ -22,7 +22,7 @@ D'autres déductions peuvent être saisies, comme par exemple une remise excepti
 
 ### La retenue de garantie
 
-* Saisissez ici le compte de tiers associé à la [retenue de garantie](../../deductions-complementaires/retenue-de-garantie.md)
+* Saisissez ici le compte de tiers associé à la [retenue de garantie](../../les-devis/deductions-complementaires/retenue-de-garantie.md)
 * Choisissez ou non d'associer le compte auxiliaire au compte de retenue de garantie
 
 **En cas de révision de prix, la retenue de garantie sera calculée sur le montant TTC de la facture AVANT application de la révision de prix.**
@@ -42,7 +42,6 @@ Le compte prorata peut se comptabiliser de 2 manières :
 
 ### Autres déductions
 
-D'autres déductions, comme par exemple les primes énergies \(CEE, Maprime Rénov', ...\), peuvent être appliquées après le total TTC :
+D'autres déductions, comme par exemple les primes énergies (CEE, Maprime Rénov', ...), peuvent être appliquées après le total TTC :
 
 * Saisissez ici le compte de tiers souhaité.
-

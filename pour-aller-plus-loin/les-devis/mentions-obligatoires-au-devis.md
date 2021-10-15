@@ -32,7 +32,7 @@ Le devis doit mentionner les éléments suivants :
 
 :point_right: Sous le logiciel :** **Renseignez une seule fois ces informations lors du paramétrage de votre entreprise: 
 
-Si vous utilisez nos modèles de devis proposés par défaut pour imprimer/envoyer vos devis, ces informations seront automatiquement affichées en entête de devis. Vous pourrez modifier cet affichage en [personnalisant vos modèles de document](../../les-plus-du-logiciel/modeles-de-document.md).
+Si vous utilisez nos modèles de devis proposés par défaut pour imprimer/envoyer vos devis, ces informations seront automatiquement affichées en entête de devis. Vous pourrez modifier cet affichage en [personnalisant vos modèles de document](../modeles-de-document.md).
 
 ####
 
@@ -76,7 +76,7 @@ Au 1er Juillet 2021, le décret n° 2020-1817 du 29 décembre 2020, oblige à pr
 * Le ou les points de collecte où votre entreprise prévoit de déposer les déchets issus du chantier (points de collecte identifiés par leur raison sociale, leur adresse et le type d'installation)
 * Estimation des coûts de gestion et d'enlèvement des déchets
 
-:point_right: Sous le logiciel : [Créez un texte pré-enregistré](../../les-plus-du-logiciel/bibliotheque-de-textes.md) reprenant ces 4 points, et insérez-le dans une [ligne de commentaire](nouveau-devis/saisir-les-lignes-du-devis/lignes-du-devis.md#creer-une-ligne-de-commentaire), vous gagnerez du temps à la saisie de vos prochains devis. 
+:point_right: Sous le logiciel : [Créez un texte pré-enregistré](../bibliotheque-de-textes.md) reprenant ces 4 points, et insérez-le dans une [ligne de commentaire](nouveau-devis/saisir-les-lignes-du-devis/lignes-du-devis.md#creer-une-ligne-de-commentaire), vous gagnerez du temps à la saisie de vos prochains devis. 
 
 Bien sûr, complétez ce texte des informations attendues, que vous adapterez à chaque chantier.
 
@@ -98,7 +98,7 @@ Depuis le 20/06/2014, il est obligatoire de mentionner sur tous vos devis et fac
 
 :point_right:Sous le logiciel : Renseignez une seule fois ces informations dans le [paramétrage de votre entreprise](../../aide-au-demarrage/parametrage-de-mon-entreprise/coordonnees-et-assurances-de-lentreprise.md).
 
-Si vous utilisez nos modèles de devis proposés par défaut pour imprimer/envoyer vos devis, ces informations seront automatiquement affichées à la suite de votre devis. Vous pourrez modifier cet affichage en [personnalisant vos modèles de document](../../les-plus-du-logiciel/modeles-de-document.md). 
+Si vous utilisez nos modèles de devis proposés par défaut pour imprimer/envoyer vos devis, ces informations seront automatiquement affichées à la suite de votre devis. Vous pourrez modifier cet affichage en [personnalisant vos modèles de document](../modeles-de-document.md). 
 
 ### ****
 

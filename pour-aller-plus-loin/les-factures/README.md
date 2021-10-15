@@ -1,4 +1,4 @@
-# Factures
+# 📑 Factures
 
 ![](../../.gitbook/assets/screenshot-226a-.png)
 

@@ -1,4 +1,4 @@
-# Tester le logiciel
+# 1⃣ Tester le logiciel
 
 Lorsque vous, ou votre revendeur, créez pour la première fois votre compte sous le logiciel, vous bénéficiez d'une période d'essai gratuite. Vous pourrez alors utiliser le logiciel, comme s'il était déjà à vous.
 
@@ -28,4 +28,14 @@ Vous pourrez par la suite "masquer" vos factures de test, en cliquant sur le bou
 
 ## Convaincu après ce test ? 
 
+
+
 Ouvrez le menu "Administration" > Ma boutique, ou bien contactez votre revendeur.
+
+
+
+## Comment transférer les données de mon ancien logiciel à celui-ci ?
+
+
+
+Cliquez [ici](migration-vers-notre-logiciel.md).

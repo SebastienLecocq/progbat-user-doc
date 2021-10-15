@@ -1,4 +1,4 @@
-# Modèles de document
+# 🧾 Modèles de document
 
 Des modèles de devis, factures, commandes fournisseur, courriers, ...., sont mis à votre disposition.\
 Vous pouvez créer et personnaliser vos propres modèles pour des documents uniques, aux couleurs de votre entreprise.

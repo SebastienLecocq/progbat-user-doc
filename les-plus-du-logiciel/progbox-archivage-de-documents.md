@@ -1,4 +1,4 @@
-# Progbox - Archivage de documents
+# 🗃 Progbox - Archivage de documents
 
 Vous connaissez Google Drive, Dropbox, ou encore Onedrive, que vous utilisez déjà probablement pour stocker et archiver tous les documents de votre entreprise, abandonnant ainsi petit à petit les classeurs et boites d'archive qui s'accumulent au fil des ans.
 
@@ -12,7 +12,7 @@ Ces services, bien que très performants, trouvent leur limite dans la quantité
 
 De manière totalement automatisée, ProGBox archive sans aucune intervention de votre part toutes vos factures client, au fur et à mesure que vous les réalisez.
 
-* Ouvrez le menu "Documents-&gt;Archivage"
+* Ouvrez le menu "Documents->Archivage"
 * Ouvrez le dossier ".factures" :
   * Ce dossier contient, classées par années et par mois, toutes les factures clients que vous avez éditées, au format pdf.
 * Il est alors possible :
@@ -50,7 +50,7 @@ En ouvrant un devis, une facture, une fiche client, une fiche chantier, ou encor
 
 Dans cet exemple, nous avons ouvert un devis, et cliqué sur l'onglet ProGBox.
 
-* Je peux ajouter le scan du devis signé en le "déposant" sur la page \(drag & drop\), ou en le recherchant sur mon ordinateur dans le cadre bleu "Importer des fichiers" à droite de la page.
+* Je peux ajouter le scan du devis signé en le "déposant" sur la page (drag & drop), ou en le recherchant sur mon ordinateur dans le cadre bleu "Importer des fichiers" à droite de la page.
 * Je peux également ouvrir les dossiers ProGBox automatiquement créés et liés à ce devis, pour y déposer ou consulter des documents.
 
 {% hint style="info" %}
@@ -68,4 +68,3 @@ Quant à la fiche technique ou au plan déposé sur la ProGBox de la fiche chant
 Le document est déposé une seule fois, mais il est disponible et consultable de partout, de manière logique et intuitive.
 
 **C'est ça, la révolution ProGBox !**
-

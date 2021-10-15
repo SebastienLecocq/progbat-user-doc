@@ -2,7 +2,7 @@
 
 ****:bulb: Suivez les nouveautés et évolutions de votre logiciel, en temps réel, dans la rubrique "[Nouveautés et évolutions](nouveautes-et-evolutions/annee-2021.md)"
 
-## Comment utiliser la documentation ? :dart: 
+## Comment utiliser la documentation ? 
 
 Pour trouver rapidement la réponse à votre question : 
 

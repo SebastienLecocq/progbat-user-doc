@@ -1,4 +1,4 @@
-# Devis
+# 📝 Devis
 
 ![](../../.gitbook/assets/devis-acces-rapide.png)
 
@@ -6,15 +6,26 @@
 
 Découvrez dans les chapitres suivants les outils mis à votre disposition pour gagner du temps et chiffrer vos chantiers avec précision, de manière simple.
 
-{% page-ref page="mentions-obligatoires-au-devis.md" %}
+{% content-ref url="mentions-obligatoires-au-devis.md" %}
+[mentions-obligatoires-au-devis.md](mentions-obligatoires-au-devis.md)
+{% endcontent-ref %}
 
-{% page-ref page="nouveau-devis/" %}
+{% content-ref url="nouveau-devis/" %}
+[nouveau-devis](nouveau-devis/)
+{% endcontent-ref %}
 
-{% page-ref page="pied-du-devis.md" %}
+{% content-ref url="pied-du-devis.md" %}
+[pied-du-devis.md](pied-du-devis.md)
+{% endcontent-ref %}
 
-{% page-ref page="remise.md" %}
+{% content-ref url="remise.md" %}
+[remise.md](remise.md)
+{% endcontent-ref %}
 
-{% page-ref page="options-et-variantes.md" %}
+{% content-ref url="options-et-variantes.md" %}
+[options-et-variantes.md](options-et-variantes.md)
+{% endcontent-ref %}
 
-{% page-ref page="import-export.md" %}
-
+{% content-ref url="import-export.md" %}
+[import-export.md](import-export.md)
+{% endcontent-ref %}

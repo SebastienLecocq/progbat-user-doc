@@ -26,7 +26,7 @@ La meilleure méthode est la suivante :
 
 :digit_two: Cliquez à droite de la page sur le bouton "A partir du devis", et choisissez "Créer un avenant". Un nouveau devis sera créé, pour le même client, et le même chantier
 
-![](../.gitbook/assets/screenshot-137c-.png)
+![](../../.gitbook/assets/screenshot-137c-.png)
 
  :digit_three: Saisissez le contenu de votre avenant, comme pour un simple devis.
 
@@ -35,11 +35,11 @@ La meilleure méthode est la suivante :
 * ajoutez ce même ouvrage (ou saisissez librement un libellé)
 * saisissez une quantité **ou** un prix en négatif
 
-![](../.gitbook/assets/screenshot-139a-.png)
+![](../../.gitbook/assets/screenshot-139a-.png)
 
 :digit_four: En revenant sur la liste des devis, vous constaterez que ce nouveau devis a une étiquette "Avenant"
 
-![](../.gitbook/assets/screenshot-138a-.png)
+![](../../.gitbook/assets/screenshot-138a-.png)
 
 __
 
@@ -59,7 +59,7 @@ Après avoir établi la facture à partir du devis initial, et tant que la factu
 
 La liste propose tous les devis établis pour le même client et le même chantier, et qui n'ont pas été facturés. Votre avenant s'y trouvera, probablement même tout seul_._
 
-![](../.gitbook/assets/screenshot-141c-.png)
+![](../../.gitbook/assets/screenshot-141c-.png)
 
 
 
@@ -69,7 +69,7 @@ La liste propose tous les devis établis pour le même client et le même chanti
 
 :digit_three: L'avenant est ajouté au bas de la facture, avec en commentaire le numéro et date de l'avenant
 
-![](../.gitbook/assets/screenshot-142-.png)
+![](../../.gitbook/assets/screenshot-142-.png)
 
 
 
@@ -79,4 +79,4 @@ La liste propose tous les devis établis pour le même client et le même chanti
 
 La liste des avenants sera clairement affichée au pied de la facture, au niveau des totaux, précisant le montant initial du marché, et le nouveau montant du marché :
 
-![](../.gitbook/assets/capture-decran-du-2021-08-16-01-18-331a.png)
+![](../../.gitbook/assets/capture-decran-du-2021-08-16-01-18-331a.png)
