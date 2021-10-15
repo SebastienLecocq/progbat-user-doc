@@ -1,12 +1,25 @@
-# Paramétrage de mon entreprise
+# 2⃣ Paramétrage
 
-{% page-ref page="logo-et-signature-de-lentreprise.md" %}
+{% content-ref url="informations-officielles-de-mon-entreprise.md" %}
+[informations-officielles-de-mon-entreprise.md](informations-officielles-de-mon-entreprise.md)
+{% endcontent-ref %}
 
-{% page-ref page="numerotation-des-documents.md" %}
+{% content-ref url="coordonnees-et-assurances-de-lentreprise.md" %}
+[coordonnees-et-assurances-de-lentreprise.md](coordonnees-et-assurances-de-lentreprise.md)
+{% endcontent-ref %}
 
-{% page-ref page="conditions-de-reglement.md" %}
+{% content-ref url="logo-et-signature-de-lentreprise.md" %}
+[logo-et-signature-de-lentreprise.md](logo-et-signature-de-lentreprise.md)
+{% endcontent-ref %}
 
-{% page-ref page="les-utilisateurs/" %}
+{% content-ref url="numerotation-des-documents.md" %}
+[numerotation-des-documents.md](numerotation-des-documents.md)
+{% endcontent-ref %}
 
-{% page-ref page="envois-par-mail/" %}
+{% content-ref url="conditions-de-reglement.md" %}
+[conditions-de-reglement.md](conditions-de-reglement.md)
+{% endcontent-ref %}
 
+{% content-ref url="envois-par-mail/" %}
+[envois-par-mail](envois-par-mail/)
+{% endcontent-ref %}

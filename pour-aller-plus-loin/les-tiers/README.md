@@ -4,8 +4,8 @@
 [categories-et-groupes-de-tiers.md](categories-et-groupes-de-tiers.md)
 {% endcontent-ref %}
 
-{% content-ref url="les-listes-de-tiers/" %}
-[les-listes-de-tiers](les-listes-de-tiers/)
+{% content-ref url="les-listes-de-tiers.md" %}
+[les-listes-de-tiers.md](les-listes-de-tiers.md)
 {% endcontent-ref %}
 
 {% content-ref url="les-clients/" %}

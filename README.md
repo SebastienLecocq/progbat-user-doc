@@ -1,6 +1,6 @@
 # Bienvenue sur la documentation de votre logiciel de gestion pour le bâtiment
 
-****:bulb: Suivez les nouveautés et évolutions de votre logiciel, en temps réel, dans la rubrique "[Nouveautés et évolutions](nouveautes-et-evolutions/annee-2021.md)"
+****:bulb: Suivez les nouveautés et évolutions de votre logiciel, en temps réel, dans la rubrique **"**[**Nouveautés et évolutions**](nouveautes-et-evolutions/annee-2021.md)**"**
 
 ## Comment utiliser la documentation ? 
 

@@ -2,15 +2,19 @@
 
 La gestion des droits permet d'autoriser ou de bloquer l'accès de vos utilisateurs à certaines fonctionnalités du logiciel, selon les choix que vous aurez fait en définissant des "rôles", et en attribuant ces rôles à vos utilisateurs.
 
-**3 rôles existent par défaut : le rôle Administrateur, le rôle Utilisateur, et le rôle Expert-comptable :**
 
-* **L' administrateur** a accès à toutes les fonctionnalités du logiciel, sans aucune restriction.
-* **L' utilisateur** n'a pas accès au menu "Administration" du logiciel,
+
+**3 rôles existent par défaut : le rôle Administrateur, le rôle Utilisateur, et le rôle Expert-comptable **
+
+* **L' administrateur** a accès à toutes les fonctionnalités du logiciel, sans aucune restriction
+* **L' utilisateur** n'a pas accès au menu "Administration" du logiciel
 * **L' expert-comptable** a accès uniquement à la consultation des factures de vente et d'achat, au paramétrage de l'entreprise et des modèles de documents, aux exports comptables, ainsi qu'à la ProGBox pour exporter vos factures client en un clic. Il aura également accès au support technique via le menu "Assistance".
 
 {% hint style="info" %}
-La gestion des droits utilisateurs est une option activée pendant votre période d'essai, mais n'est pas disponible par défaut.\
-Pour activer cette option, rendez-vous sous le menu Administration > Ma boutique > Ajouter des options ou contactez votre revendeur.
+La gestion des droits utilisateurs est une option activée pendant votre période d'essai, mais n'est pas disponible par défaut.
+
+\
+Pour activer cette option, rendez-vous sous le menu "Administration > Ma boutique > Ajouter" des options ou contactez votre revendeur.
 {% endhint %}
 
 
@@ -19,7 +23,7 @@ Pour activer cette option, rendez-vous sous le menu Administration > Ma boutique
 
 Un rôle est un ensemble de droits que vous donnez à une catégorie d'utilisateurs, comme par exemple un rôle "Conducteur de travaux", un rôle "Administratif", un rôle "Commercial".
 
-![](../../../.gitbook/assets/droits.png)
+![](../../.gitbook/assets/droits.png)
 
 :digit_one: Ouvrez le menu "Administration > Utilisateurs"
 

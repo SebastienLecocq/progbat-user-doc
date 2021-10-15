@@ -8,7 +8,7 @@ Bien suivre et bien gérer les relations avec vos fournisseurs est essentiel pou
 
 Sous le logiciel, vous allez pouvoir :
 
-:point_right: [Créer](creer-un-fournisseur.md) ou [importer](../importer.md) vos fournisseurs, pour les [répertorier](../les-listes-de-tiers/) clairement et facilement.
+:point_right: [Créer](creer-un-fournisseur.md) ou [importer](../importer.md) vos fournisseurs, pour les [répertorier](../les-listes-de-tiers.md) clairement et facilement.
 
 :point_right: Analyser et suivre les relations avec vos fournisseurs, grâce à la [fiche fournisseur](la-fiche-fournisseur-en-details.md), et son [outil de pilotage simplifié](../les-clients/la-fiche-client-en-details.md#onglet-activite)​​.
 

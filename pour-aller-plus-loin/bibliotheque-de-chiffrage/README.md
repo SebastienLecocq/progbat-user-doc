@@ -44,7 +44,7 @@ La gestion d'une bibliothèque de prix pour le bâtiment est un peu plus complex
 [batichiffrage-c](batichiffrage-c/)
 {% endcontent-ref %}
 
-{% content-ref url="../bibliotheque-de-textes.md" %}
-[bibliotheque-de-textes.md](../bibliotheque-de-textes.md)
+{% content-ref url="../../les-plus-du-logiciel/bibliotheque-de-textes.md" %}
+[bibliotheque-de-textes.md](../../les-plus-du-logiciel/bibliotheque-de-textes.md)
 {% endcontent-ref %}
 

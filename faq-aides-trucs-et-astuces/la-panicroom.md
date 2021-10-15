@@ -1,4 +1,4 @@
-# 🆘 La Panic'room !!!
+# 🆘 La  Panic'room  !!!
 
 ![](../.gitbook/assets/peur3.gif)
 
@@ -75,7 +75,7 @@ En créant votre compte sur le logiciel, vous avez créé l'utilisateur principa
 
 Si vous souhaitez que d'autres personnes puissent se connecter au compte de votre entreprise, il faut créer des comptes "utilisateurs", chacun ayant son propre identifiant et son propre mot de passe, confidentiel et sécurisé.
 
-[Cliquez ici pour apprendre à créer des comptes utilisateurs.](../aide-au-demarrage/parametrage-de-mon-entreprise/les-utilisateurs/gerer-utilisateurs.md)
+[Cliquez ici pour apprendre à créer des comptes utilisateurs.](../aide-au-demarrage/les-utilisateurs/gerer-utilisateurs.md)
 
 
 

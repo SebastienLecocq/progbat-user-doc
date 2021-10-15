@@ -6,7 +6,7 @@ Bien suivre et bien gérer les relations avec vos sous-traitants est essentiel p
 
 Sous le logiciel, vous allez pouvoir :
 
-:point_right: [Créer](../les-fournisseurs/creer-un-fournisseur.md) vos sous-traitants, pour les [répertorier](../les-listes-de-tiers/) clairement et facilement.
+:point_right: [Créer](../les-fournisseurs/creer-un-fournisseur.md) vos sous-traitants, pour les [répertorier](../les-listes-de-tiers.md) clairement et facilement.
 
 :point_right: Analyser et suivre les relations avec vos sous-traitants, grâce à la [fiche sous-traitant](la-fiche-sous-traitants-en-details.md) et son [outil de pilotage simplifié](la-fiche-sous-traitants-en-details.md#onglet-activite)​​.
 
@@ -33,7 +33,7 @@ Sous le logiciel, vous allez pouvoir :
 
 #### Différences entre fournisseur et sous-traitant, sous le logiciel :
 
-*   Les fournisseurs et les sous-traitants sont deux [catégories de tiers](../categories-et-groupes-de-tiers.md) bien distinctes, et ont donc chacun une [liste de tiers](../les-listes-de-tiers/).
+*   Les fournisseurs et les sous-traitants sont deux [catégories de tiers](../categories-et-groupes-de-tiers.md) bien distinctes, et ont donc chacun une [liste de tiers](../les-listes-de-tiers.md).
 
 
 *   Vous, ou votre comptable, pourrez leur attribuer un [compte comptable](../../exports-comptables/) propre.

@@ -115,5 +115,5 @@ Ce paramètre vous permet de saisir le texte que vous souhaitez afficher dans vo
   * Cliquez à l'endroit ou vous souhaitez ajouter ce texte, puis dans la barre de recherche "insérer un texte enregistré" 
   * Vous pouvez ici récupérer les textes de vos différentes conditions de règlement
 
-[_Cliquez ici pour apprendre à créer des textes pré-enregistrés._](../../pour-aller-plus-loin/bibliotheque-de-textes.md#les-textes-pre-enregistres)__
+[_Cliquez ici pour apprendre à créer des textes pré-enregistrés._](../../les-plus-du-logiciel/bibliotheque-de-textes.md#les-textes-pre-enregistres)__
 

@@ -12,7 +12,7 @@ Découvrez toute l'utilité de chacun des 4 onglets de cette fiche :
 
     * Modifiez les informations d'identification de votre client, ou apportez-y des informations complémentaires.
     * Si votre client est un professionnel, vous pourrez alors saisir son Nom commercial, son SIREN, N° de TVA intracommunautaire, et son Site internet.
-    * Décochez "Tiers actif?" pour ne plus voir apparaître ce client à la création d'un devis/facture, tout en le conservant dans votre [liste de tiers](../les-listes-de-tiers/).
+    * Décochez "Tiers actif?" pour ne plus voir apparaître ce client à la création d'un devis/facture, tout en le conservant dans votre [liste de tiers](../les-listes-de-tiers.md).
     * Définissez ici le taux de [TVA par défaut pour ce client](tva.md).
 
 

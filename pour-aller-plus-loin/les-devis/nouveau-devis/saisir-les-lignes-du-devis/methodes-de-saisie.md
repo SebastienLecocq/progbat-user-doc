@@ -35,7 +35,7 @@ Lorsqu'un mot est souligné en rouge, cliquez sur ce mot et appuyez simultanéme
   * Sous-traitance
 * Saisissez les premières lettres de l'identifiant ou du libellé de l'élément à ajouter au devis et sélectionnez-le dans la liste proposée
 
-#### [De Textes](../../../bibliotheque-de-textes.md) :
+#### [De Textes](../../../../les-plus-du-logiciel/bibliotheque-de-textes.md) :
 
 * Dans la liste déroulante "Chercher dans" du menu de ligne, sélectionnez "Texte"
 * Saisissez les premières lettres de l'identifiant ou du libellé du texte à ajouter au devis et sélectionnez-le dans la liste proposée

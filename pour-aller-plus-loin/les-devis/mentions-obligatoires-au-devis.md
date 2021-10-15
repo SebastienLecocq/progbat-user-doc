@@ -76,7 +76,7 @@ Au 1er Juillet 2021, le décret n° 2020-1817 du 29 décembre 2020, oblige à pr
 * Le ou les points de collecte où votre entreprise prévoit de déposer les déchets issus du chantier (points de collecte identifiés par leur raison sociale, leur adresse et le type d'installation)
 * Estimation des coûts de gestion et d'enlèvement des déchets
 
-:point_right: Sous le logiciel : [Créez un texte pré-enregistré](../bibliotheque-de-textes.md) reprenant ces 4 points, et insérez-le dans une [ligne de commentaire](nouveau-devis/saisir-les-lignes-du-devis/lignes-du-devis.md#creer-une-ligne-de-commentaire), vous gagnerez du temps à la saisie de vos prochains devis. 
+:point_right: Sous le logiciel : [Créez un texte pré-enregistré](../../les-plus-du-logiciel/bibliotheque-de-textes.md) reprenant ces 4 points, et insérez-le dans une [ligne de commentaire](nouveau-devis/saisir-les-lignes-du-devis/lignes-du-devis.md#creer-une-ligne-de-commentaire), vous gagnerez du temps à la saisie de vos prochains devis. 
 
 Bien sûr, complétez ce texte des informations attendues, que vous adapterez à chaque chantier.
 

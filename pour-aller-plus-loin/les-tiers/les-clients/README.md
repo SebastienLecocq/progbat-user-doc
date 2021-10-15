@@ -10,7 +10,7 @@ Bien connaître vos clients, et bien les répertorier, c'est vous permettre de m
 
 Sous le logiciel, vous allez pouvoir :
 
-:point_right: [Créer](creer-un-client-ou-prospect.md) ou [importer](../importer.md) vos clients et prospects, pour constituer et gérer facilement votre portefeuille ([liste](../les-listes-de-tiers/)) de clients.
+:point_right: [Créer](creer-un-client-ou-prospect.md) ou [importer](../importer.md) vos clients et prospects, pour constituer et gérer facilement votre portefeuille ([liste](../les-listes-de-tiers.md)) de clients.
 
 :point_right: Analyser et suivre les relations avec vos clients, grâce à la [fiche client](la-fiche-client-en-details.md), et son [outil de pilotage simplifié](la-fiche-client-en-details.md#onglet-activite)​​.
 

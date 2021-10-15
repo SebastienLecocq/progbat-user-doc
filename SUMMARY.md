@@ -4,32 +4,32 @@
 
 ## FAQ - Aides - Trucs et astuces
 
-* [🆘 La Panic'room !!!](faq-aides-trucs-et-astuces/la-panicroom.md)
-* [💡 Trucs et astuces](faq-aides-trucs-et-astuces/trucs-et-astuces.md)
+* [🆘 La  Panic'room  !!!](faq-aides-trucs-et-astuces/la-panicroom.md)
+* [💡 Trucs  &  Astuces](faq-aides-trucs-et-astuces/trucs-et-astuces.md)
 
 ## Aide au démarrage
 
 * [1⃣ Tester le logiciel](aide-au-demarrage/tester-le-logiciel.md)
-* [2⃣ Paramétrage de mon entreprise](aide-au-demarrage/parametrage-de-mon-entreprise/README.md)
+* [2⃣ Paramétrage](aide-au-demarrage/parametrage-de-mon-entreprise/README.md)
   * [Informations officielles de mon entreprise](aide-au-demarrage/parametrage-de-mon-entreprise/informations-officielles-de-mon-entreprise.md)
   * [Coordonnées et assurances de l'entreprise](aide-au-demarrage/parametrage-de-mon-entreprise/coordonnees-et-assurances-de-lentreprise.md)
   * [Logo et signature de l'entreprise](aide-au-demarrage/parametrage-de-mon-entreprise/logo-et-signature-de-lentreprise.md)
   * [Numérotation des documents](aide-au-demarrage/parametrage-de-mon-entreprise/numerotation-des-documents.md)
   * [Conditions de règlement](aide-au-demarrage/parametrage-de-mon-entreprise/conditions-de-reglement.md)
-  * [Les utilisateurs](aide-au-demarrage/parametrage-de-mon-entreprise/les-utilisateurs/README.md)
-    * [Créer et gérer les utilisateurs](aide-au-demarrage/parametrage-de-mon-entreprise/les-utilisateurs/gerer-utilisateurs.md)
-    * [Gestion des droits](aide-au-demarrage/parametrage-de-mon-entreprise/les-utilisateurs/gestion-des-droits.md)
   * [Envois par mail](aide-au-demarrage/parametrage-de-mon-entreprise/envois-par-mail/README.md)
     * [Paramétrer ma propre adresse mail](aide-au-demarrage/parametrage-de-mon-entreprise/envois-par-mail/parametrer-ma-propre-adresse-mail.md)
-* [3⃣ Migration vers ce logiciel](aide-au-demarrage/migration-vers-notre-logiciel.md)
+* [3⃣ Utilisateurs](aide-au-demarrage/les-utilisateurs/README.md)
+  * [Créer et gérer les utilisateurs](aide-au-demarrage/les-utilisateurs/gerer-utilisateurs.md)
+  * [Gestion des droits](aide-au-demarrage/les-utilisateurs/gestion-des-droits.md)
+* [4⃣ Migration](aide-au-demarrage/migration-vers-notre-logiciel.md)
 
 ## POUR ALLER PLUS LOIN
 
 * [🤝 Tiers](pour-aller-plus-loin/les-tiers/README.md)
   * [Catégories et groupes de tiers](pour-aller-plus-loin/les-tiers/categories-et-groupes-de-tiers.md)
-  * [Listes de Tiers](pour-aller-plus-loin/les-tiers/les-listes-de-tiers/README.md)
-    * [Créer un tiers](pour-aller-plus-loin/les-tiers/les-listes-de-tiers/creer-un-tiers.md)
-    * [Les fiches Tiers](pour-aller-plus-loin/les-tiers/les-listes-de-tiers/les-fiches-tiers.md)
+  * [Créer un tiers](pour-aller-plus-loin/les-tiers/creer-un-tiers.md)
+  * [Fiche tiers](pour-aller-plus-loin/les-tiers/les-fiches-tiers.md)
+  * [Listes de tiers](pour-aller-plus-loin/les-tiers/les-listes-de-tiers.md)
   * [Clients](pour-aller-plus-loin/les-tiers/les-clients/README.md)
     * [Créer un Client (ou prospect)](pour-aller-plus-loin/les-tiers/les-clients/creer-un-client-ou-prospect.md)
     * [La fiche Client en détails](pour-aller-plus-loin/les-tiers/les-clients/la-fiche-client-en-details.md)
@@ -41,7 +41,7 @@
   * [Sous-traitants](pour-aller-plus-loin/les-tiers/les-sous-traitants/README.md)
     * [Créer un Sous-traitant](pour-aller-plus-loin/les-tiers/les-sous-traitants/creer-un-sous-traitant.md)
     * [La fiche Sous-traitants en détails](pour-aller-plus-loin/les-tiers/les-sous-traitants/la-fiche-sous-traitants-en-details.md)
-  * [IMPORTER clients et fournisseurs](pour-aller-plus-loin/les-tiers/importer.md)
+  * [🔝 Importer clients et fournisseurs](pour-aller-plus-loin/les-tiers/importer.md)
 * [👷 Chantiers](pour-aller-plus-loin/les-chantiers-1/README.md)
   * [Pourquoi créer un chantier ?](pour-aller-plus-loin/les-chantiers-1/pourquoi-creer-un-chantier.md)
   * [Créer un chantier](pour-aller-plus-loin/les-chantiers-1/creer-un-chantier.md)
@@ -55,11 +55,12 @@
     * [Créer un ouvrage dans votre bibliothèque](pour-aller-plus-loin/bibliotheque-de-chiffrage/la-bibliotheque-douvrages/creer-un-ouvrage-dans-votre-bibliotheque.md)
     * [Modifier un ouvrage de votre bibliothèque](pour-aller-plus-loin/bibliotheque-de-chiffrage/la-bibliotheque-douvrages/modifier-un-ouvrage-de-votre-bibliotheque.md)
     * [Composer un ouvrage](pour-aller-plus-loin/bibliotheque-de-chiffrage/la-bibliotheque-douvrages/composer-un-ouvrage.md)
-  * [Importer une bibliothèque de prix](pour-aller-plus-loin/bibliotheque-de-chiffrage/importer/README.md)
-    * [Import de fichier fournitures ou ouvrages](pour-aller-plus-loin/bibliotheque-de-chiffrage/importer/import-de-fichier-fournitures-ou-ouvrages.md)
-    * [Import de tarifs fournisseurs](pour-aller-plus-loin/bibliotheque-de-chiffrage/importer/import-de-tarifs-fournisseurs.md)
   * [BatiChiffrage©](pour-aller-plus-loin/bibliotheque-de-chiffrage/batichiffrage-c/README.md)
     * [Utiliser BatiChiffrage© au quotidien](pour-aller-plus-loin/bibliotheque-de-chiffrage/batichiffrage-c/utiliser-batichiffrage-c-au-quotidien.md)
+  * [🔝 Importer une bibliothèque de prix](pour-aller-plus-loin/bibliotheque-de-chiffrage/importer/README.md)
+    * [Import de fichier fournitures ou ouvrages](pour-aller-plus-loin/bibliotheque-de-chiffrage/importer/import-de-fichier-fournitures-ou-ouvrages.md)
+    * [Import de tarifs fournisseurs](pour-aller-plus-loin/bibliotheque-de-chiffrage/importer/import-de-tarifs-fournisseurs.md)
+* [🧾 Modèles de document](pour-aller-plus-loin/modeles-de-document.md)
 * [📝 Devis](pour-aller-plus-loin/les-devis/README.md)
   * [Mentions obligatoires au devis](pour-aller-plus-loin/les-devis/mentions-obligatoires-au-devis.md)
   * [Créer un devis](pour-aller-plus-loin/les-devis/nouveau-devis/README.md)
@@ -97,8 +98,6 @@
   * [Valider une facture](pour-aller-plus-loin/les-factures/valider-une-facture.md)
   * [Modifier, supprimer ou annuler une facture](pour-aller-plus-loin/les-factures/modifier-supprimer-ou-annuler-une-facture.md)
   * [Imprimer une facture](pour-aller-plus-loin/les-factures/imprimer-une-facture.md)
-* [📗 Bibliothèque de textes](pour-aller-plus-loin/bibliotheque-de-textes.md)
-* [🧾 Modèles de document](pour-aller-plus-loin/modeles-de-document.md)
 * [💳 Achats](pour-aller-plus-loin/les-achats/README.md)
   * [Demandes de prix](pour-aller-plus-loin/les-achats/demandes-de-prix.md)
   * [Commandes](pour-aller-plus-loin/les-achats/les-bons-de-commande/README.md)
@@ -135,6 +134,7 @@
 
 ## LES "PLUS" DU LOGICIEL
 
+* [📗 Bibliothèque de textes](les-plus-du-logiciel/bibliotheque-de-textes.md)
 * [📌 Attestation de TVA](les-plus-du-logiciel/attestation-de-tva.md)
 * [🔔 Notifications](les-plus-du-logiciel/notifications.md)
 * [✒ Signature électronique](les-plus-du-logiciel/signature-electronique/README.md)

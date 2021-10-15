@@ -7,7 +7,7 @@
 
 
 {% hint style="info" %}
-Créer un client (ou un prospect) va générer une [fiche client](la-fiche-client-en-details.md), automatiquement enregistrée dans votre [liste de tiers](../les-listes-de-tiers/).
+Créer un client (ou un prospect) va générer une [fiche client](la-fiche-client-en-details.md), automatiquement enregistrée dans votre [liste de tiers](../les-listes-de-tiers.md).
 
 La fiche client va centraliser toutes les informations, données et documents liés à votre client :
 

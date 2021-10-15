@@ -1,10 +1,12 @@
-# Importer une bibliothèque de prix
+# 🔝 Importer une bibliothèque de prix
 
-{% page-ref page="import-de-fichier-fournitures-ou-ouvrages.md" %}
+{% content-ref url="import-de-fichier-fournitures-ou-ouvrages.md" %}
+[import-de-fichier-fournitures-ou-ouvrages.md](import-de-fichier-fournitures-ou-ouvrages.md)
+{% endcontent-ref %}
 
-{% page-ref page="import-de-tarifs-fournisseurs.md" %}
-
-
+{% content-ref url="import-de-tarifs-fournisseurs.md" %}
+[import-de-tarifs-fournisseurs.md](import-de-tarifs-fournisseurs.md)
+{% endcontent-ref %}
 
 
 

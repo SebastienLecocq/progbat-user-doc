@@ -12,7 +12,7 @@ Découvrez toute l'utilité de chacun des 4 onglets de cette fiche :
 
 * **Identité**
   * Modifiez les informations d'identification de votre fournisseur, ou apportez-y des informations complémentaires.
-  *   Décochez "Tiers actif?" pour ne plus voir apparaître ce fournisseur à la création d'un bon de commande / facture d'achat, tout en le conservant dans votre [liste de tiers](../les-listes-de-tiers/).
+  *   Décochez "Tiers actif?" pour ne plus voir apparaître ce fournisseur à la création d'un bon de commande / facture d'achat, tout en le conservant dans votre [liste de tiers](../les-listes-de-tiers.md).
 
 
 *   **Informations**

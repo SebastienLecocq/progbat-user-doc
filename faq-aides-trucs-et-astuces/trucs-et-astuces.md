@@ -1,4 +1,4 @@
-# 💡 Trucs et astuces
+# 💡 Trucs  &  Astuces
 
 ## Correcteur orthographique
 
@@ -111,7 +111,7 @@ Vous pouvez, à de nombreux endroits, insérer des textes pré-enregistrés, afi
 * Objet de devis
 * etc...
 
-Cliquez [ici](../pour-aller-plus-loin/bibliotheque-de-textes.md) pour apprendre à créer ces textes pré-enregistrés.
+Cliquez [ici](../les-plus-du-logiciel/bibliotheque-de-textes.md) pour apprendre à créer ces textes pré-enregistrés.
 
 
 

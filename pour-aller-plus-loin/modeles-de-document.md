@@ -1,9 +1,16 @@
 # 🧾 Modèles de document
 
-Des modèles de devis, factures, commandes fournisseur, courriers, ...., sont mis à votre disposition.\
+![](../.gitbook/assets/modele.png)
+
+Des modèles de devis, factures, commandes fournisseur, courriers de relance, demandes de libération de retenue de garantie, etc..., sont mis à votre disposition.
+
 Vous pouvez créer et personnaliser vos propres modèles pour des documents uniques, aux couleurs de votre entreprise.
 
-![](../.gitbook/assets/modele.png)
+{% hint style="info" %}
+Vous n'avez pas le temps ou n'arrivez pas à personnaliser votre modèle de document? Confiez nous cette tâche ! 
+
+Faites parvenir votre modèle au support technique ou à votre revendeur, un devis vous sera alors adressé pour la reproduction quasi à l'identique de votre modèle.
+{% endhint %}
 
 ## Afficher mon logo, les coordonnées et la signature de mon entreprise
 

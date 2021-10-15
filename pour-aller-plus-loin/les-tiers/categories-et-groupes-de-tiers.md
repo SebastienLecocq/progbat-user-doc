@@ -9,7 +9,7 @@ Plusieurs catégories de tiers sont proposées par défaut :
 * Prospects
 * Sous-traitants.
 
-[Créez vos tiers](les-listes-de-tiers/creer-un-tiers.md) dans chacune des catégories proposées.
+[Créez vos tiers](creer-un-tiers.md) dans chacune des catégories proposées.
 
 
 
@@ -23,7 +23,7 @@ Comme par exemple "Architectes", "Entreprises de travail temporaire", ou encore 
 
 ![](../../.gitbook/assets/screenshot-176-.png)
 
-Ou bien, depuis une [liste de tiers](les-listes-de-tiers/), à droite de la page, cliquez sur "Créer catégorie" :
+Ou bien, depuis une [liste de tiers](les-listes-de-tiers.md), à droite de la page, cliquez sur "Créer catégorie" :
 
 ![](../../.gitbook/assets/screenshot-50b-.png)
 
@@ -51,7 +51,7 @@ Vous pouvez affecter un ou plusieurs groupes à vos tiers, de sorte à mieux les
 
 ### Créer un groupe
 
-:point_right: Depuis une [liste de tiers](les-listes-de-tiers/), à droite de la page : cliquez sur "Gérer les groupes", puis sur "Nouveau groupe"
+:point_right: Depuis une [liste de tiers](les-listes-de-tiers.md), à droite de la page : cliquez sur "Gérer les groupes", puis sur "Nouveau groupe"
 
 ![](../../.gitbook/assets/screenshot-177-.png)
 

@@ -93,5 +93,5 @@ Cliquez sur:floppy_disk:pour définir ce texte par défaut. Vos prochains devis 
 ![](../../.gitbook/assets/screenshot-41-.png)
 
 {% hint style="info" %}
-:bulb: Insérez un [texte pré-enregistré](../bibliotheque-de-textes.md) pour adapter votre texte d'acceptation au type de marché.
+:bulb: Insérez un [texte pré-enregistré](../../les-plus-du-logiciel/bibliotheque-de-textes.md) pour adapter votre texte d'acceptation au type de marché.
 {% endhint %}
