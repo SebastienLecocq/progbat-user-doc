@@ -1,4 +1,4 @@
-# 📎 Créer & saisir un devis
+# ➖ Créer un devis
 
 ## :digit_one: Créer un devis
 
@@ -79,4 +79,3 @@ Il est possible de créer un devis sans créer de fiche chantier, et de décider
 ## Comment saisir les lignes de mon devis?
 
 Cliquez [ici](saisir-les-lignes-du-devis/).
-

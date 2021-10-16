@@ -1,6 +1,6 @@
 # Remises
 
-Il est préférable d'indiquer votre [remise dès le devis](../les-devis/creer-and-saisir-un-devis/remise.md), car c'est le devis qui expose et fait accepter les termes du marché à votre client.
+Il est préférable d'indiquer votre [remise dès le devis](../les-devis/le-devis-en-details/remise.md), car c'est le devis qui expose et fait accepter les termes du marché à votre client.
 
 {% hint style="warning" %}
 Si votre remise correspond à des travaux qui ne seront pas effectués, établissez alors un [avenant](https://app.gitbook.com/@batidocs/s/documentation/\~/drafts/-Menm1wOmfmOcAl2vjRd/les-avenants). Celui-ci modifiera le montant du marché et rendra plus cohérente votre facturation, pour votre client mais aussi pour votre comptabilité.

@@ -66,7 +66,7 @@ Le logiciel se charge de réaliser les calculs nécessaires.
 
 
 
-:digit_four: Vérifiez les données de l'onglet "Pied" de votre facture, modifiez / ajoutez des données **uniquement **si nécessaire (saisir d'une déduction pour [compte prorata](../les-devis/creer-and-saisir-un-devis/deductions-complementaires/le-compte-prorata.md#dans-la-facture) par exemple).
+:digit_four: Vérifiez les données de l'onglet "Pied" de votre facture, modifiez / ajoutez des données **uniquement **si nécessaire (saisir d'une déduction pour [compte prorata](../les-devis/le-devis-en-details/deductions-complementaires/le-compte-prorata.md#dans-la-facture) par exemple).
 
 Si vous aviez réalisé une facture d'acompte, la totalité de l'acompte sera déduite de la première situation de travaux. Si vous le souhaitez, vous pourrez [déduire l'acompte partiellement](la-facture-dacompte.md#deduction-partielle-de-lacompte).
 

@@ -41,7 +41,7 @@ Cliquez sur le bouton "Déductions sur TTC (RG, prorata, ...)"
 
 
 
-### :digit_one: Retenue de garantie [(plus d'informations)](../les-devis/creer-and-saisir-un-devis/deductions-complementaires/retenue-de-garantie.md#definir-la-retenue-de-garantie)
+### :digit_one: Retenue de garantie [(plus d'informations)](../les-devis/le-devis-en-details/deductions-complementaires/retenue-de-garantie.md#definir-la-retenue-de-garantie)
 
 * Dans le pied de la facture, cliquez sur le bouton "Déductions sur TTC"
 * Cliquez sur le bouton ![](../../.gitbook/assets/screenshot-2021-08-19t161919.604.png) pour créer une nouvelle ligne
@@ -57,7 +57,7 @@ Le montant de la RG est calculé, et les totaux de la facture mis à jour.
 
 ### :digit_two: Compte prorata
 
-Exactement comme pour la retenue de garantie, sélectionnez "[Compte prorata](../les-devis/creer-and-saisir-un-devis/deductions-complementaires/le-compte-prorata.md)", et modifiez le taux à déduire si nécessaire, en terminant la saisie par le symbole "%".
+Exactement comme pour la retenue de garantie, sélectionnez "[Compte prorata](../les-devis/le-devis-en-details/deductions-complementaires/le-compte-prorata.md)", et modifiez le taux à déduire si nécessaire, en terminant la saisie par le symbole "%".
 
 **En cas de révision de prix, le compte prorata sera calculé sur le montant TTC de la facture AVANT application de la révision de prix.**
 

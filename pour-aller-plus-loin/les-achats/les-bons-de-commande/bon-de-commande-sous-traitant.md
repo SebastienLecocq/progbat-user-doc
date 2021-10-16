@@ -12,7 +12,7 @@ Il existe 2 manières de créer une commande fournisseur :
 
 ### :point_right: Créer "automatiquement" une commande sous-traitant
 
-**Gain de temps considérable!  **La [synthèse du devis](../../les-devis/creer-and-saisir-un-devis/synthese-du-devis.md) permet de créer automatiquement votre bon de commande, sans avoir à en saisir les lignes :
+**Gain de temps considérable!  **La [synthèse du devis](../../les-devis/le-devis-en-details/synthese-du-devis.md) permet de créer automatiquement votre bon de commande, sans avoir à en saisir les lignes :
 
 :digit_one: Depuis l'onglet "Synthèse" du devis, cliquez sur le bouton "Actions", puis choisissez de "Créer une commande sous-traitant à partir des ouvrages"
 

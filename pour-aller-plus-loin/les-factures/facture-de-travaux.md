@@ -32,7 +32,7 @@ Dans la colonne![](../../.gitbook/assets/screenshot-158-.png)(pourcentage d'avan
 
 
 
-:digit_three: Vérifiez les données de l'onglet "Pied" de votre facture, modifiez / ajoutez des données **uniquement **si nécessaire (saisir d'une déduction pour [compte prorata](../les-devis/creer-and-saisir-un-devis/deductions-complementaires/le-compte-prorata.md#dans-la-facture), par exemple).
+:digit_three: Vérifiez les données de l'onglet "Pied" de votre facture, modifiez / ajoutez des données **uniquement **si nécessaire (saisir d'une déduction pour [compte prorata](../les-devis/le-devis-en-details/deductions-complementaires/le-compte-prorata.md#dans-la-facture), par exemple).
 
 
 

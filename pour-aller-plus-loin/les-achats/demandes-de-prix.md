@@ -20,7 +20,7 @@ Il y existe 2 manières de créer une demande de prix fournisseur :
 
 ### :point_right: Créer "automatiquement" une demande de prix fournisseur
 
-**Gain de temps considérable!  **La [synthèse du devis](../les-devis/creer-and-saisir-un-devis/synthese-du-devis.md) permet de créer automatiquement votre demande de prix, puis votre bon de commande, sans avoir à en saisir les lignes :
+**Gain de temps considérable!  **La [synthèse du devis](../les-devis/le-devis-en-details/synthese-du-devis.md) permet de créer automatiquement votre demande de prix, puis votre bon de commande, sans avoir à en saisir les lignes :
 
 
 

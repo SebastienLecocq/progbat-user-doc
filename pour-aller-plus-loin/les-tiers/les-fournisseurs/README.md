@@ -12,7 +12,7 @@ Sous le logiciel, vous allez pouvoir :
 
 :point_right: Analyser et suivre les relations avec vos fournisseurs, grâce à la [fiche fournisseur](la-fiche-fournisseur-en-details.md), et son [outil de pilotage simplifié](../les-clients/la-fiche-client-en-details.md#onglet-activite)​​.
 
-:point_right: Directement depuis la [synthèse du devis](../../les-devis/creer-and-saisir-un-devis/synthese-du-devis.md), créer une demande de prix, ou un bon de commande, sans avoir à le saisir.
+:point_right: Directement depuis la [synthèse du devis](../../les-devis/le-devis-en-details/synthese-du-devis.md), créer une demande de prix, ou un bon de commande, sans avoir à le saisir.
 
 :point_right: Depuis un [bon de commande fournisseurs](../../les-achats/les-bons-de-commande/#bon-de-commande-fournisseur), enregistrer et suivre les [livraisons](../../les-achats/les-bons-de-livraison/), puis créer une [facture d'achat](../../les-achats/les-factures-dachat.md), sans avoir à les saisir.
 

@@ -64,7 +64,7 @@ Deux clients ne peuvent pas avoir le même identifiant, ainsi, pas de risque d'e
 :point_right: Le dernier champ "Taux de TVA" permet de déterminer une TVA par défaut. 
 
 * Ce taux sera alors appliqué automatiquement à la création d'un devis/facture pour ce client
-* Vous pourrez [modifier ce taux](../../les-devis/creer-and-saisir-un-devis/tva-multiple.md) depuis vos documents, et ainsi l'ajuster en fonction des ouvrages à réaliser.
+* Vous pourrez [modifier ce taux](../../les-devis/le-devis-en-details/tva-multiple.md) depuis vos documents, et ainsi l'ajuster en fonction des ouvrages à réaliser.
 
 
 

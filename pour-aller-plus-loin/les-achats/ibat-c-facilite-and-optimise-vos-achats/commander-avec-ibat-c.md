@@ -19,7 +19,7 @@ Ne changez pas vos habitudes sous le logiciel ! Pour créer une demande de prix 
 
 ### :point_right: Depuis la synthèse du devis
 
-****:information_source: Gain de temps considérable! ** **La [synthèse du devis](../../les-devis/creer-and-saisir-un-devis/synthese-du-devis.md) permet de constituer automatiquement la liste des éléments à commander, sans avoir à les saisir.
+****:information_source: Gain de temps considérable! ** **La [synthèse du devis](../../les-devis/le-devis-en-details/synthese-du-devis.md) permet de constituer automatiquement la liste des éléments à commander, sans avoir à les saisir.
 
 \
 \
@@ -89,7 +89,7 @@ Ne changez pas vos habitudes sous le logiciel ! Pour créer une commande avec iB
 
 ### :point_right: Depuis la synthèse du devis
 
-****:information_source: Gain de temps considérable! ** **La [synthèse du devis](../../les-devis/creer-and-saisir-un-devis/synthese-du-devis.md) permet de constituer automatiquement la liste des éléments à commander, sans avoir à les saisir.
+****:information_source: Gain de temps considérable! ** **La [synthèse du devis](../../les-devis/le-devis-en-details/synthese-du-devis.md) permet de constituer automatiquement la liste des éléments à commander, sans avoir à les saisir.
 
 
 

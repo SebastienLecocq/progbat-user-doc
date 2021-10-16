@@ -80,7 +80,7 @@ Depuis le [bon de commande](../les-achats/les-bons-de-commande/bon-de-commande-f
 
 Créez un élément de main d'oeuvre différent selon le coût de votre personnel, par exemple "Main d'oeuvre - Personnel", "MO - Conducteur de travaux".
 
-Vous pouvez choisir de créer un élément de main d'oeuvre en heures, ou bien en m² par exemple. Mais il est recommandé de choisir l'unité "heure" car elle permettra une [estimation rapide et claire du temps à consacrer à vos ouvrages](../les-devis/creer-and-saisir-un-devis/prevoir-le-temps-passe.md), dès la saisie du devis.
+Vous pouvez choisir de créer un élément de main d'oeuvre en heures, ou bien en m² par exemple. Mais il est recommandé de choisir l'unité "heure" car elle permettra une [estimation rapide et claire du temps à consacrer à vos ouvrages](../les-devis/le-devis-en-details/prevoir-le-temps-passe.md), dès la saisie du devis.
 
 :information_source: C'est ce 
 
@@ -90,7 +90,7 @@ Vous pouvez choisir de créer un élément de main d'oeuvre en heures, ou bien e
 
 De la même manière que vous avez créé vos éléments de main d'oeuvre, vous pourrez créer vos éléments de sous-traitance : en heures s'il ne s'agit que de main d'oeuvre, à l'unité s'il s'agit de travaux réalisés en totalité, ou encore en m² par exemple.
 
-Indiquer la sous-traitance en heures vous permettra une [estimation rapide et claire du temps de travaux](../les-devis/creer-and-saisir-un-devis/prevoir-le-temps-passe.md), dès la saisie du devis.
+Indiquer la sous-traitance en heures vous permettra une [estimation rapide et claire du temps de travaux](../les-devis/le-devis-en-details/prevoir-le-temps-passe.md), dès la saisie du devis.
 
 
 

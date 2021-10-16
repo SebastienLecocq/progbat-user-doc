@@ -10,7 +10,7 @@ Regrouper vos ouvrages et éléments en familles métier, ou corps d'état, perm
 
 :point_right: **Une recherche facile et ciblée :** 
 
-Depuis la [recherche avancée](../les-devis/creer-and-saisir-un-devis/saisir-les-lignes-du-devis/le-menu-de-lignes.md#recherche-rapide-ou-avancee) du devis, ou bien dans votre bibliothèque d'ouvrages ou d’éléments, saisissez les premières lettres de la famille métier, et sélectionnez-la dans la liste proposée.
+Depuis la [recherche avancée](../les-devis/le-devis-en-details/saisir-les-lignes-du-devis/le-menu-de-lignes.md#recherche-rapide-ou-avancee) du devis, ou bien dans votre bibliothèque d'ouvrages ou d’éléments, saisissez les premières lettres de la famille métier, et sélectionnez-la dans la liste proposée.
 
 ![](../../.gitbook/assets/screenshot-214-.png)
 
