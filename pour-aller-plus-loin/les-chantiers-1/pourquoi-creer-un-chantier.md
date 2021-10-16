@@ -1,4 +1,4 @@
-# Pourquoi créer un chantier ?
+# 📎 Pourquoi créer un chantier ?
 
 Si vos clients sont principalement des particuliers, et que vous intervenez le plus souvent à leur domicile, la notion de chantier peut vous paraître superflue, voire inutile. Et pourtant...
 

@@ -4,7 +4,7 @@ Apprenez à utiliser chaque fonction de ce menu :
 
 ## :digit_one: Ajout rapide d'une ligne d'ouvrage au devis
 
-![](../../../.gitbook/assets/menu-ligne-ajouter.png)
+![](../../../../../.gitbook/assets/menu-ligne-ajouter.png)
 
 Cliquez simplement sur "Ajouter" pour qu'une ligne d'ouvrage apparaisse, prête à accueillir votre saisie ou recherche. 
 
@@ -12,14 +12,14 @@ Cliquez simplement sur "Ajouter" pour qu'une ligne d'ouvrage apparaisse, prête 
 
 ## :digit_two: Ajout de titre, ligne, commentaire, saut de page
 
-![](<../../../.gitbook/assets/menu-ligne-ajouter-dans (1).png>)
+![](<../../../../../.gitbook/assets/menu-ligne-ajouter-dans (1).png>)
 
 Ce menu vous permet d'ajouter :
 
-* [Un titre](saisir-les-lignes-du-devis/titres_devis.md#creer-un-titre) puis un sous-titre
-* [Une ligne d'ouvrage](saisir-les-lignes-du-devis/lignes-du-devis.md#creer-une-ligne-de-devis)​, mais il est plus simple de cliquer directement sur le bouton "Ajouter"
-* [Un commentaire](saisir-les-lignes-du-devis/lignes-du-devis.md#creer-une-ligne-de-commentaire)
-* [Un saut de page](saisir-les-lignes-du-devis/lignes-du-devis.md#creer-un-saut-de-page)
+* [Un titre](lignes-du-devis/titres_devis.md#creer-un-titre) puis un sous-titre
+* [Une ligne d'ouvrage](lignes-du-devis/#creer-une-ligne-de-devis)​, mais il est plus simple de cliquer directement sur le bouton "Ajouter"
+* [Un commentaire](lignes-du-devis/#creer-une-ligne-de-commentaire)
+* [Un saut de page](lignes-du-devis/#creer-un-saut-de-page)
 
 :bulb: Ajoutez différents types de lignes pour organiser et rendre clair et attractif votre devis.
 
@@ -27,7 +27,7 @@ Ce menu vous permet d'ajouter :
 
 ## :digit_three: Recherche rapide ou avancée
 
-![](../../../.gitbook/assets/menu-ligne-ajouter-dans.png)
+![](../../../../../.gitbook/assets/menu-ligne-ajouter-dans.png)
 
 **Ajoutez rapidement** un ouvrage, un élément, un texte à votre devis :
 
@@ -36,17 +36,17 @@ Ce menu vous permet d'ajouter :
 
 
 
-![](../../../.gitbook/assets/menu-ligne-recherche-avancee.png)
+![](../../../../../.gitbook/assets/menu-ligne-recherche-avancee.png)
 
 **Recherchez précisément** un ouvrage, un élément, un texte à ajouter au devis, depuis les bibliothèques logiciel ou BatiChiffrage©​.
 
-Apprendre à utiliser la [recherche avancée](saisir-les-lignes-du-devis/methodes-de-saisie.md#grace-a-la-recherche-avancee).
+Apprendre à utiliser la [recherche avancée](methodes-de-saisie.md#grace-a-la-recherche-avancee).
 
 
 
 ## &#xD; :digit_four: **Copie de ligne**
 
-![](../../../.gitbook/assets/menu-ligne-copier.png)
+![](../../../../../.gitbook/assets/menu-ligne-copier.png)
 
 Copiez à l’identique la ligne sélectionnée, qui se placera alors juste en dessous.
 
@@ -54,7 +54,7 @@ Copiez à l’identique la ligne sélectionnée, qui se placera alors juste en d
 
 ## ****:digit_five:** Suppression de ligne, de titre/sous-titre et de son contenu**
 
-![](../../../.gitbook/assets/menu-ligne-supprimer.png)
+![](../../../../../.gitbook/assets/menu-ligne-supprimer.png)
 
 Supprimez la ligne sélectionnée.
 
@@ -66,7 +66,7 @@ Si la ligne à supprimer est un titre ou un sous-titre, c’est l’intégralit�
 
 ## :digit_six: **Métrage - Calculatrice de quantité avancée**
 
-![](../../../.gitbook/assets/menu-ligne-calculatrice.png)
+![](../../../../../.gitbook/assets/menu-ligne-calculatrice.png)
 
 Calculez efficacement** **vos quantités, surfaces ou volumes par exemple. Enregistrez vos variables et opérations, le logiciel calcule et insère pour vous la quantité à indiquer au devis.
 
@@ -76,11 +76,11 @@ Calculez efficacement** **vos quantités, surfaces ou volumes par exemple. Enreg
 
 Deux options s'offrent à vous pour organiser votre devis :
 
-![](../../../.gitbook/assets/menu-ligne-deplacement.png)
+![](../../../../../.gitbook/assets/menu-ligne-deplacement.png)
 
 * Déplacez la ligne sélectionnée, vers le haut ou vers le bas, au sein d’un même titre/sous-titre.
 
-![](../../../.gitbook/assets/menu-ligne-deplacement2.png)
+![](../../../../../.gitbook/assets/menu-ligne-deplacement2.png)
 
 * Déplacez la ligne sélectionnée à l’endroit souhaité dans votre document : 
   * avant ou après la ligne sélectionnée, au sein du même titre/sous-titre
@@ -90,7 +90,7 @@ Deux options s'offrent à vous pour organiser votre devis :
 
 ## :digit_eight: **Enregistrement d’un ouvrage dans votre bibliothèque**
 
-![](<../../../.gitbook/assets/menu-ligne-enregistrer-maj (1).png>)
+![](<../../../../../.gitbook/assets/menu-ligne-enregistrer-maj (1).png>)
 
 **Constituez votre bibliothèque d'ouvrages tout en saisissant vos devis, et devenez rapidement plus efficace dans vos chiffrages.**
 
@@ -106,7 +106,7 @@ Ce bouton permet :
     Les modifications enregistrées seront : libellé, identifiant, unité et prix de vente
 
 {% hint style="warning" %}
-Lors de la mise à jour d'un ouvrage, les modifications du prix d'achat et de vente des [éléments composant l'ouvrage](../../bibliotheque-de-chiffrage/la-bibliotheque-douvrages/#la-composition-des-ouvrages) (fournitures, main d'oeuvre, ...) ne seront pas enregistrées.
+Lors de la mise à jour d'un ouvrage, les modifications du prix d'achat et de vente des [éléments composant l'ouvrage](../../../../bibliotheque-de-chiffrage/la-bibliotheque-douvrages/#la-composition-des-ouvrages) (fournitures, main d'oeuvre, ...) ne seront pas enregistrées.
 
 Ainsi, le prix de vente de l'ouvrage mis à jour en bibliothèque ne tient plus compte des éléments qui le composent et donc des marges permettant son chiffrage (calcul du prix de vente).
 
@@ -119,9 +119,9 @@ __:warning:_Les ouvrages ajoutés à vos devis **avant** la mise à jour ne sero
 
 ## ****:digit_nine: **Récupération des données d’un ouvrage sans modifier son libellé**
 
-![](../../../.gitbook/assets/menu-ligne-lien.png)
+![](../../../../../.gitbook/assets/menu-ligne-lien.png)
 
-Ce bouton est le plus souvent utilisé suite à l’[import de devis ou DPGF.](../import-export.md#import-de-dpgf-et-devis-au-format-excel)
+Ce bouton est le plus souvent utilisé suite à l’[import de devis ou DPGF.](../../../import-export.md#import-de-dpgf-et-devis-au-format-excel)
 
 Il permet de conserver le libellé importé ou saisi, tout en y insérant les données de chiffrage et comptables d’un ouvrage présent en bibliothèque.
 

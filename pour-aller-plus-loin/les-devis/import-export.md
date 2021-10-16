@@ -1,4 +1,4 @@
-# Import - Export de devis / DPGF
+# 🔴 Import - Export de devis / DPGF
 
 ## Import de DPGF et devis au format Excel
 
@@ -48,7 +48,7 @@ Le fichier Excel doit être "formaté", c'est à dire que les colonnes doivent r
 
 ### :digit_three: Importez le fichier
 
-*   Créez un [nouveau devis](nouveau-devis/), puis ouvrez l'onglet "Lignes"
+*   Créez un [nouveau devis](saisir-un-devis/nouveau-devis/), puis ouvrez l'onglet "Lignes"
 
 
 *    Cliquez à droite de la page sur le bouton "Import/Export", et choisissez "Importer le contenu"

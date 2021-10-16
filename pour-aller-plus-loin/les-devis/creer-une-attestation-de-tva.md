@@ -1,4 +1,5 @@
-# Créer une attestation de TVA
+# 📎 Créer une attestation de TVA
 
-{% page-ref page="../../les-plus-du-logiciel/attestation-de-tva.md" %}
-
+{% content-ref url="../../les-plus-du-logiciel/attestation-de-tva.md" %}
+[attestation-de-tva.md](../../les-plus-du-logiciel/attestation-de-tva.md)
+{% endcontent-ref %}

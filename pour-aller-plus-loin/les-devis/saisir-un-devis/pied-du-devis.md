@@ -1,12 +1,12 @@
-# Pied du devis
+# 📎 Pied du devis
 
-![](../../.gitbook/assets/screenshot-107-.png)
+![](../../../.gitbook/assets/screenshot-107-.png)
 
 Le pied du devis est composé de 4 sections :
 
 ## :digit_one: Les Totaux
 
-![](../../.gitbook/assets/screenshot-44-.png)
+![](../../../.gitbook/assets/screenshot-44-.png)
 
 Dans ce bloc, vous pourrez modifier : 
 
@@ -25,7 +25,7 @@ Le coefficient permet de majorer le montant du devis, en répartissant la majora
 Vous pouvez à tout moment saisir le coefficient 1 pour retrouver les prix initiaux.
 
 {% hint style="info" %}
-* La majoration ne s'applique pas aux prix unitaires fixes (marqués avec un![](../../.gitbook/assets/screenshot-40-.png))
+* La majoration ne s'applique pas aux prix unitaires fixes (marqués avec un![](../../../.gitbook/assets/screenshot-40-.png))
 * Le coefficient s'applique automatiquement à chaque nouvel ouvrage saisi dans le devis
 {% endhint %}
 
@@ -52,7 +52,7 @@ Dans le pied du devis, il est possible de choisir le taux de TVA qui sera appliq
 
 Si vous modifiez le taux de TVA dans le pied du devis, tous les taux sélectionnés auparavant dans le contenu du devis seront remplacés par le nouveau taux.
 
-![](../../.gitbook/assets/screenshot-43-.png)
+![](../../../.gitbook/assets/screenshot-43-.png)
 
 Pour certains taux (comme le taux à 0%), une mention légale doit apparaître sur les devis et les factures.
 
@@ -68,11 +68,11 @@ __[_Cliquez ici_](tva-multiple.md)_ pour apprendre à modifier le taux de TVA li
 
 Les conditions de règlement indiquées au devis sont celles définies par défaut dans votre paramétrage d'entreprise, sauf si vous avez saisi des conditions spécifiques dans la fiche chantier ou la fiche client.
 
-![](../../.gitbook/assets/screenshot-42-.png)
+![](../../../.gitbook/assets/screenshot-42-.png)
 
 Vous pouvez modifier les conditions de règlement pour ce marché.
 
-![](../../.gitbook/assets/screenshot-143-.png)
+![](../../../.gitbook/assets/screenshot-143-.png)
 
 {% hint style="info" %}
 Si votre marché fait l'objet d'une [retenue de garantie](deductions-complementaires/retenue-de-garantie.md), saisissez-là dans le cadre dédié.
@@ -90,8 +90,8 @@ Saisissez votre texte d'acceptation client, et mettez-le en forme à l'aide de l
 
 Cliquez sur:floppy_disk:pour définir ce texte par défaut. Vos prochains devis mentionneront ce texte.
 
-![](../../.gitbook/assets/screenshot-41-.png)
+![](../../../.gitbook/assets/screenshot-41-.png)
 
 {% hint style="info" %}
-:bulb: Insérez un [texte pré-enregistré](../../les-plus-du-logiciel/bibliotheque-de-textes.md) pour adapter votre texte d'acceptation au type de marché.
+:bulb: Insérez un [texte pré-enregistré](../../../les-plus-du-logiciel/bibliotheque-de-textes.md) pour adapter votre texte d'acceptation au type de marché.
 {% endhint %}

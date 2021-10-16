@@ -41,7 +41,7 @@ Cliquez sur le bouton "Déductions sur TTC (RG, prorata, ...)"
 
 
 
-### :digit_one: Retenue de garantie [(plus d'informations)](../les-devis/deductions-complementaires/retenue-de-garantie.md#definir-la-retenue-de-garantie)
+### :digit_one: Retenue de garantie [(plus d'informations)](../les-devis/saisir-un-devis/deductions-complementaires/retenue-de-garantie.md#definir-la-retenue-de-garantie)
 
 * Cliquez sur le bouton ![](../../.gitbook/assets/screenshot-2021-08-19t161919.604.png) pour créer une nouvelle ligne
 * Choisissez "Retenue de garantie", par défaut, une déduction de 5% sera créée
@@ -56,7 +56,7 @@ Le montant de la RG est calculé, et les totaux de la facture mis à jour.
 
 ### :digit_two: Compte prorata
 
-Exactement comme pour la retenue de garantie, sélectionnez "[Compte prorata](../les-devis/deductions-complementaires/le-compte-prorata.md)", et modifiez le taux à déduire si nécessaire, en terminant la saisie par le symbole "%".
+Exactement comme pour la retenue de garantie, sélectionnez "[Compte prorata](../les-devis/saisir-un-devis/deductions-complementaires/le-compte-prorata.md)", et modifiez le taux à déduire si nécessaire, en terminant la saisie par le symbole "%".
 
 **En cas de révision de prix, le compte prorata sera calculé sur le montant TTC de la facture AVANT application de la révision de prix.**
 
@@ -66,7 +66,7 @@ Exactement comme pour la retenue de garantie, sélectionnez "[Compte prorata](..
 
 D'autres déductions peuvent être appliquées à la facture, comme par exemple :
 
-#### - [Primes énergie](../les-devis/deductions-complementaires/autres-deductions.md)
+#### - [Primes énergie](../les-devis/saisir-un-devis/deductions-complementaires/autres-deductions.md)
 
 #### - Paiement direct sous-traitants
 

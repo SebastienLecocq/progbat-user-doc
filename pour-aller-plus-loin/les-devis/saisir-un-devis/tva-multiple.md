@@ -1,8 +1,8 @@
-# TVA multiple
+# 📎 TVA multiple
 
 #### Il est possible de définir différents taux de TVA dans le même devis
 
-![](../../.gitbook/assets/13.png)
+![](../../../.gitbook/assets/13.png)
 
 *   Pour modifier une seule ligne, cliquez sur le taux de TVA en bout de ligne, et choisissez le taux à appliquer.
 

@@ -1,4 +1,4 @@
-# Créer un tiers
+# 📎 Créer un tiers
 
 {% content-ref url="les-clients/creer-un-client-ou-prospect.md" %}
 [creer-un-client-ou-prospect.md](les-clients/creer-un-client-ou-prospect.md)

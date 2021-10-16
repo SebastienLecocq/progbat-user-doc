@@ -1,4 +1,4 @@
-# La fiche Client en détails
+# ➖ Fiche Client
 
 Découvrez toute l'utilité de chacun des 4 onglets de cette fiche :
 

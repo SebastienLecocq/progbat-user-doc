@@ -118,13 +118,19 @@ Lorsqu'un mot est souligné en rouge, cliquez sur ce mot et appuyez simultanéme
 
 
 
-## Impossible d'imprimer ou envoyer mon document![](../.gitbook/assets/3d-robot-2.gif) 
+## Impossible d'imprimer ou envoyer mon devis - facture![](../.gitbook/assets/3d-robot-2.gif) 
 
 Il arrive parfois que la configuration de l'affichage des PDF se modifie lors d'une mise à jour du navigateur web, empêchant les devis et factures de s'afficher en impression.
 
-### **La roue tourne, et rien ne s'affiche**
+****
 
-Un exemple avec le navigateur Firefox :
+### ****:point_right: **Mon devis & facture s'ouvre dans une autre fenêtre que le logiciel**
+
+### ****:point_right: **Mon devis & facture s'enregistre en PDF dans mon ordinateur, avant que je ne puisse l'envoyer ou l'imprimer !**
+
+****
+
+Un exemple avec le navigateur Firefox **(à adapter à votre navigateur) :**
 
 * Ouvrez le menu de Firefox (les 3 petits traits en haut à droite)
 * Choisissez "Paramètres"
@@ -133,3 +139,19 @@ Un exemple avec le navigateur Firefox :
 * Dans le type de contenu PDF, sélectionnez "Ouvrir dans Firefox"
 
 ![](../.gitbook/assets/capture-decran-du-2021-07-23-15-19-24.png)
+
+
+
+## **Mon devis, ma facture, deviennent fous**
+
+** **
+
+### ****:point_right: **La numérotation de mon devis & facture est incohérente**
+
+### ****:point_right: **Le titre ou sous-titre de mon devis & facture est à 0 !**
+
+### ****:point_right:** Le total de mon titre & sous-titre est incorrect**
+
+****
+
+****

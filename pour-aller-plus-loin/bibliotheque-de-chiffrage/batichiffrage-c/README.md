@@ -1,4 +1,4 @@
-# BatiChiffrage©
+# 📎 BatiChiffrage©
 
 BatiChiffrage© est le premier éditeur de base de prix pour le bâtiment sur le marché Français.
 

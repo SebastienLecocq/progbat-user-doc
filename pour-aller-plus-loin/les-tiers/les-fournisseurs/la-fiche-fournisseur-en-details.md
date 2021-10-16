@@ -1,4 +1,4 @@
-# La fiche Fournisseur en détails
+# ➖ Fiche Fournisseur
 
 Découvrez toute l'utilité de chacun des 4 onglets de cette fiche :
 

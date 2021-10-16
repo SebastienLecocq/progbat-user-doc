@@ -1,4 +1,4 @@
-# Import de tarifs fournisseurs
+# ➖ Import de tarifs fournisseurs
 
 Le logiciel permet d’importer vos tarifs fournisseurs, et économiser de longues heures de saisies.
 

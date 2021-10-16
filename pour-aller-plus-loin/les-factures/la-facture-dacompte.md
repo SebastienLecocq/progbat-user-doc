@@ -99,7 +99,7 @@ Vous utilisiez Excel, ou un autre logiciel de devis / facturation, et vous venez
 
 Vous avez émis une facture d'acompte sous l'ancien logiciel et vous devez déduire cet acompte de votre prochaine facture :
 
-:digit_one: [Créez un devis](../les-devis/nouveau-devis/) sous le logiciel
+:digit_one: [Créez un devis](../les-devis/saisir-un-devis/nouveau-devis/) sous le logiciel
 
 :digit_one: [Importez votre devis](../les-devis/import-export.md#import-de-dpgf-et-devis-au-format-excel), ou saisissez-le manuellement
 

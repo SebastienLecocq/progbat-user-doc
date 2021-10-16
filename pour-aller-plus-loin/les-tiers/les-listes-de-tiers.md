@@ -1,4 +1,4 @@
-# Listes de tiers
+# 📎 Listes de tiers
 
 Vous avez [créé](les-clients/creer-un-client-ou-prospect.md) ou [importé](importer.md) vos tiers, peut-être créé des [catégories](categories-et-groupes-de-tiers.md#categories) et [groupes de tiers](categories-et-groupes-de-tiers.md#groupes-de-tiers).
 
@@ -12,7 +12,7 @@ En plus de vous permettre l'accès à vos [fiches tiers](les-clients/la-fiche-cl
 
 
 
-### :digit_one: Les recherches
+## :digit_one: Les recherches
 
 *   Cliquez dans un champ de recherche en entête de colonne, marqué d'une loupe![](../../.gitbook/assets/screenshot-198-.png)
 
@@ -24,7 +24,7 @@ En plus de vous permettre l'accès à vos [fiches tiers](les-clients/la-fiche-cl
 
 
 
-### :digit_two: **Les tris**
+## :digit_two: **Les tris**
 
 ![](../../.gitbook/assets/screenshot-200a-.png)
 
@@ -50,7 +50,7 @@ Ceci peut donner parfois l'impression que le tri ne fonctionne pas.
 
 ****
 
-### :digit_three: Les filtres
+## :digit_three: Les filtres
 
 A droite de la page, des filtres vous sont proposés :
 
@@ -66,7 +66,7 @@ Vous pourrez appliquer plusieurs filtres, pour un résultat ciblé.
 
 
 
-### :digit_four: **Les fonctions** 
+## :digit_four: **Les fonctions** 
 
 ![](../../.gitbook/assets/screenshot-185a-.png)Affiche la liste tiers dans un nouvel onglet, dans un format que vous pouvez imprimer
 
@@ -78,7 +78,7 @@ Vous pourrez appliquer plusieurs filtres, pour un résultat ciblé.
 
 ##
 
-### ****:digit_five: **Nombre de lignes**
+## ****:digit_five: **Nombre de lignes**
 
 *   Par défaut, les listes contiennent 20 lignes par page. Vous pouvez modifier le nombre de lignes à afficher en bas à gauche de la liste.
 

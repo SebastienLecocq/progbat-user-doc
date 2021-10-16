@@ -1,4 +1,4 @@
-# Compte prorata
+# ➖ Compte prorata
 
 Un compte prorata (ou compte interentreprises) est mis en place lorsque plusieurs entreprises de divers corps d'état interviennent simultanément ou se succèdent sur un chantier.
 
@@ -16,7 +16,7 @@ Voici comment saisir cette retenue (déduction) sous le logiciel :
 
 Indiquez textuellement le pourcentage de déduction à prévoir :
 
-:point_right: Dans une [ligne de commentaire](../nouveau-devis/saisir-les-lignes-du-devis/lignes-du-devis.md#creer-une-ligne-de-commentaire) (Onglet "Lignes")
+:point_right: Dans une [ligne de commentaire](../nouveau-devis/saisir-les-lignes-du-devis/lignes-du-devis/#creer-une-ligne-de-commentaire) (Onglet "Lignes")
 
 :point_right: Ou bien dans le texte libre de vos [conditions de règlement](../pied-du-devis.md#conditions-de-reglement) (Onglet "Pied").
 
@@ -26,11 +26,11 @@ Indiquez textuellement le pourcentage de déduction à prévoir :
 
 
 
-:digit_one: Dans l'onglet "Pied" de la facture, cliquez sur le bouton ![](../../../.gitbook/assets/screenshot-37-.png) 
+:digit_one: Dans l'onglet "Pied" de la facture, cliquez sur le bouton ![](../../../../.gitbook/assets/screenshot-37-.png) 
 
 :digit_two: Cliquez sur le bouton ** +**  pour créer une nouvelle ligne
 
-![](../../../.gitbook/assets/screenshot-38b-.png)
+![](../../../../.gitbook/assets/screenshot-38b-.png)
 
 :digit_three: Choisissez "Compte prorata"**. **_Par défaut, le signe "-" sera appliqué_
 

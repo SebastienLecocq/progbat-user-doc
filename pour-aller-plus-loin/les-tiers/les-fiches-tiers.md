@@ -1,4 +1,4 @@
-# Fiche tiers
+# 📎 Fiche tiers
 
 {% content-ref url="les-clients/la-fiche-client-en-details.md" %}
 [la-fiche-client-en-details.md](les-clients/la-fiche-client-en-details.md)

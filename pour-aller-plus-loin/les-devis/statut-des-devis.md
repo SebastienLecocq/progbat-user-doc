@@ -1,4 +1,4 @@
-# Statut des devis
+# 📎 Statut des devis
 
 Il existe 2 types de statuts pour les devis :
 

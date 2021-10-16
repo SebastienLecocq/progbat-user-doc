@@ -1,4 +1,4 @@
-# Clients
+# 📎 Clients
 
 ![](../../../.gitbook/assets/clients-acces-rapide.png)
 
@@ -14,7 +14,7 @@ Sous le logiciel, vous allez pouvoir :
 
 :point_right: Analyser et suivre les relations avec vos clients, grâce à la [fiche client](la-fiche-client-en-details.md), et son [outil de pilotage simplifié](la-fiche-client-en-details.md#onglet-activite)​​.
 
-:point_right: Créer vos [devis](../../les-devis/nouveau-devis/) et [factures](../../les-factures/) client.
+:point_right: Créer vos [devis](../../les-devis/saisir-un-devis/nouveau-devis/) et [factures](../../les-factures/) client.
 
 :point_right: Créer un [chantier](../../les-chantiers-1/creer-un-chantier.md) pour suivre, par affaire, les différents travaux effectués pour un même client. Depuis la fiche chantier, évaluez la [rentabilité de vos travaux](../../les-chantiers-1/la-fiche-chantier-en-detail.md#onglet-travaux).
 
@@ -26,5 +26,13 @@ Sous le logiciel, vous allez pouvoir :
 
 {% content-ref url="la-fiche-client-en-details.md" %}
 [la-fiche-client-en-details.md](la-fiche-client-en-details.md)
+{% endcontent-ref %}
+
+{% content-ref url="tva.md" %}
+[tva.md](tva.md)
+{% endcontent-ref %}
+
+{% content-ref url="../importer.md" %}
+[importer.md](../importer.md)
 {% endcontent-ref %}
 

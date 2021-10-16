@@ -2,7 +2,7 @@
 
 ## Créer une commande fournisseur_ _
 
-_Cliquez _[_ici_](../../les-devis/synthese-du-devis.md#le-bouton-actions)_ pour créer une demande de prix, avant de commander._
+_Cliquez _[_ici_](../../les-devis/saisir-un-devis/synthese-du-devis.md#le-bouton-actions)_ pour créer une demande de prix, avant de commander._
 
 __
 
@@ -10,7 +10,7 @@ Il y existe 2 manières de créer une commande fournisseur :
 
 ### :point_right: Créer "automatiquement" une commande fournisseur
 
-**Gain de temps considérable!  **La [synthèse du devis](../../les-devis/synthese-du-devis.md) permet de créer automatiquement votre bon de commande, sans avoir à en saisir les lignes :
+**Gain de temps considérable!  **La [synthèse du devis](../../les-devis/saisir-un-devis/synthese-du-devis.md) permet de créer automatiquement votre bon de commande, sans avoir à en saisir les lignes :
 
 :digit_one: Depuis l'onglet "Synthèse" du devis, cliquez sur le bouton "Actions", puis choisissez de "Créer un bon de commande fournisseur"
 
@@ -111,7 +111,7 @@ __
 {% hint style="info" %}
 Comme tous les documents, vous pouvez [créer et personnaliser vos propres modèles](../../modeles-de-document.md#creer-un-modele) de bons de commande
 
-__:bulb: La gestion des [modèles de document](../../modeles-de-document.md#section-corps-de-document) vous permettra d'imprimer vos bons de commande sans les prix si nécessaire, pour en faire un [bon de préparation](../../les-devis/synthese-du-devis.md#creer-un-bon-de-preparation) par exemple.
+__:bulb: La gestion des [modèles de document](../../modeles-de-document.md#section-corps-de-document) vous permettra d'imprimer vos bons de commande sans les prix si nécessaire, pour en faire un [bon de préparation](../../les-devis/saisir-un-devis/synthese-du-devis.md#creer-un-bon-de-preparation) par exemple.
 {% endhint %}
 
 __

@@ -1,6 +1,6 @@
-# Saisir les lignes du devis
+# ➖ Saisir les lignes du devis
 
-![](../../../../.gitbook/assets/screenshot-107a-.png)
+![](../../../../../.gitbook/assets/screenshot-107a-.png)
 
 
 
@@ -8,12 +8,12 @@
 
 
 
-{% content-ref url="titres_devis.md" %}
-[titres_devis.md](titres_devis.md)
+{% content-ref url="lignes-du-devis/titres_devis.md" %}
+[titres_devis.md](lignes-du-devis/titres_devis.md)
 {% endcontent-ref %}
 
-{% content-ref url="lignes-du-devis.md" %}
-[lignes-du-devis.md](lignes-du-devis.md)
+{% content-ref url="lignes-du-devis/" %}
+[lignes-du-devis](lignes-du-devis/)
 {% endcontent-ref %}
 
 {% content-ref url="methodes-de-saisie.md" %}
@@ -24,6 +24,6 @@
 [mise-en-forme-des-lignes-traitement-de-texte.md](mise-en-forme-des-lignes-traitement-de-texte.md)
 {% endcontent-ref %}
 
-{% content-ref url="../le-menu-de-lignes.md" %}
-[le-menu-de-lignes.md](../le-menu-de-lignes.md)
+{% content-ref url="le-menu-de-lignes.md" %}
+[le-menu-de-lignes.md](le-menu-de-lignes.md)
 {% endcontent-ref %}

@@ -1,4 +1,4 @@
-# Pilotage en temps réel
+# 📎 Pilotage en temps réel
 
 La vignette "Analyse du chantier" de la [page "Travaux"](la-fiche-chantier-en-detail.md#onglet-travaux) affiche un tableau de rentabilité de votre chantier. Mais bien souvent, si vous constatez une perte, il est déjà trop tard pour réagir.
 

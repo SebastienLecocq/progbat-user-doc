@@ -1,4 +1,4 @@
-# Créer un Sous-traitant
+# ➖ Créer un Sous-traitant
 
 {% hint style="info" %}
 Créer un sous-traitant va générer une [fiche sous-traitant,](la-fiche-sous-traitants-en-details.md) automatiquement enregistrée dans votre [liste de tiers](../les-listes-de-tiers.md).

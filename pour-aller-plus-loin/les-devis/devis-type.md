@@ -1,4 +1,4 @@
-# Devis-type / Bordereaux de prix unitaires
+# 📎 Devis-type  &  BPU
 
 ## Qu'est ce qu'un devis-type ?
 

@@ -1,6 +1,6 @@
-# Import de tarifs fournisseurs
+# ➖ Import de tarifs fournisseurs
 
-{% page-ref page="../../bibliotheque-de-chiffrage/importer/import-de-tarifs-fournisseurs.md" %}
-
-
+{% content-ref url="../../bibliotheque-de-chiffrage/importer/import-de-tarifs-fournisseurs.md" %}
+[import-de-tarifs-fournisseurs.md](../../bibliotheque-de-chiffrage/importer/import-de-tarifs-fournisseurs.md)
+{% endcontent-ref %}
 

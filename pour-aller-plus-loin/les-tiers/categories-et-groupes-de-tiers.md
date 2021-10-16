@@ -1,4 +1,4 @@
-# Catégories et groupes de tiers
+# 📎 Catégories et groupes de tiers
 
 ## :digit_one: Catégories de tiers
 

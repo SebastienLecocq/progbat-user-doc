@@ -1,4 +1,4 @@
-# La fiche chantier en détails
+# 📎 Fiche chantier
 
 La fiche chantier est décomposée en 4 onglets :
 
@@ -30,7 +30,7 @@ Il contient de nombreuses vignettes, chacune d'elle affichant un graphique stati
 
 ![](<../../.gitbook/assets/image (1).png>)
 
-* Visualisez les montants de vos achats et de votre main d'œuvre, en les comparant instantanément aux [prévisions](../les-devis/prevoir-le-temps-passe.md). La vignette "Analyse du chantier" vous permet de constater l'état de rentabilité de votre chantier à ce jour :
+* Visualisez les montants de vos achats et de votre main d'œuvre, en les comparant instantanément aux [prévisions](../les-devis/saisir-un-devis/prevoir-le-temps-passe.md). La vignette "Analyse du chantier" vous permet de constater l'état de rentabilité de votre chantier à ce jour :
 
 ![](<../../.gitbook/assets/image (8).png>)
 

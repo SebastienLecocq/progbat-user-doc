@@ -1,4 +1,4 @@
-# Import de fichier fournitures ou ouvrages
+# ➖ Import de fichier fournitures ou ouvrages
 
 Vous pouvez importer un fichier de fournitures ou d'ouvrages en provenance d'un autre logiciel, ou de Excel par exemple.
 

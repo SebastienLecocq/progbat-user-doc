@@ -1,4 +1,4 @@
-# Créer un ouvrage dans votre bibliothèque
+# ➖ Créer un ouvrage dans votre bibliothèque
 
 ### :point_right: Depuis le devis
 
@@ -14,9 +14,13 @@ Il existe une méthode très simple pour enrichir votre bibliothèque d'ouvrage,
 
 :digit_four: Cliquez sur le bouton "Créer l'ouvrage".
 
-Selon l'exemple ci-dessus, il me suffira de taper TEST dans une ligne de devis pour que le logiciel me propose l'ouvrage que je viens de créer.
+Selon l'exemple ci-dessus, il me suffira de taper **"**TEST" dans une ligne de devis pour que le logiciel me propose l'ouvrage que je viens de créer.
 
-****:information_source: **Vous pourrez de suite **[**"composer" cet ouvrage**](./#la-composition-des-ouvrages)**, pour que son prix de vente soit automatiquement calculé en fonction de ce qu'il vous coûte, et de vos marges prévues.**
+****
+
+{% hint style="info" %}
+**Vous pourrez de suite **[**"composer" cet ouvrage**](./#la-composition-des-ouvrages)**, pour que son prix de vente soit automatiquement calculé en fonction de ce qu'il vous coûte, et de vos marges prévues.**
+{% endhint %}
 
 
 
@@ -40,3 +44,12 @@ Selon l'exemple ci-dessus, il me suffira de taper TEST dans une ligne de devis p
   * Si vous avez saisi un déboursé, la marge se mettra à jour en fonction du prix de vente que vous allez saisir.
 *   _Prix fixe_ : en cochant la case, le logiciel ne mettra pas à jour le prix de vente même si vos coûts augmentent, ou si vous appliquez un coefficient dans votre devis.
 
+
+
+{% content-ref url="composer-un-ouvrage.md" %}
+[composer-un-ouvrage.md](composer-un-ouvrage.md)
+{% endcontent-ref %}
+
+{% content-ref url="modifier-un-ouvrage-de-votre-bibliotheque.md" %}
+[modifier-un-ouvrage-de-votre-bibliotheque.md](modifier-un-ouvrage-de-votre-bibliotheque.md)
+{% endcontent-ref %}

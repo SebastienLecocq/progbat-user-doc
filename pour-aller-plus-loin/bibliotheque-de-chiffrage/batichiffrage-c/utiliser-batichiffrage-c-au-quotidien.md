@@ -2,7 +2,7 @@
 description: Un ouvrage vous manque pour chiffrer un devis ?
 ---
 
-# Utiliser BatiChiffrage© au quotidien
+# ➖ Utiliser BatiChiffrage© au quotidien
 
 ![](<../../../.gitbook/assets/10 (1).png>)
 

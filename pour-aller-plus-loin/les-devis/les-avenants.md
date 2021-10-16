@@ -1,4 +1,4 @@
-# Avenants
+# 📎 Avenants
 
 Un avenant est un devis que l'on réalise en cours de chantier, et qui vient modifier le devis initial :
 

@@ -1,4 +1,4 @@
-# Créer un Client (ou prospect)
+# ➖ Créer un Client / Prospect
 
 
 
@@ -29,7 +29,7 @@ Sous le logiciel, il existe 2 manières de créer un client (ou un prospect) :
 :bulb: Cette méthode permet de constituer votre liste de clients au fil de vos chiffrages.
 {% endhint %}
 
-*   Lorsque vous [créez un devis](../../les-devis/nouveau-devis/), le logiciel vous propose de créer ou de choisir un client
+*   Lorsque vous [créez un devis](../../les-devis/saisir-un-devis/nouveau-devis/), le logiciel vous propose de créer ou de choisir un client
 
 
 * Choisissez "Créer un nouveau client"
@@ -64,7 +64,7 @@ Deux clients ne peuvent pas avoir le même identifiant, ainsi, pas de risque d'e
 :point_right: Le dernier champ "Taux de TVA" permet de déterminer une TVA par défaut. 
 
 * Ce taux sera alors appliqué automatiquement à la création d'un devis/facture pour ce client
-* Vous pourrez [modifier ce taux](../../les-devis/tva-multiple.md) depuis vos documents, et ainsi l'ajuster en fonction des ouvrages à réaliser.
+* Vous pourrez [modifier ce taux](../../les-devis/saisir-un-devis/tva-multiple.md) depuis vos documents, et ainsi l'ajuster en fonction des ouvrages à réaliser.
 
 
 

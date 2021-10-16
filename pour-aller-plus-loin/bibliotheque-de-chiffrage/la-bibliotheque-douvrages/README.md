@@ -1,4 +1,4 @@
-# Bibliothèque d' Ouvrages
+# 📎 Bibliothèque d' Ouvrages
 
 ![](../../../.gitbook/assets/ouvrages-acces-rapide.png)
 
@@ -13,7 +13,7 @@ La bibliothèque d'ouvrages contient les travaux, les prestations, que vous alle
 
 **Cette bibliothèque a 2 rôles essentiels :**
 
-:point_right: [Simplifier la saisie de vos devis](../../les-devis/nouveau-devis/saisir-les-lignes-du-devis/#methodes-de-saisie), en y insérant les ouvrages déjà enregistrés, plutôt que de tout retaper à chaque fois
+:point_right: [Simplifier la saisie de vos devis](../../les-devis/saisir-un-devis/nouveau-devis/saisir-les-lignes-du-devis/#methodes-de-saisie), en y insérant les ouvrages déjà enregistrés, plutôt que de tout retaper à chaque fois
 
 :point_right: Chiffrer vos ouvrages, c'est à dire calculer précisément le coût de revient (déboursé) d'un ouvrage, et en déterminer très précisément son prix de vente.
 
