@@ -14,7 +14,7 @@ Les outils qui vous sont proposés sont simples, rapides et efficaces, et vous s
 
 ## Comment gérer ses achats sous le logiciel ?
 
-Sous le logiciel, dès le devis, vous pourrez évaluer les [coûts à prévoir](../les-devis/saisir-un-devis/prevoir-le-temps-passe.md) pour réaliser un chantier, en terme de matériaux et de sous-traitance, mais aussi en terme de [main d'oeuvre](../les-devis/saisir-un-devis/prevoir-le-temps-passe.md).
+Sous le logiciel, dès le devis, vous pourrez évaluer les [coûts à prévoir](../les-devis/creer-and-saisir-un-devis/prevoir-le-temps-passe.md) pour réaliser un chantier, en terme de matériaux et de sous-traitance, mais aussi en terme de [main d'oeuvre](../les-devis/creer-and-saisir-un-devis/prevoir-le-temps-passe.md).
 
 Ces coûts à prévoir serviront de guide dans l'[analyse de rentabilité](../les-chantiers-1/la-fiche-chantier-en-detail.md#onglet-travaux) de vos chantiers.
 
@@ -26,7 +26,7 @@ La saisie de vos coûts et achats sous le logiciel vous permettra de vérifier, 
 
 Depuis la synthèse du devis :
 
-:heavy_check_mark: Générez en un clic un [Bon de préparation](../les-devis/saisir-un-devis/synthese-du-devis.md#creer-un-bon-de-preparation), pour bien préparer vos chantiers, et voir ce qu'il faudra commander
+:heavy_check_mark: Générez en un clic un [Bon de préparation](../les-devis/creer-and-saisir-un-devis/synthese-du-devis.md#creer-un-bon-de-preparation), pour bien préparer vos chantiers, et voir ce qu'il faudra commander
 
 :heavy_check_mark: Envoyez immédiatement une [Demande de prix](demandes-de-prix.md) à vos fournisseurs et sous-traitants, pour les comparer et améliorer la gestion de vos coûts
 

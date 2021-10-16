@@ -1,4 +1,4 @@
-# 📎 Options  &  variantes
+# ➖ Options  &  variantes
 
 Le logiciel permet d'ajouter des options et variantes, non comprises dans le total du devis :
 

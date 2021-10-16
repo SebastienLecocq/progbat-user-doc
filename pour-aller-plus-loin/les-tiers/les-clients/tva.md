@@ -8,4 +8,4 @@ A la création d'un client, ou bien en accédant à une fiche client, vous pourr
 
 Ce taux sera alors appliqué automatiquement à la création d'un devis/facture pour ce client, sera prioritaire face au taux de TVA sélectionné dans vos préférences utilisateur (Menu "Utilisateur > Préférences").
 
-Vous pourrez bien sûr [modifier ce taux](../../les-devis/saisir-un-devis/tva-multiple.md) à volonté depuis vos documents, et ainsi l'ajuster en fonction des ouvrages à réaliser.
+Vous pourrez bien sûr [modifier ce taux](../../les-devis/creer-and-saisir-un-devis/tva-multiple.md) à volonté depuis vos documents, et ainsi l'ajuster en fonction des ouvrages à réaliser.

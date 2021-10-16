@@ -1,4 +1,4 @@
-# 📎 Pied du devis
+# ➖ Pied du devis
 
 ![](../../../.gitbook/assets/screenshot-107-.png)
 

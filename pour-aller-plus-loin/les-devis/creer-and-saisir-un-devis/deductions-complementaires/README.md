@@ -1,4 +1,4 @@
-# 📎 Déductions
+# ➖ Déductions
 
 {% content-ref url="retenue-de-garantie.md" %}
 [retenue-de-garantie.md](retenue-de-garantie.md)

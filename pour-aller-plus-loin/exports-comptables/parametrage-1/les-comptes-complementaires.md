@@ -22,7 +22,7 @@ D'autres déductions peuvent être saisies, comme par exemple une remise excepti
 
 ### La retenue de garantie
 
-* Saisissez ici le compte de tiers associé à la [retenue de garantie](../../les-devis/saisir-un-devis/deductions-complementaires/retenue-de-garantie.md)
+* Saisissez ici le compte de tiers associé à la [retenue de garantie](../../les-devis/creer-and-saisir-un-devis/deductions-complementaires/retenue-de-garantie.md)
 * Choisissez ou non d'associer le compte auxiliaire au compte de retenue de garantie
 
 **En cas de révision de prix, la retenue de garantie sera calculée sur le montant TTC de la facture AVANT application de la révision de prix.**

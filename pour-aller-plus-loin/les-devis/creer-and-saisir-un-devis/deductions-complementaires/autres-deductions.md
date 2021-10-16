@@ -1,4 +1,4 @@
-# ➖ La Prime énergie
+# La Prime énergie
 
 La prime énergie est une somme prise en charge par des sociétés "polluantes" comme les fournisseurs d'énergie sur le montant des travaux d'isolation ou d'économie d'énergie.
 

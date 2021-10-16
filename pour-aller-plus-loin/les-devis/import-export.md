@@ -48,7 +48,7 @@ Le fichier Excel doit être "formaté", c'est à dire que les colonnes doivent r
 
 ### :digit_three: Importez le fichier
 
-*   Créez un [nouveau devis](saisir-un-devis/nouveau-devis/), puis ouvrez l'onglet "Lignes"
+*   Créez un [nouveau devis](broken-reference), puis ouvrez l'onglet "Lignes"
 
 
 *    Cliquez à droite de la page sur le bouton "Import/Export", et choisissez "Importer le contenu"

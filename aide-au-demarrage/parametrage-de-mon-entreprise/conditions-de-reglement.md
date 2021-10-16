@@ -91,7 +91,7 @@ Bien entendu, les balises \[acomptes] et \[/acomptes] ne seront pas affichées d
 
 ### ****:digit_three: **Retenue de garantie**
 
-Le logiciel permet une gestion complète des [retenues de garantie](../../pour-aller-plus-loin/les-devis/saisir-un-devis/deductions-complementaires/retenue-de-garantie.md), de son application automatique sur chaque facture, à la demande de libération, et à la gestion de son remboursement.
+Le logiciel permet une gestion complète des [retenues de garantie](../../pour-aller-plus-loin/les-devis/creer-and-saisir-un-devis/deductions-complementaires/retenue-de-garantie.md), de son application automatique sur chaque facture, à la demande de libération, et à la gestion de son remboursement.
 
 Cela concerne le plus souvent les marchés publics, et n'est que rarement utilisé sur les chantiers aux particuliers.
 

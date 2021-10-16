@@ -1,4 +1,4 @@
-# 📎 Prévoir la main d'oeuvre  &  le temps
+# ➖ Prévoir la main d'oeuvre  &  le temps
 
 Le temps est déterminant dans le chiffrage d'un devis, c'est la donnée la plus difficile à maîtriser, et souvent la cause d'un chantier déficitaire s'il a été mal estimé.
 

@@ -4,5 +4,5 @@ Le cadre légal vous laisse peu de latitude quant aux factures directes. Bien so
 
 De plus, établir un devis vous permet de le facturer sans ressaisir les lignes : gain de temps !
 
-Si vous souhaitez tout de même établir une facture directe, saisissez-là exactement comme un devis : cliquez [ici](../les-devis/saisir-un-devis/nouveau-devis/).
+Si vous souhaitez tout de même établir une facture directe, saisissez-là exactement comme un devis : cliquez [ici](broken-reference).
 

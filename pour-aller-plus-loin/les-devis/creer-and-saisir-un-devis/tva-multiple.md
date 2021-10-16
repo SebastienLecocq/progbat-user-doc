@@ -1,4 +1,4 @@
-# 📎 TVA multiple
+# ➖ TVA multiple
 
 #### Il est possible de définir différents taux de TVA dans le même devis
 

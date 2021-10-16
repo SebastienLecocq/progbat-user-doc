@@ -1,4 +1,4 @@
-# ➖ Retenue de garantie
+# Retenue de garantie
 
 La retenue de garantie, communément appelée "RG", est une somme retenue sur le montant TTC de chaque facture d'avancement d'un chantier.
 

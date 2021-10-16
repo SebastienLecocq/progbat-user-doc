@@ -1,4 +1,4 @@
-# 📎 Synthèse du devis
+# 🔴 Synthèse du devis
 
 L'onglet "Synthèse" du devis permet d'afficher vos besoins en matériaux, main d'oeuvre, sous-traitance, location ou même outillage nécessaires à l’exécution des travaux.
 

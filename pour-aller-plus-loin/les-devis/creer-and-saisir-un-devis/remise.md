@@ -2,7 +2,7 @@
 description: 'Il est possible d''appliquer une remise à votre client de plusieurs manières :'
 ---
 
-# 📎 Remises
+# ➖ Remises
 
 ## :digit_one: Remise globale
 

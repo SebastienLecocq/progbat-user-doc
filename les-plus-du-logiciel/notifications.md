@@ -47,7 +47,7 @@ En cliquant sur la petite cloche, les notifications s'affichent.
 
 ![](../.gitbook/assets/screenshot-132-.png)
 
-(cf gestion des [retenues de garantie](../pour-aller-plus-loin/les-devis/saisir-un-devis/deductions-complementaires/retenue-de-garantie.md#gerer-les-retenues-de-garantie))
+(cf gestion des [retenues de garantie](../pour-aller-plus-loin/les-devis/creer-and-saisir-un-devis/deductions-complementaires/retenue-de-garantie.md#gerer-les-retenues-de-garantie))
 
 * Si vous avez bien renseigné la date de réception des travaux, et la durée de la retenue de garantie, une notification apparaîtra 15 jours avant terme. (généralement 12 mois après la date de réception)
 * En cliquant sur la notification, vous pourrez immédiatement générer le courrier de demande de libération

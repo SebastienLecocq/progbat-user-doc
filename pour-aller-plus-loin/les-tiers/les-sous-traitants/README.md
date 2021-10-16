@@ -10,7 +10,7 @@ Sous le logiciel, vous allez pouvoir :
 
 :point_right: Analyser et suivre les relations avec vos sous-traitants, grâce à la [fiche sous-traitant](la-fiche-sous-traitants-en-details.md) et son [outil de pilotage simplifié](la-fiche-sous-traitants-en-details.md#onglet-activite)​​.
 
-:point_right: Directement depuis la [synthèse du devis](../../les-devis/saisir-un-devis/synthese-du-devis.md), créer un bon de commande de sous-traitance, sans avoir à le saisir.
+:point_right: Directement depuis la [synthèse du devis](../../les-devis/creer-and-saisir-un-devis/synthese-du-devis.md), créer un bon de commande de sous-traitance, sans avoir à le saisir.
 
 :point_right: Depuis un [bon de commande sous-traitant](../../les-achats/les-bons-de-commande/#bon-de-commande-sous-traitant), enregistrer et suivre les [livraisons](../../les-achats/les-bons-de-livraison/), puis créer une [facture d'achat](../../les-achats/les-factures-dachat.md), sans avoir à les saisir.
 

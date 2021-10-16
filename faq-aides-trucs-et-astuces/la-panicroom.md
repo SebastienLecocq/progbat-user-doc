@@ -148,20 +148,42 @@ Un exemple avec le navigateur Firefox **(à adapter à votre navigateur) :**
 
 ### ****:point_right: **La numérotation des lignes du devis & facture est incohérente**
 
-Le logiciel raisonne de façon logique et ordonnée, mais si on ajoute les titres après des lignes par exemple, la numérotation des lignes peut ne plus être cohérente. Il faut alors simplement réorganiser votre devis : commencez toujours votre devis par un titre, puis si nécessaire, déplacez-les pour que la numérotation des lignes reprenne du sens [Comment faire ? ](../pour-aller-plus-loin/les-devis/saisir-un-devis/nouveau-devis/saisir-les-lignes-du-devis/le-menu-de-lignes.md#deplacement-de-ligne)
+Le logiciel raisonne de façon logique et ordonnée, mais si on ajoute les titres après des lignes par exemple, la numérotation des lignes peut ne plus être cohérente. **Ne modifiez pas manuellement les numéros de lignes du devis !** 
+
+Il faut alors simplement réorganiser votre devis : commencez toujours votre devis par un titre, puis si nécessaire, déplacez les titres et lignes pour que leur numérotation reprenne du sens [Comment faire ? ](../pour-aller-plus-loin/les-devis/creer-and-saisir-un-devis/saisir-les-lignes-du-devis/le-menu-de-lignes.md#deplacement-de-ligne)
 
 
 
 ### ****:point_right: **Le titre ou sous-titre du devis & facture est à 0 !**
 
-En cliquant sur un titre & sous-titre, vous pourrez voir quelles lignes son total contient (fond bleu). Vous avez dû ajouter ou déplacer le titre après avoir créé les lignes du devis, le titre n'a donc pas encore de contenu (il est seul à avoir ce fond bleu) : il faut ajouter les lignes dans le contenu du titre grâce à la double flèche de déplacement. [Comment faire ? ](../pour-aller-plus-loin/les-devis/saisir-un-devis/nouveau-devis/saisir-les-lignes-du-devis/le-menu-de-lignes.md#deplacement-de-ligne)
+En cliquant sur un titre & sous-titre, vous pourrez voir quelles lignes son total contient (fond bleu). Vous avez dû ajouter ou déplacer le titre après avoir créé les lignes du devis, le titre n'a donc pas encore de contenu (il est seul à avoir ce fond bleu) : il faut ajouter les lignes dans le contenu du titre grâce à la double flèche de déplacement. [Comment faire ? ](../pour-aller-plus-loin/les-devis/creer-and-saisir-un-devis/saisir-les-lignes-du-devis/le-menu-de-lignes.md#deplacement-de-ligne)
 
 
 
 ### ****:point_right:** Le total du titre & sous-titre est incorrect**
 
-Comme juste au dessus, en cliquant sur le titre, vous verrez que toutes les lignes ne sont pas contenues dans le titre (fond bleu). Il vous faut alors ajouter les lignes dans le contenu du titre grâce à la double flèche de déplacement.** **[Comment faire ? ](../pour-aller-plus-loin/les-devis/saisir-un-devis/nouveau-devis/saisir-les-lignes-du-devis/le-menu-de-lignes.md#deplacement-de-ligne)
+Comme juste au dessus, en cliquant sur le titre, vous verrez que toutes les lignes ne sont pas contenues dans le titre (fond bleu). Il vous faut alors ajouter les lignes dans le contenu du titre grâce à la double flèche de déplacement.** **[Comment faire ? ](../pour-aller-plus-loin/les-devis/creer-and-saisir-un-devis/saisir-les-lignes-du-devis/le-menu-de-lignes.md#deplacement-de-ligne)
 
 
 
-****
+## À chaque saut de page, une page blanche s'intercale
+
+
+
+Cela arrive lorsque vous avez demandé à ce que vos documents aient un entête de colonnes rappelé à chaque page :
+
+![](<../.gitbook/assets/Screenshot (239).png>)
+
+Vous avez alors le choix : 
+
+
+
+:point_right: Ouvrez le menu "Administration > Modèles de documents" et sélectionnez le modèle de votre choix, puis cliquez sur le corps du document, et enfin décochez la case encadrée ci-dessus.
+
+L'entête de colonnes ne sera alors plus rappelé à chaque page, mais les colonnes sont aisément identifiables sans cela. Vous pourrez alors insérez vos sauts de page dans vos documents, sans encombres et sans pages blanches !
+
+
+
+:point_right: Vous souhaitez conserver les entêtes de colonne sur toutes les pages ? 
+
+À la place des sauts de page, insérez une ou plusieurs lignes de commentaire vides, cela aérera votre devis de la même manière.
