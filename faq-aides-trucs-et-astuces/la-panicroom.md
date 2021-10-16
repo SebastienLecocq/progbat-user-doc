@@ -154,4 +154,10 @@ Un exemple avec le navigateur Firefox **(à adapter à votre navigateur) :**
 
 ****
 
+{% hint style="info" %}
+![](../.gitbook/assets/telechargement.jpg)
+
+Cet article est en cours de rédaction. Merci de votre compréhension.
+{% endhint %}
+
 ****

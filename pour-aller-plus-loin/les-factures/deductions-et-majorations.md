@@ -43,6 +43,7 @@ Cliquez sur le bouton "Déductions sur TTC (RG, prorata, ...)"
 
 ### :digit_one: Retenue de garantie [(plus d'informations)](../les-devis/saisir-un-devis/deductions-complementaires/retenue-de-garantie.md#definir-la-retenue-de-garantie)
 
+* Dans le pied de la facture, cliquez sur le bouton "Déductions sur TTC"
 * Cliquez sur le bouton ![](../../.gitbook/assets/screenshot-2021-08-19t161919.604.png) pour créer une nouvelle ligne
 * Choisissez "Retenue de garantie", par défaut, une déduction de 5% sera créée
 * Modifiez, si nécessaire, le taux de la retenue de garantie en terminant la saisie par le symbole "%"
@@ -62,15 +63,15 @@ Exactement comme pour la retenue de garantie, sélectionnez "[Compte prorata](..
 
 ****
 
-### :digit_three: Autres déductions
+### :digit_three: Prime énergie
 
-D'autres déductions peuvent être appliquées à la facture, comme par exemple :
+Cliquez [ici](deductions-et-majorations.md#autres-deductions).
 
-#### - [Primes énergie](../les-devis/saisir-un-devis/deductions-complementaires/autres-deductions.md)
+####
 
-#### - Paiement direct sous-traitants
+### :digit_four: Paiement direct sous-traitants
 
-* Sélectionnez "-"
-* Saisissez le libellé de la déduction
-* Saisissez son montant (ou son pourcentage).
+* Dans le pied de la facture, cliquez sur le bouton "Déductions sur TTC"
+* Ajoutez une déduction, en cliquant sur le bouton vert ![](../../.gitbook/assets/screenshot-2021-08-19t161919.604.png)
+* Saisissez un libellé, par exemple : "Paiement direct entreprise DUPONT facture 123456 du jj/mm/aa"
 
