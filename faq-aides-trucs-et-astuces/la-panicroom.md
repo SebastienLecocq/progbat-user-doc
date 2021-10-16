@@ -142,22 +142,26 @@ Un exemple avec le navigateur Firefox **(à adapter à votre navigateur) :**
 
 
 
-## **Mon devis, ma facture, deviennent fous**
+## **Mon devis, ma facture, deviennent fous **
 
 ** **
 
-### ****:point_right: **La numérotation de mon devis & facture est incohérente**
+### ****:point_right: **La numérotation des lignes du devis & facture est incohérente**
 
-### ****:point_right: **Le titre ou sous-titre de mon devis & facture est à 0 !**
+Le logiciel raisonne de façon logique et ordonnée, mais si on ajoute les titres après des lignes par exemple, la numérotation des lignes peut ne plus être cohérente. Il faut alors simplement réorganiser votre devis : commencez toujours votre devis par un titre, puis si nécessaire, déplacez-les pour que la numérotation des lignes reprenne du sens [Comment faire ? ](../pour-aller-plus-loin/les-devis/saisir-un-devis/nouveau-devis/saisir-les-lignes-du-devis/le-menu-de-lignes.md#deplacement-de-ligne)
 
-### ****:point_right:** Le total de mon titre & sous-titre est incorrect**
 
-****
 
-{% hint style="info" %}
-![](../.gitbook/assets/telechargement.jpg)
+### ****:point_right: **Le titre ou sous-titre du devis & facture est à 0 !**
 
-Cet article est en cours de rédaction. Merci de votre compréhension.
-{% endhint %}
+En cliquant sur un titre & sous-titre, vous pourrez voir quelles lignes son total contient (fond bleu). Vous avez dû ajouter ou déplacer le titre après avoir créé les lignes du devis, le titre n'a donc pas encore de contenu (il est seul à avoir ce fond bleu) : il faut ajouter les lignes dans le contenu du titre grâce à la double flèche de déplacement. [Comment faire ? ](../pour-aller-plus-loin/les-devis/saisir-un-devis/nouveau-devis/saisir-les-lignes-du-devis/le-menu-de-lignes.md#deplacement-de-ligne)
+
+
+
+### ****:point_right:** Le total du titre & sous-titre est incorrect**
+
+Comme juste au dessus, en cliquant sur le titre, vous verrez que toutes les lignes ne sont pas contenues dans le titre (fond bleu). Il vous faut alors ajouter les lignes dans le contenu du titre grâce à la double flèche de déplacement.** **[Comment faire ? ](../pour-aller-plus-loin/les-devis/saisir-un-devis/nouveau-devis/saisir-les-lignes-du-devis/le-menu-de-lignes.md#deplacement-de-ligne)
+
+
 
 ****

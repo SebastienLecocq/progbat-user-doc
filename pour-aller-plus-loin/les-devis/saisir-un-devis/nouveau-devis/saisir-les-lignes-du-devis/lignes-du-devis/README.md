@@ -21,9 +21,23 @@
 Une nouvelle ligne de titre sera ajoutée à la fin de votre devis**.**
 
 {% hint style="info" %}
-Vous pourrez [déplacer un titre](../le-menu-de-lignes.md#deplacement-de-ligne) et/ou son contenu par la suite.
+**Astuces & Aides :**
 
-**Attention à la numérotation des lignes du devis ! **Le logiciel raisonne de façon logique et ordonnée, mais si on ajoute les titres après des lignes, le titre ne prendra pas tout seul en compte les lignes suivantes dans son contenu
+
+
+:point_right: Vous pourrez [déplacer un titre](../le-menu-de-lignes.md#deplacement-de-ligne) et/ou son contenu par la suite.
+
+
+
+****:point_right: **Attention à la numérotation des lignes du devis ! **Le logiciel raisonne de façon logique et ordonnée, mais si on ajoute les titres après des lignes par exemple, la numérotation des lignes peut ne plus être cohérente. Il faut alors simplement réorganiser votre devis : commencez toujours votre devis par un titre, puis si nécessaire, déplacez-les pour que la numérotation des lignes reprenne du sens [Comment régler ça ? ](../le-menu-de-lignes.md#deplacement-de-ligne)
+
+
+
+:point_right: **Le titre ou sous-titre du devis & facture est à 0 ! **En cliquant sur un titre & sous-titre, vous pourrez voir quelles lignes son total contient (fond bleu). Vous avez dû ajouter ou déplacer le titre après avoir créé les lignes du devis, le titre n'a donc pas encore de contenu (il est seul à avoir ce fond bleu) : il faut ajouter les lignes dans le contenu du titre grâce à la double flèche de déplacement. [Comment régler ça ? ](../le-menu-de-lignes.md#deplacement-de-ligne)
+
+
+
+****:point_right:** Le total du titre & sous-titre est incorrect !** Comme juste au dessus, en cliquant sur le titre, vous verrez que toutes les lignes ne sont pas contenues dans le titre (fond bleu). Il vous faut alors ajouter les lignes dans le contenu du titre grâce à la double flèche de déplacement.** **[Comment régler ça ? ](../le-menu-de-lignes.md#deplacement-de-ligne)
 {% endhint %}
 
 
