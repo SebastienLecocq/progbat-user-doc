@@ -1,34 +1,39 @@
 # 📎 Exports comptables
 
-{% hint style="info" %}
-:bulb: Avant de réaliser un export comptable, il est important de bien [**paramétrer votre plan comptable**](parametrage-1/).
-{% endhint %}
+&#x20;Avant de réaliser un export comptable, il est important de bien [**paramétrer votre plan comptable**](parametrage-1/).
 
 ![](../../.gitbook/assets/menu-export-comptable.png)
 
 
 
-Ouvrez le menu "Gestion > Exports comptables". La liste des exports comptables déjà réalisés s'affiche :
+:point\_right: Ouvrez le menu "Gestion > Exports comptables"
 
-![](../../.gitbook/assets/page-export-comptable.png)
+La liste des exports comptables déjà réalisés s'affiche :&#x20;
 
-## Créer un nouvel export comptable
+![](<../../.gitbook/assets/Screenshot (242).png>)
 
-* Cliquez sur Nouvel export, et choisissez le journal. &#x20;
+## Créer un export comptable
+
+
+
+:digit\_one: Cliquez sur le bouton vert "Nouvel export", et choisissez le journal à exporter : Ventes, Achats, Règlements
+
+:digit\_two: Sélectionnez la période d'export, et le format du logiciel de comptabilité (Quadratus, ACD, EBP, Coala, etc...)
 
 ![](../../.gitbook/assets/creation-export.jpg)
 
-* Sélectionnez la période d'export, et le format du logiciel de comptabilité (Quadratus, ACD, EBP, Coala, etc...)
-* Cliquez sur Prévisualiser.
-  * Si vous avez sélectionné une période déjà exportée, le logiciel n'exportera que les pièces éventuellement ajoutées à cette période.
-  * Le nombre de pièces exportées sur le nombre total des pièces de la période est précisé en tête de la prévisualisation.
+:digit\_three: Cliquez sur Prévisualiser
 
-![](../../.gitbook/assets/previsu-export.png)
+Si vous avez sélectionné une période déjà exportée, le logiciel n'exportera que les pièces éventuellement ajoutées à cette période. Le nombre de pièces exportées sur le nombre total des pièces de la période est précisé en tête de la prévisualisation :&#x20;
 
-Après vérification à l'écran, vous pouvez exporter le journal.
+![](<../../.gitbook/assets/Screenshot (241).png>)
 
-* Un fichier sera créé et téléchargé sur votre ordinateur au format d'export demandé.
-* L'export sera enregistré et affiché dans la liste des exports.
+:digit\_four: Après vérification à l'écran, vous pouvez exporter le journal :
+
+* Un fichier sera créé et téléchargé sur votre ordinateur au format d'export demandé
+*   L'export sera enregistré sous le logiciel et affiché dans la liste des exports.
+
+
 
 ## 2 - Consulter/annuler un export comptable déja réalisé
 

@@ -32,17 +32,17 @@ Lorsque les travaux ont débuté, et que l'on souhaite établir une facture inte
 
 Vous devez obligatoirement avoir réalisé un devis pour pouvoir créer une facture d'acompte.
 
-:digit_one:** **Ouvrez le devis, et cliquez sur le bouton "Facture d'acompte" à droite de la page :
+:digit\_one:** **Ouvrez le devis, et cliquez sur le bouton "Facture d'acompte" à droite de la page :
 
 ![](../../.gitbook/assets/screenshot-153a-.png)
 
-         Ou bien ouvrez la liste des factures, cliquez sur "Nouvelle facture", puis "Facture d'acompte". Recherchez le devis à facturer, et validez :
+&#x20;        Ou bien ouvrez la liste des factures, cliquez sur "Nouvelle facture", puis "Facture d'acompte". Recherchez le devis à facturer, et validez :
 
 ![](../../.gitbook/assets/screenshot-154a-.png)
 
 
 
-:digit_two: Une fenêtre s'ouvre :
+:digit\_two: Une fenêtre s'ouvre :
 
 Saisissez le pourcentage d'acompte (30 pour 30%, par exemple), ou saisissez le montant hors taxes attendu.
 
@@ -52,22 +52,22 @@ Si le devis comporte plusieurs taux de TVA, la facture d'acompte sera réalisée
 
 ****
 
-:digit_three: Validez. La facture d'acompte est automatiquement créée
+:digit\_three: Validez. La facture d'acompte est automatiquement créée
 
 
 
-:digit_four: Vérifiez-la, et validez-la en cliquant sur le bouton "Finaliser la facture" à droite de la page.
+:digit\_four: Vérifiez-la, et validez-la en cliquant sur le bouton "Finaliser la facture" à droite de la page.
 
 
 
-:digit_five: Vous pouvez maintenant envoyer cette facture à votre client :
+:digit\_five: Vous pouvez maintenant envoyer cette facture à votre client :
 
 * au [format papier](../../faq-aides-trucs-et-astuces/trucs-et-astuces.md#validation-de-limpression-dun-document)
 * [par mail](../../aide-au-demarrage/parametrage-de-mon-entreprise/envois-par-mail/) depuis votre ordinateur, tablette, ou même depuis l'application mobile.
 
 
 
-Le PDF est automatiquement [archivé](../../les-plus-du-logiciel/progbox-archivage-de-documents.md#archivage-des-factures-clients), conformément aux exigences de la loi en matière d'archivage des factures numériques. 
+Le PDF est automatiquement [archivé](../../les-plus-du-logiciel/progbox-archivage-de-documents.md#archivage-des-factures-clients), conformément aux exigences de la loi en matière d'archivage des factures numériques.&#x20;
 
 
 
@@ -83,13 +83,13 @@ Lorsque vous réaliserez la facture de travaux, l'acompte sera déduit automatiq
 
 Sur une facture de situation, vous pouvez déduire l'acompte au prorata de l'avancement :
 
-:digit_one: Dans le pied de la facture, cliquez sur le petit crayon à côté de l'acompte déduit
+:digit\_one: Dans le pied de la facture, cliquez sur le petit crayon à côté de l'acompte déduit
 
-:digit_two: Choisissez de déduire l'acompte au prorata de l'avancement, ou saisissez librement le montant à déduire
+:digit\_two: Choisissez de déduire l'acompte au prorata de l'avancement, ou saisissez librement le montant à déduire
 
-:digit_three: Validez
+:digit\_three: Validez
 
-:digit_four: A la prochaine situation de travaux, le solde de l'acompte non déduit sera automatiquement appliqué.
+:digit\_four: A la prochaine situation de travaux, le solde de l'acompte non déduit sera automatiquement appliqué.
 
 
 
@@ -99,13 +99,13 @@ Vous utilisiez Excel, ou un autre logiciel de devis / facturation, et vous venez
 
 Vous avez émis une facture d'acompte sous l'ancien logiciel et vous devez déduire cet acompte de votre prochaine facture :
 
-:digit_one: [Créez un devis](broken-reference) sous le logiciel
+:digit\_one: [Créez un devis](broken-reference) sous le logiciel
 
-:digit_one: [Importez votre devis](../les-devis/import-export.md#import-de-dpgf-et-devis-au-format-excel), ou saisissez-le manuellement
+:digit\_one: [Importez votre devis](../les-devis/import-export.md#import-de-dpgf-et-devis-au-format-excel), ou saisissez-le manuellement
 
-:digit_two: Créez votre [facture de travaux](broken-reference), ou [situation de travaux](les-factures-en-detail/situation-de-travaux.md), à partir du devis
+:digit\_two: Créez votre [facture de travaux](broken-reference), ou [situation de travaux](les-factures-en-detail/situation-de-travaux.md), à partir du devis
 
-:digit_three: Dans le pied de la facture, cliquez sur le petit crayon à côté de l'acompte :
+:digit\_three: Dans le pied de la facture, cliquez sur le petit crayon à côté de l'acompte :
 
 Saisissez le montant à déduire (montant net à payer indiqué sur votre facture d'acompte)
 
