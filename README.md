@@ -8,19 +8,25 @@ Pour trouver rapidement la réponse à votre question :
 
 
 
-:point_right: Saisissez un ou plusieurs mots dans le champ![](.gitbook/assets/screenshot-198-.png)"Rechercher" en haut à droite de cette page
+:digit_one: Saisissez un ou plusieurs mots dans le champ![](.gitbook/assets/screenshot-198-.png)**"Rechercher"** en haut à droite de cette page
 
-ou
 
-:point_right: Naviguez dans la liste à gauche de cette page. Cliquez sur un thème et/ou sous-thème.
 
-Accédez ensuite directement à l'information souhaitée grâce aux titres du sommaire à droite de cette page.
+:digit_two: Ou **Naviguez** dans la liste à gauche de cette page. Cliquez sur un thème et/ou sous-thème
+
+
+
+:digit_three: Accédez ensuite directement à l'information souhaitée grâce aux titres du sommaire à droite de cette page :
 
 ![](.gitbook/assets/screenshot-225b-.png)
 
 Vous trouverez également ci-dessous les questions les plus fréquemment posées par les utilisateurs.
 
+
+
 De nombreux liens, [marqués en bleu](./), dans les différentes pages vous permettront de naviguer de manière simple et intuitive, n'hésitez pas à les utiliser.
+
+
 
 ## Les questions les plus fréquentes :
 

@@ -77,15 +77,19 @@ Pour changer ce contact principal, cliquez sur le bouton blanc "Mettre en princi
 
 ![](../../../.gitbook/assets/screenshot-184-.png)
 
-**Visualisez en un clic l’activité de ce client au sein de votre entreprise **: 
+### **Visualisez, en un clic, l’activité de ce client au sein de votre entreprise **: .
 
-Retrouvez tous les chantiers, devis et factures créés pour ce client. Accédez à chaque affaire ou document en cliquant simplement sur la ligne concernée.
 
-:bulb: La section "Etat financier" est un outil de pilotage simplifié :
+
+:point_right: Retrouvez tous les chantiers, devis et factures créés pour ce client. Accédez à chaque affaire ou document en cliquant simplement sur la ligne concernée
+
+
+
+:point_right: La section "Etat financier" est un outil de pilotage simplifié :
 
 ![](../../../.gitbook/assets/screenshot-183-.png)
 
-:heavy_check_mark:**Constatez l'évolution des principaux indicateurs financiers pour ce client**, évaluez "l'importance" de votre relation et sa "fiabilité" en tant que payeur - depuis l'onglet "Chiffre d’Affaires" :
+:heavy_check_mark: **Constatez l'évolution des principaux indicateurs financiers pour ce client**, évaluez "l'importance" de votre relation et sa "fiabilité" en tant que payeur - depuis l'onglet "Chiffre d’Affaires" :
 
 *   Historique du CA généré par ce client. 
 
@@ -96,7 +100,7 @@ Retrouvez tous les chantiers, devis et factures créés pour ce client. Accédez
 
 
 
-:heavy_check_mark:**Visualisez toutes les factures non réglées par ce client, et menez les actions adéquates - **depuis l'onglet «Échéances» :
+:heavy_check_mark: **Visualisez toutes les factures non réglées par ce client, et menez les actions adéquates - **depuis l'onglet «Échéances» :
 
 A droite de la page, cliquez sur le filtre :
 
@@ -116,11 +120,13 @@ A droite de la page, cliquez sur le filtre :
 
 * Sélectionnez un règlement pour en voir les détails.
 
-
-
 {% hint style="info" %}
 Retrouvez plus d'indicateurs via les chiffres clés.
 {% endhint %}
 
 
+
+## :digit_five: Onglet "ProGBox"
+
+Comme partout sous le logiciel, vous retrouvez sur la fiche chantier l'espace de stockage de documents [ProGBox](../../../les-plus-du-logiciel/progbox-archivage-de-documents.md). Ne recherchez plus vos documents quelque part sur Google Drive ou sur DropBox, tout est organisé automatiquement dans [ProGBox](../../../les-plus-du-logiciel/progbox-archivage-de-documents.md).
 

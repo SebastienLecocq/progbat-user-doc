@@ -72,9 +72,11 @@ Pour changer ce contact principal, cliquez sur le bouton blanc "Mettre en princi
 
 ![](../../../.gitbook/assets/screenshot-193-.png)
 
-Retrouvez toutes les commandes, livraisons et factures d'achat créés pour ce fournisseur. Accédez à chaque document en cliquant simplement sur la ligne concernée.
+:point_right: Retrouvez toutes les commandes, livraisons et factures d'achat créés pour ce fournisseur. Accédez à chaque document en cliquant simplement sur la ligne concernée.
 
-:bulb: La section "Etat financier" est un outil de pilotage simplifié :
+
+
+:point_right: La section "Etat financier" est un outil de pilotage simplifié :
 
 ![](../../../.gitbook/assets/screenshot-186a-.png)
 
@@ -114,3 +116,6 @@ A droite de la page, cliquez sur le filtre :
 Retrouvez plus d'indicateurs via les chiffres clés.
 {% endhint %}
 
+## :digit_five: Onglet "ProGBox"
+
+Comme partout sous le logiciel, vous retrouvez sur la fiche chantier l'espace de stockage de documents [ProGBox](../../../les-plus-du-logiciel/progbox-archivage-de-documents.md). Ne recherchez plus vos documents quelque part sur Google Drive ou sur DropBox, tout est organisé automatiquement dans [ProGBox](../../../les-plus-du-logiciel/progbox-archivage-de-documents.md).

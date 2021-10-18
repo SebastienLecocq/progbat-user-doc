@@ -8,13 +8,12 @@ Ce premier onglet affiche :
 
 * Les coordonnées du chantier et celles du client
 * Les [conditions de règlement](../../aide-au-demarrage/parametrage-de-mon-entreprise/conditions-de-reglement.md#conditions-de-reglement-specifiques) du chantier
-* Un champ pour saisir librement des informations internes.
+* Un champ pour saisir librement des informations internes
+*   Le statut du chantier : 
 
-C'est sur cet onglet que vous indiquerez le statut du chantier : à l'étude, en cours, achevé, perdu ou encore en litige.
+    :bulb: Lorsqu'un devis rattaché à un chantier est passé au statut "Accepté", le statut du chantier passe automatiquement "En cours"
 
-{% hint style="info" %}
-Lorsqu'un devis rattaché à un chantier est passé au statut "Accepté", le statut du chantier passe automatiquement "En cours".
-{% endhint %}
+    Par la suite, vous pourrez actualiser ce statut en "Achevé" (il ne sera alors plus possible d'y saisir des heures par exemple), "Perdu" ou encore "En litige".
 
 
 
@@ -34,7 +33,7 @@ Il contient de nombreuses vignettes, chacune d'elle affichant un graphique stati
 
 ![](<../../.gitbook/assets/image (8).png>)
 
-* Un simple clic sur une vignette affiche le détail des documents concernés.
+* Un simple clic sur une vignette affiche le détail des documents concernés
 *   Un simple clic sur la vignette **Analyse du chantier** ouvre l'outil de[ Pilotage temps réel](pilotage-temps-reel.md), un outil simple et rapide pour estimer l'avancement de votre chantier, et éviter un dérapage avant qu'il ne soit trop tard.
 
 
@@ -51,5 +50,5 @@ Vous pourrez alors simplement ajouter les contacts pour chaque chantier, pour fa
 
 ## :digit_four: Onglet "ProGBox"
 
-Comme sur de nombreux formulaires, vous retrouvez sur la fiche chantier l'espace de stockage de documents [ProGBox](../../les-plus-du-logiciel/progbox-archivage-de-documents.md). Ne recherchez plus vos documents quelque part sur Google Drive ou sur DropBox, tout est organisé automatiquement dans [ProGBox](../../les-plus-du-logiciel/progbox-archivage-de-documents.md).
+Comme partout sous le logiciel, vous retrouvez sur la fiche chantier l'espace de stockage de documents [ProGBox](../../les-plus-du-logiciel/progbox-archivage-de-documents.md). Ne recherchez plus vos documents quelque part sur Google Drive ou sur DropBox, tout est organisé automatiquement dans [ProGBox](../../les-plus-du-logiciel/progbox-archivage-de-documents.md).
 

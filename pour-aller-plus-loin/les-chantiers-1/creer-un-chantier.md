@@ -11,6 +11,10 @@ C'est également sur la fiche chantier que vous pourrez suivre la rentabilité d
 
 
 
+Il existe, sous le logiciel, pas moins de 4 manières de créer un chantier, à vous de choisir la plus adaptée !
+
+
+
 ### :digit_one: Au moment de la création d'un devis
 
 Lorsque vous créez un devis, le logiciel vous propose de créer ou de choisir un client, puis de créer ou choisir un chantier.
