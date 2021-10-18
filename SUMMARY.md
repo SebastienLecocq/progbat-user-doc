@@ -135,6 +135,7 @@
     * [➖ Comptes complémentaires](pour-aller-plus-loin/exports-comptables/parametrage-1/les-comptes-complementaires.md)
   * [📎 Exports comptables](pour-aller-plus-loin/exports-comptables/export.md)
   * [📎 TVA sur encaissements](pour-aller-plus-loin/exports-comptables/tva-sur-encaissements.md)
+  * [📎 Clôture d'exercice](pour-aller-plus-loin/exports-comptables/cloture-dexercice.md)
 
 ## LES "PLUS" DU LOGICIEL
 

@@ -6,13 +6,15 @@
 
 ![](../../.gitbook/assets/menu-export-comptable.png)
 
-La page affiche la liste des exports comptables déjà réalisés
+
+
+Ouvrez le menu "Gestion > Exports comptables". La liste des exports comptables déjà réalisés s'affiche :
 
 ![](../../.gitbook/assets/page-export-comptable.png)
 
-## 1 - Créer un nouvel export comptable
+## Créer un nouvel export comptable
 
-* Cliquez sur Nouvel export, et choisissez le journal.  
+* Cliquez sur Nouvel export, et choisissez le journal. &#x20;
 
 ![](../../.gitbook/assets/creation-export.jpg)
 
