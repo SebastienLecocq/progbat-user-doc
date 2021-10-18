@@ -1,4 +1,4 @@
-# Fiche personnel
+# 📎 Fiche personnel
 
 Le logiciel vous permet d'enregistrer les informations de vos salariés, dans le respect du [RGPD](https://www.batiment-gestion.com/politique-confidentialite-progbat-v1.pdf)
 

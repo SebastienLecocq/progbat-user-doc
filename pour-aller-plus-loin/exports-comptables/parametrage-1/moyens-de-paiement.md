@@ -1,4 +1,4 @@
-# Moyens de paiement
+# ➖ Moyens de paiement
 
 ![](../../../.gitbook/assets/parametres-moyens-paiement.png)
 
@@ -29,4 +29,3 @@ Le choix du format d'export et du niveau de contrepartie s'enregistrent automati
 
 Au prochain export, ces options apparaitront par défaut.
 {% endhint %}
-

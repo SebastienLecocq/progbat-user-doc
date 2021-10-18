@@ -2,6 +2,8 @@
 
 :bulb: Le logiciel vous permet de gérer une bibliothèque d'images, notamment pour agrémenter vos devis, en apportant à votre client une information visuelle, claire et professionnelle.
 
+La galerie d'image est un module complémentaire au logiciel. **Cette option est incluse pendant la période d'essai, pour vous permettre de la tester**, il vous appartient d'y souscrire par la suite, ou non. Pour y souscrire, rendez-vous dans votre boutique (Menu "Administration") ou contactez votre revendeur.
+
 Vous pouvez gérez les images sur 2 niveaux :
 
 ## ****:digit_one: **Dans vos devis et factures, et dans votre bibliothèque**

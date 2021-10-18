@@ -1,4 +1,4 @@
-# Comptes complémentaires
+# ➖ Comptes complémentaires
 
 Les comptes complémentaires concernent les déductions et majorations apportées au montant Hors Taxes ou TTC de la facture.
 

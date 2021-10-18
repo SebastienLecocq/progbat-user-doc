@@ -1,4 +1,4 @@
-# Situation de travaux
+# ➖ Situation de travaux
 
 Une facture d'avancement, ou situation de travaux, est une facture réalisée en cours de travaux, généralement pour des chantiers durant plusieurs mois.
 
@@ -28,19 +28,19 @@ Lorsque les travaux ont débuté, et que l'on souhaite établir une facture inte
 
 :point_right: A partir d'un devis : Cliquez sur le bouton "Facturer" à droite de la page, puis "Facture de travaux"
 
-![](<../../.gitbook/assets/screenshot-153b- (1).png>)
+![](<../../../.gitbook/assets/screenshot-153b- (1).png>)
 
 :point_right: Ou bien, ouvrez la liste des factures, cliquez sur le bouton "Nouvelle facture", puis "Facture de travaux à partir d'un devis". Recherchez le devis à facturer, et validez.
 
-![](../../.gitbook/assets/screenshot-154b-.png)
+![](../../../.gitbook/assets/screenshot-154b-.png)
 
 :point_right: Ou encore, ouvrez la facture d'acompte, et cliquez sur le bouton "Facture de travaux" à droite de la page
 
-![](../../.gitbook/assets/screenshot-157-.png)
+![](../../../.gitbook/assets/screenshot-157-.png)
 
 :digit_two: Ouvrez l'onglet "Lignes" de la facture
 
-Dans la colonne![](../../.gitbook/assets/screenshot-158-.png)(pourcentage d'avancement), vous remarquerez que tous les avancements sont à 100, donc 100%
+Dans la colonne![](../../../.gitbook/assets/screenshot-158-.png)(pourcentage d'avancement), vous remarquerez que tous les avancements sont à 100, donc 100%
 
 
 
@@ -53,22 +53,22 @@ Dans la colonne![](../../.gitbook/assets/screenshot-158-.png)(pourcentage d'avan
     :point_right: 100 = les travaux de cette ligne sont terminés
 
 
-*   Appliquez le même avancement à toutes les lignes d'un titre ou d'un sous-titre en le sélectionnant, et en cliquant sur le petit crayon bleu ![](../../.gitbook/assets/screenshot-160-.png) dans la colonne d'avancement
+*   Appliquez le même avancement à toutes les lignes d'un titre ou d'un sous-titre en le sélectionnant, et en cliquant sur le petit crayon bleu ![](../../../.gitbook/assets/screenshot-160-.png) dans la colonne d'avancement
 
 
 *   Appliquez le même avancement à tout le document :
 
-    :point_right: Cliquez sur le bouton ![](../../.gitbook/assets/screenshot-158a-.png) en haut de colonne
+    :point_right: Cliquez sur le bouton ![](../../../.gitbook/assets/screenshot-158a-.png) en haut de colonne
 
-    :point_right: Ou bien, depuis l'onglet "Pied" de la facture, cliquez sur le crayon vert ![](../../.gitbook/assets/screenshot-161-.png) à droite de la case d'avancement.
+    :point_right: Ou bien, depuis l'onglet "Pied" de la facture, cliquez sur le crayon vert ![](../../../.gitbook/assets/screenshot-161-.png) à droite de la case d'avancement.
 
 Le logiciel se charge de réaliser les calculs nécessaires.
 
 
 
-:digit_four: Vérifiez les données de l'onglet "Pied" de votre facture, modifiez / ajoutez des données **uniquement **si nécessaire (saisir d'une déduction pour [compte prorata](../les-devis/le-devis-en-details/deductions-complementaires/le-compte-prorata.md#dans-la-facture) par exemple).
+:digit_four: Vérifiez les données de l'onglet "Pied" de votre facture, modifiez / ajoutez des données **uniquement **si nécessaire (saisir d'une déduction pour [compte prorata](../../les-devis/le-devis-en-details/deductions-complementaires/le-compte-prorata.md#dans-la-facture) par exemple).
 
-Si vous aviez réalisé une facture d'acompte, la totalité de l'acompte sera déduite de la première situation de travaux. Si vous le souhaitez, vous pourrez [déduire l'acompte partiellement](la-facture-dacompte.md#deduction-partielle-de-lacompte).
+Si vous aviez réalisé une facture d'acompte, la totalité de l'acompte sera déduite de la première situation de travaux. Si vous le souhaitez, vous pourrez [déduire l'acompte partiellement](../la-facture-dacompte.md#deduction-partielle-de-lacompte).
 
 
 
@@ -97,7 +97,7 @@ Exemple :
 
 Généralement, les avancements sont saisis en pourcentage, comme décrit un peu plus haut.
 
-Mais vous pouvez saisir le **montant** de l'avancement, plutôt que son pourcentage, en cliquant sur le bouton ![](../../.gitbook/assets/screenshot-158a-.png) en haut de colonne.
+Mais vous pouvez saisir le **montant** de l'avancement, plutôt que son pourcentage, en cliquant sur le bouton ![](../../../.gitbook/assets/screenshot-158a-.png) en haut de colonne.
 
 Le pourcentage d'avancement correspondant sera automatiquement calculé.
 
@@ -126,12 +126,12 @@ Voici comment procéder :
 
 Vous devez par exemple facturer  132 m²  sur  534 m²  prévus au marché, au prix unitaire de 48.58 € :
 
-*   Dans la colonne![](../../.gitbook/assets/screenshot-158b-.png), saisissez 132\*48.58, c'est à dire la quantité réalisée par le prix unitaire
+*   Dans la colonne![](../../../.gitbook/assets/screenshot-158b-.png), saisissez 132\*48.58, c'est à dire la quantité réalisée par le prix unitaire
 
 
-* Le logiciel affichera immédiatement 6412.56 dans la colonne![](../../.gitbook/assets/screenshot-158b-.png), et 24.72 dans la colonne ![](../../.gitbook/assets/screenshot-158-.png) 
+* Le logiciel affichera immédiatement 6412.56 dans la colonne![](../../../.gitbook/assets/screenshot-158b-.png), et 24.72 dans la colonne ![](../../../.gitbook/assets/screenshot-158-.png) 
 
-![](../../.gitbook/assets/screenshot-162b-.png)
+![](../../../.gitbook/assets/screenshot-162b-.png)
 
 
 
@@ -139,7 +139,7 @@ Vous devez par exemple facturer  132 m²  sur  534 m²  prévus au marché, au p
 
 :digit_one: Ouvrez le menu "Administration > Modèles de documents", cliquez sur la section "Factures"
 
-:digit_two: Ouvrez ou [créez votre modèle personnalisé](../modeles-de-document.md#creer-un-modele) de facture
+:digit_two: Ouvrez ou [créez votre modèle personnalisé](../../modeles-de-document.md#creer-un-modele) de facture
 
 :digit_three: Cliquez sur la section "Corps du document" (celle indiquant les lignes d'ouvrages et leur prix)
 
@@ -147,4 +147,4 @@ Vous devez par exemple facturer  132 m²  sur  534 m²  prévus au marché, au p
 
 Cette colonne, uniquement visible dans une situation de travaux, affichera la quantité réalisée, c'est à dire 132 m² dans notre exemple.
 
-![](../../.gitbook/assets/screenshot-163a-.png)
+![](../../../.gitbook/assets/screenshot-163a-.png)

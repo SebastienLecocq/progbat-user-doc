@@ -1,4 +1,4 @@
-# Avoir
+# 📎 Avoir
 
 Il y a 2 types d'avoir :
 
@@ -9,7 +9,7 @@ Il y a 2 types d'avoir :
 
 Il n'est pas possible de supprimer une facture validée, pour des raisons légales et fiscales.
 
-Si une facture doit être supprimée, il faudra donc l'annuler par un avoir, comme expliqué [dans cet article](modifier-supprimer-ou-annuler-une-facture.md#annulation).
+Si une facture doit être supprimée, il faudra donc l'annuler par un avoir, comme expliqué [dans cet article](les-factures-en-detail/modifier-supprimer-ou-annuler-une-facture.md#annulation).
 
 ## Avoir "simple".
 

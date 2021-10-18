@@ -1,4 +1,4 @@
-# Comptes de tiers
+# ➖ Comptes de tiers
 
 ![](../../../.gitbook/assets/compte_tiers.png)
 

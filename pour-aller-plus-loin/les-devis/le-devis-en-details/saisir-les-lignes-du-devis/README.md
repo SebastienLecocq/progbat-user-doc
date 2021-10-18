@@ -20,3 +20,7 @@
 [mise-en-forme-des-lignes-traitement-de-texte.md](mise-en-forme-des-lignes-traitement-de-texte.md)
 {% endcontent-ref %}
 
+{% content-ref url="ajouter-des-images.md" %}
+[ajouter-des-images.md](ajouter-des-images.md)
+{% endcontent-ref %}
+

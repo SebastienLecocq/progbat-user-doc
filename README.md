@@ -38,12 +38,12 @@ De nombreux liens, [marqués en bleu](./), dans les différentes pages vous perm
 [trucs-et-astuces.md](faq-aides-trucs-et-astuces/trucs-et-astuces.md)
 {% endcontent-ref %}
 
-{% content-ref url="pour-aller-plus-loin/les-factures/modifier-supprimer-ou-annuler-une-facture.md" %}
-[modifier-supprimer-ou-annuler-une-facture.md](pour-aller-plus-loin/les-factures/modifier-supprimer-ou-annuler-une-facture.md)
+{% content-ref url="pour-aller-plus-loin/les-factures/les-factures-en-detail/modifier-supprimer-ou-annuler-une-facture.md" %}
+[modifier-supprimer-ou-annuler-une-facture.md](pour-aller-plus-loin/les-factures/les-factures-en-detail/modifier-supprimer-ou-annuler-une-facture.md)
 {% endcontent-ref %}
 
-{% content-ref url="pour-aller-plus-loin/les-factures/situation-de-travaux.md" %}
-[situation-de-travaux.md](pour-aller-plus-loin/les-factures/situation-de-travaux.md)
+{% content-ref url="pour-aller-plus-loin/les-factures/les-factures-en-detail/situation-de-travaux.md" %}
+[situation-de-travaux.md](pour-aller-plus-loin/les-factures/les-factures-en-detail/situation-de-travaux.md)
 {% endcontent-ref %}
 
 {% content-ref url="pour-aller-plus-loin/les-reglements/courriers-de-relance-ou-de-situation.md" %}

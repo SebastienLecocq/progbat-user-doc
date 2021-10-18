@@ -1,10 +1,10 @@
-# Déductions et majorations
+# ➖ Déductions et majorations
 
 Il est possible de gérer de nombreuses déductions et majorations sur le total de la facture.
 
 **Toutes ces actions sont réalisées à partir de l'onglet "Pied" de la facture.**
 
-:bulb: Pensez à réaliser le [paramétrage comptable](../exports-comptables/parametrage-1/les-comptes-complementaires.md) de ces nouvelles déductions et majorations.
+:bulb: Pensez à réaliser le [paramétrage comptable](../../exports-comptables/parametrage-1/les-comptes-complementaires.md) de ces nouvelles déductions et majorations.
 
 
 
@@ -12,11 +12,11 @@ Il est possible de gérer de nombreuses déductions et majorations sur le total 
 
 Cliquez sur le bouton "Majorations / déductions H.T"
 
-![](../../.gitbook/assets/screenshot-168a-.png)
+![](../../../.gitbook/assets/screenshot-168a-.png)
 
 ### :digit_one: Révision de prix des marchés publics
 
-* Cliquez sur le bouton![](../../.gitbook/assets/screenshot-2021-08-19t161919.604.png)pour créer une nouvelle ligne  
+* Cliquez sur le bouton![](../../../.gitbook/assets/screenshot-2021-08-19t161919.604.png)pour créer une nouvelle ligne  
 * Choisissez "Révision de prix" dans le menu déroulant
 * Par défaut, le signe "+" sera appliqué
 * Saisissez le taux de révision, en ajoutant "%" à la fin (1.02487% par exemple)
@@ -37,14 +37,14 @@ Le montant de la majoration est calculé, et les totaux de la facture mis à jou
 
 Cliquez sur le bouton "Déductions sur TTC (RG, prorata, ...)"
 
-![](../../.gitbook/assets/screenshot-169b-.png)
+![](../../../.gitbook/assets/screenshot-169b-.png)
 
 
 
-### :digit_one: Retenue de garantie [(plus d'informations)](../les-devis/le-devis-en-details/deductions-complementaires/retenue-de-garantie.md#definir-la-retenue-de-garantie)
+### :digit_one: Retenue de garantie [(plus d'informations)](../../les-devis/le-devis-en-details/deductions-complementaires/retenue-de-garantie.md#definir-la-retenue-de-garantie)
 
 * Dans le pied de la facture, cliquez sur le bouton "Déductions sur TTC"
-* Cliquez sur le bouton ![](../../.gitbook/assets/screenshot-2021-08-19t161919.604.png) pour créer une nouvelle ligne
+* Cliquez sur le bouton ![](../../../.gitbook/assets/screenshot-2021-08-19t161919.604.png) pour créer une nouvelle ligne
 * Choisissez "Retenue de garantie", par défaut, une déduction de 5% sera créée
 * Modifiez, si nécessaire, le taux de la retenue de garantie en terminant la saisie par le symbole "%"
 * Enregistrez.
@@ -57,7 +57,7 @@ Le montant de la RG est calculé, et les totaux de la facture mis à jour.
 
 ### :digit_two: Compte prorata
 
-Exactement comme pour la retenue de garantie, sélectionnez "[Compte prorata](../les-devis/le-devis-en-details/deductions-complementaires/le-compte-prorata.md)", et modifiez le taux à déduire si nécessaire, en terminant la saisie par le symbole "%".
+Exactement comme pour la retenue de garantie, sélectionnez "[Compte prorata](../../les-devis/le-devis-en-details/deductions-complementaires/le-compte-prorata.md)", et modifiez le taux à déduire si nécessaire, en terminant la saisie par le symbole "%".
 
 **En cas de révision de prix, le compte prorata sera calculé sur le montant TTC de la facture AVANT application de la révision de prix.**
 
@@ -72,6 +72,6 @@ Cliquez [ici](deductions-et-majorations.md#autres-deductions).
 ### :digit_four: Paiement direct sous-traitants
 
 * Dans le pied de la facture, cliquez sur le bouton "Déductions sur TTC"
-* Ajoutez une déduction, en cliquant sur le bouton vert ![](../../.gitbook/assets/screenshot-2021-08-19t161919.604.png)
+* Ajoutez une déduction, en cliquant sur le bouton vert ![](../../../.gitbook/assets/screenshot-2021-08-19t161919.604.png)
 * Saisissez un libellé, par exemple : "Paiement direct entreprise DUPONT facture 123456 du jj/mm/aa"
 

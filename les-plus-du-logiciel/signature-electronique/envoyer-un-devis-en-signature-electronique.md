@@ -1,4 +1,4 @@
-# Envoyer un devis en signature électronique
+# 📎 Envoyer un devis en signature électronique
 
 Vous avez [ouvert un compte Docage](./#creez-un-compte-docage), vous avez [lié votre compte Docage](./#liez-docage-a-votre-compte-entreprise) à votre compte logiciel, vous êtes prêts à envoyer vos devis en signature électronique à vos clients.
 

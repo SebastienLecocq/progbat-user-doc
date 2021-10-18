@@ -1,4 +1,4 @@
-# Frais Généraux
+# 📎 Frais Généraux
 
 Il n'existe pour le moment pas de gestion des frais généraux sur le logiciel. Mais une solution existe pour pouvoir les gérer tout de même :
 

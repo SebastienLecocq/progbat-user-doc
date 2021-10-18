@@ -1,4 +1,4 @@
-# Comptes d'achat et de vente
+# ➖ Comptes d'achat et de vente
 
 ## Code général
 

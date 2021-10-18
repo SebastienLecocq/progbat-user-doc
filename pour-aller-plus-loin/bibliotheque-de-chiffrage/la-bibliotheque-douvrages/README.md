@@ -2,7 +2,7 @@
 
 ![](../../../.gitbook/assets/ouvrages-acces-rapide.png)
 
-La bibliothèque d'ouvrages contient les travaux, les prestations, que vous allez vendre à vos clients :
+La bibliothèque d'ouvrages contient les travaux, les prestations, que vous allez vendre à vos clients
 
 * "Fourniture et mise en oeuvre d'une cloison de distribution en plaques de plâtre..."
 * "Fourniture et réalisation de semelles filantes..."

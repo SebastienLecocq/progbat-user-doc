@@ -1,4 +1,4 @@
-# Facture directe
+# ➖ Facture directe
 
 Le cadre légal vous laisse peu de latitude quant aux factures directes. Bien souvent dans le bâtiment, établir un devis (accepté et signé par le client) est obligatoire.
 

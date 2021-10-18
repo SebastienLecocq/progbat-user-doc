@@ -1,10 +1,10 @@
-# Factures impayées
+# 📎 Relances impayés
 
 ## Liste des factures partiellement ou non réglées
 
 ![](../../.gitbook/assets/echeance.png)
 
-* Ouvrez le menu "Gestion -&gt; Échéances".
+* Ouvrez le menu "Gestion -> Échéances".
 * Le premier onglet affiche la liste des factures client partiellement ou non réglées.
 * La colonne Échéance vous permet de contrôler si le paiement d'une facture est en retard.
 * La date d'échéance des factures en retard est affichée en rouge pour les mettre en évidence.
@@ -34,4 +34,3 @@ Il est conseillé de trier la colonne échéance par ordre croissant. Ainsi tout
 * Cliquez dans la liste sur le petit pictogramme représentant un billet,
 * Le formulaire de saisie des règlement s'ouvre, vous pouvez [saisir son règlement](reglement-client.md#saisir-le-reglement-dune-facture-client).
 * La liste est mise à jour automatiquement.
-

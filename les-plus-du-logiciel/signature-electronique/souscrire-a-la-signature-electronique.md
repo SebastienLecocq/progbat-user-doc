@@ -1,4 +1,4 @@
-# Activer la signature électronique
+# 📎 Activer la signature électronique
 
 ## :digit_one: Créez un compte Docage
 

@@ -1,4 +1,4 @@
-# Modifier, supprimer ou annuler une facture
+# ➖ Modifier, supprimer ou annuler une facture
 
 ## Facture provisoire
 
@@ -47,7 +47,7 @@ Toutes modifications apportées à une facture sont enregistrées, historisées 
 
 ### Facture de test
 
-* Une facture de test ne peut être ni modifiée, ni annulée, ni supprimée.
+* Une facture de test ne peut être ni modifiée, ni supprimée, mais peut être annulée par un avoir
 * Pour faire disparaître les factures de test de la liste des factures, activez le filtre "Cacher les factures de test" à droite de la liste des factures.
 
 ****

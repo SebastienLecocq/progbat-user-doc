@@ -1,4 +1,4 @@
-# Activer iBAT©
+# ➖ Activer iBAT©
 
 ## :digit_one: Créez un compte IBAT©
 

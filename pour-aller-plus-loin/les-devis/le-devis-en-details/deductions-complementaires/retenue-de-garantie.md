@@ -21,7 +21,7 @@ Vous pouvez la définir :
 * Cliquez sur "Modifiez les conditions" dans le cadre "Conditions de règlement"
 * Dans le champ "Retenue de garantie", saisissez par exemple "5" pour une RG de 5%.
 
-:point_right: Dans la [facture](../../../les-factures/deductions-et-majorations.md#retenue-de-garantie-plus-dinformations)
+:point_right: Dans la [facture](../../../les-factures/les-factures-en-detail/deductions-et-majorations.md#retenue-de-garantie-plus-dinformations)
 
 :point_right: Dans les paramètres "par défaut", depuis le menu "Administration > Mon entreprise", dans les [Conditions de règlement](../../../../aide-au-demarrage/parametrage-de-mon-entreprise/conditions-de-reglement.md#retenue-de-garantie).
 

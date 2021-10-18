@@ -36,14 +36,14 @@ description: >-
 | 18/11/2019    | Définissez si une [catégorie personnalisée de tiers](../pour-aller-plus-loin/les-tiers/categories-et-groupes-de-tiers.md) peut vous facturer. |
 | 25/11/2019    | Liste des règlements : Ajout d'un filtre pour masquer les règlements annulés.                                                                 |
 
-| Décembre 2019 | Que s'est-il passé ?                                                                                                                                                           |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 10/12/2019    | Nouveau module de création des chantiers. Vous pouvez maintenant appliquer automatiquement un numéro de chantier au moment de la création.                                     |
-| 10/12/2019    | Affichage de [lignes de sous-totaux](../pour-aller-plus-loin/modeles-de-document.md#lignes-de-sous-totaux) dans les modèles de devis et factures.                              |
-| 23/12/2019    | Ajout des ressources humaines dans le planning et affichage hebdomadaire.                                                                                                      |
-| 27/12/2019    | Ajout du format d'[export comptable](../pour-aller-plus-loin/exports-comptables/) ACD.                                                                                         |
-| 30/12/2019    | Nouveau système de [validation d'une facture](../pour-aller-plus-loin/les-factures/valider-une-facture.md#finaliser-une-facture) et archivage automatique du document.         |
-| 30/12/2019    | Système automatique de "[favoris](../pour-aller-plus-loin/les-devis/le-devis-en-details/saisir-les-lignes-du-devis/#methodes-de-saisie)" pour accélérer la saisie de vos devis |
+| Décembre 2019 | Que s'est-il passé ?                                                                                                                                                                          |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 10/12/2019    | Nouveau module de création des chantiers. Vous pouvez maintenant appliquer automatiquement un numéro de chantier au moment de la création.                                                    |
+| 10/12/2019    | Affichage de [lignes de sous-totaux](../pour-aller-plus-loin/modeles-de-document.md#lignes-de-sous-totaux) dans les modèles de devis et factures.                                             |
+| 23/12/2019    | Ajout des ressources humaines dans le planning et affichage hebdomadaire.                                                                                                                     |
+| 27/12/2019    | Ajout du format d'[export comptable](../pour-aller-plus-loin/exports-comptables/) ACD.                                                                                                        |
+| 30/12/2019    | Nouveau système de [validation d'une facture](../pour-aller-plus-loin/les-factures/les-factures-en-detail/valider-une-facture.md#finaliser-une-facture) et archivage automatique du document. |
+| 30/12/2019    | Système automatique de "[favoris](../pour-aller-plus-loin/les-devis/le-devis-en-details/saisir-les-lignes-du-devis/#methodes-de-saisie)" pour accélérer la saisie de vos devis                |
 
 {% content-ref url="annee-2020.md" %}
 [annee-2020.md](annee-2020.md)

@@ -1,4 +1,4 @@
-# Export
+# 📎 Exports comptables
 
 {% hint style="info" %}
 :bulb: Avant de réaliser un export comptable, il est important de bien [**paramétrer votre plan comptable**](parametrage-1/).

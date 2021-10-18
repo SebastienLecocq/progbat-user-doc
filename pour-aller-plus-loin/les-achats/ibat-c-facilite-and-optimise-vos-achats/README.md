@@ -1,4 +1,4 @@
-# iBAT© facilite & optimise vos achats
+# 📎 iBAT© facilite & optimise vos achats
 
 ## Les avantages ?
 

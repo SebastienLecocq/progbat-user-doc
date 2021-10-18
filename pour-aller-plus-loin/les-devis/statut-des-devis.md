@@ -37,7 +37,7 @@ Tant qu'un devis est en statut "A l'étude" ou "En attente", le logiciel consid�
 Mais dès que vous passez le devis en statut "Accepté", un "Statut de travaux" apparaît sur l'entête du devis:
 
 *  A la création d'une facture d'acompte, les travaux seront toujours au statut "non commencés", cliquez [ici](../les-factures/la-facture-dacompte.md#ne-pas-confondre-facture-dacompte-et-facture-davancement-situation-de-travaux) pour savoir pourquoi.
-* A la création d'une [situation de travaux](../les-factures/situation-de-travaux.md), le statut du devis passera automatiquement en "Travaux en cours".
+* A la création d'une [situation de travaux](../les-factures/les-factures-en-detail/situation-de-travaux.md), le statut du devis passera automatiquement en "Travaux en cours".
 * Si vous créez une facture de fin de travaux, le statut du devis passera automatiquement en "Travaux terminés".
 
 {% hint style="info" %}

@@ -1,4 +1,4 @@
-# Commander avec iBAT©
+# ➖ Commander avec iBAT©
 
 \
 Votre [compte iBAT© est créé](activer-ibat-c.md#creez-un-compte-ibat-c), la [connexion avec le logiciel est établie](activer-ibat-c.md#liez-ibat-c-a-votre-compte-entreprise) : iBAT© est maintenant totalement intégré à votre logiciel.

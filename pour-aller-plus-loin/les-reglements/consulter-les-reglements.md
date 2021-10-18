@@ -1,16 +1,16 @@
-# Consulter les règlements
+# 📎 Consulter les règlements
 
 ## Depuis la liste des règlements
 
 ![](../../.gitbook/assets/reglement.png)
 
-* Ouvrez le menu "Gestion -&gt; Règlements"
+* Ouvrez le menu "Gestion -> Règlements"
 * La liste affiche tous les règlements clients et fournisseurs saisis.
 * Vous pouvez facilement filtrer votre liste pour retrouver les règlements d'un client ou d'un fournisseur en particulier, ou les règlements sur une période par exemple.
 
 ## Depuis une facture
 
-Si vous ouvrez une facture réglée \(totalement ou partiellement\), le ou les règlements associés seront affichés sur la partie droite de la page.
+Si vous ouvrez une facture réglée (totalement ou partiellement), le ou les règlements associés seront affichés sur la partie droite de la page.
 
 * En cliquant sur un règlement, le détail s'affichera à l'écran.
   * **Il n'est pas possible de modifier ou supprimer un règlement.**
@@ -22,4 +22,3 @@ Si vous ouvrez une facture réglée \(totalement ou partiellement\), le ou les r
 * Ouvrez la fiche client ou fournisseur,
 * Ouvrez l'onglet "Activité",
 * Ouvrez la section "Etat financier".
-

@@ -1,4 +1,4 @@
-# Bons de livraison Fournisseur - BL
+# ➖ Bons de livraison Fournisseur - BL
 
 {% hint style="info" %}
 C'est le bon de livraison qui est comptabilisé dans les dépenses de la fiche chantier, et qui vous permettra donc d'analyser la rentabilité du chantier, dès validation de la réception.

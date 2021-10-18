@@ -1,4 +1,4 @@
-# Migration depuis Excel ou un autre logiciel
+# 4⃣ Migration
 
 #### Vous utilisiez Excel, ou un autre logiciel de devis / facturation, et vous souhaitez migrer sur notre logiciel de gestion.
 
@@ -62,7 +62,7 @@ La procédure n'est pas compliquée, mais réclame toute votre attention. Suivez
 
 #### :digit_three: Réalisez la situation suivante sur le logiciel
 
-* Ouvrez la situation de travaux "Test", et [créez une nouvelle situation](../pour-aller-plus-loin/les-factures/situation-de-travaux.md#realiser-les-situations-suivantes)
+* Ouvrez la situation de travaux "Test", et [créez une nouvelle situation](../pour-aller-plus-loin/les-factures/les-factures-en-detail/situation-de-travaux.md#realiser-les-situations-suivantes)
 * Mettez à jour les avancements, contrôlez et finalisez la facture
 *   Le logiciel vous proposera de continuer en mode apprentissage, ou de passer en mode réel, car la facture précédente est une facture de test :
 
@@ -78,7 +78,7 @@ Vous avez émis une facture d'acompte sous l'ancien logiciel et vous devez dédu
 
 :digit_two: [Importez le contenu de votre devis](../pour-aller-plus-loin/les-devis/import-export.md#import-de-dpgf-et-devis-au-format-excel) initial, ou saisissez-le manuellement
 
-:digit_three: Créez votre [facture de travaux](broken-reference), ou [situation de travaux](../pour-aller-plus-loin/les-factures/situation-de-travaux.md), à partir du devis
+:digit_three: Créez votre [facture de travaux](broken-reference), ou [situation de travaux](../pour-aller-plus-loin/les-factures/les-factures-en-detail/situation-de-travaux.md), à partir du devis
 
 :digit_four: Dans le pied de la facture, cliquez sur le petit crayon à côté de l'acompte :
 

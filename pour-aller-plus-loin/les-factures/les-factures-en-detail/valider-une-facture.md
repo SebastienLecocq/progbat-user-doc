@@ -1,4 +1,4 @@
-# Valider une facture
+# ➖ Valider une facture
 
 ## La facture provisoire
 
@@ -30,10 +30,10 @@ Finaliser une facture provisoire est très simple :
 * Ouvrez la facture provisoire
 * Cliquez sur le bouton vert "Prévisualiser / Finaliser" en haut à droite de la page
 
-![](<../../.gitbook/assets/capture (25).png>)
+![](<../../../.gitbook/assets/capture (25).png>)
 
 * Votre facture s'affiche en pdf, avec la mention "Provisoire" en filigrane (obligation légale).
-* Changez si besoin le [modèle de facture](../modeles-de-document.md),
+* Changez si besoin le [modèle de facture](../../modeles-de-document.md),
 * Cliquez sur le bouton vert "Finaliser la facture".
   * Vérifiez et modifiez éventuellement la date de la facture.
 * Vérifiez et modifiez éventuellement la date d'échéance.
@@ -80,13 +80,13 @@ Au moment de la finalisation de la facture :
 * Ajouter le préfixe souhaité (par exemple "TRV" pour les factures de travaux, "DEP" pour les factures de dépannage, ...).
 * Important : le compteur de numérotation de la facture sera modifié en fonction du préfixe, pour avoir une continuité de numérotation par série.
 
-![](../../.gitbook/assets/prefixe_facture.png)
+![](../../../.gitbook/assets/prefixe_facture.png)
 
 ### Archivage automatique des factures validées dans la ProGBox.
 
 Pour répondre à la réglementation, les factures que vous envoyez à vos clients doivent être archivées sur un système numérique, suffisamment sécurisé pour que ces documents soient inaltérables et conservés au moins 6 ans.
 
-Le logiciel archive automatiquement le pdf de chaque facture validée dans la [ProGBox](../../les-plus-du-logiciel/progbox-archivage-de-documents.md#archivage-des-factures-clients), dans le dossier ".factures".
+Le logiciel archive automatiquement le pdf de chaque facture validée dans la [ProGBox](../../../les-plus-du-logiciel/progbox-archivage-de-documents.md#archivage-des-factures-clients), dans le dossier ".factures".
 
 Vous pouvez maintenant [imprimer](imprimer-une-facture.md) ou envoyer votre facture par mail à votre client.
 

@@ -14,16 +14,24 @@
 
 Depuis le menu "Bibliothèques > Eléments", accédez aux différents types d'éléments en les sélectionnant sur la droite de la page.
 
+![](../../.gitbook/assets/liste_fournitures.png)
+
+**Pourquoi une bib**
+
 {% hint style="info" %}
-Ces différents éléments pourront être regroupés pour ["composer" un ouvrage](la-bibliotheque-douvrages/#la-composition-des-ouvrages). Par exemple, l'élément de fourniture "Cloison PVC 35 mm" et l'élément de main d'oeuvre "Pose cloison simple", entre autres,  pourront composer l'ouvrage "Fourniture et Pose de cloisons PVC".
+****
+
+**La bibliothèque d'éléments a pour but, entre autres, de permettre de **[**regrouper les éléments dont vous aurez besoin pour réaliser un ouvrage**](la-bibliotheque-douvrages/composer-un-ouvrage.md)**. **Par exemple, l'élément de fourniture "Cloison PVC 35 mm" et l'élément de main d'oeuvre "Pose cloison simple", entre autres,  pourront composer l'ouvrage "Fourniture et Pose de cloisons PVC".
 
 
 
-**Les avantages ?**
+### **Les avantages ?**
 
 
 
 **En composant vos ouvrages, vous pourrez visualiser rapidement le coût de ces travaux, le temps à consacrer, et le prix auquel les vendre\*, pour être sûr que votre travail est "rentable".**
+
+****
 
 
 

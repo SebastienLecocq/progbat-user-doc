@@ -1,6 +1,6 @@
-# Conformité à la "loi anti-fraude à la TVA" (France)
+# 📎 Conformité à la "Loi anti-fraude à la TVA"
 
-## Un bref rappel de la loi
+## Un bref rappel de la loi (pour la France)
 
 *   **Inaltérabilité :** Toute facture ou règlement validé ne pourra plus être modifié ou supprimé
 
@@ -19,7 +19,7 @@ Consultez le texte de loi [en cliquant ici.](http://bofip.impots.gouv.fr/bofip/1
 
 
 
-## Attestation de conformité
+## Attestation de conformité (pour la France)
 
 {% hint style="danger" %}
 **Vous devez obligatoirement détenir une attestation de conformité du logiciel, au risque d'une forte amende dans le cas contraire.**

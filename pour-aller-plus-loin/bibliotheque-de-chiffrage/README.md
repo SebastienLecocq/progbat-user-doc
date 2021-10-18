@@ -1,36 +1,52 @@
 # 💲 Bibliothèques de prix
 
-La gestion d'une bibliothèque de prix pour le bâtiment est un peu plus complexe qu'un simple catalogue d'articles dans des logiciels généralistes de devis/facturation.
-
-#### **Mais elle est surtout beaucoup plus puissante et efficace :**
-
-* Calculez avec précision vos prix de vente en fonction de vos coûts réels,
-* Réalisez vos devis avec rapidité et précision,
-* Adaptez vos prix à chaque chantier,
-* Obtenez en un clic un prévisionnel de dépenses sur un chantier,
-* Générez automatiquement des commandes fournisseurs,
-* Recalculez automatiquement vos prix de vente par rapport à vos prix d'achat,
-* .....
-
-####
-
-### Le logiciel gère 2 bibliothèques bien distinctes, mais complémentaires :
-
-* **La bibliothèque d'éléments**, qui va regrouper tout ce qui "coûte" pour réaliser un chantier :
-  * Les fournitures (matériaux par exemple),
-  * La main d'oeuvre,
-  * La location de matériel,
-  *   Les travaux confiés à des sous-traitants.
+## **Pourquoi 2 bibliothèques ?**
 
 
-* **La bibliothèque d'ouvrages**, qui va regrouper les travaux que vous allez vendre à vos clients.
-  * C'est principalement cette bibliothèque qui vous servira à **créer vos devis de manière extrêmement rapide**
+
+{% hint style="info" %}
+aîtriser la gest
+
+:digit_one: Calculer avec précision et automatiquement vos prix de vente, en fonction de vos coûts réels, et de votre marge
+
+:digit_two: Réaliser vos devis avec rapidité et précision
+
+:digit_three: Adapter vos prix à chaque chantier
+
+:digit_four: Obtenir en un clic un prévisionnel de dépenses sur un chantier ([synthèse du devis](../les-devis/le-devis-en-details/synthese-du-devis.md))
+
+:digit_five: Générer automatiquement des commandes fournisseurs, sous-traitant, ou même des bons de travail, bon de préparation, et demandes de prix fournisseur/sous-traitant
+
+:digit_six: Recalculer automatiquement vos prix de vente par rapport à vos prix d'achat
+
+
+{% endhint %}
+
+
+
+#### Le logiciel gère 2 bibliothèques bien distinctes, mais complémentaires :
 
 ****
 
-{% content-ref url="la-bibliotheque-delements.md" %}
-[la-bibliotheque-delements.md](la-bibliotheque-delements.md)
-{% endcontent-ref %}
+### ****:point_right: **La bibliothèque d'éléments**
+
+**Elle regroupe tout ce qui "coûte" pour réaliser un chantier :**
+
+* Les fournitures (matériaux par exemple)
+* La main d'oeuvre
+* La location de matériel
+* l'outillage
+*   Les travaux confiés à des sous-traitants.
+
+
+
+### ****:point_right: **La bibliothèque d'ouvrages**
+
+**Elle regroupe les travaux que vous allez proposer à vos clients :**
+
+C'est principalement cette bibliothèque qui vous servira à **créer vos devis de manière extrêmement rapide**
+
+****
 
 {% content-ref url="la-bibliotheque-douvrages/" %}
 [la-bibliotheque-douvrages](la-bibliotheque-douvrages/)
