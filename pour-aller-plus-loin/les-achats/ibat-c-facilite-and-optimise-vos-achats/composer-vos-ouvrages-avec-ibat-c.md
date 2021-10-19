@@ -20,7 +20,9 @@ Rien de plus simple, tout se déroule sous le logiciel :&#x20;
 
 :digit\_two: Une composition "par défaut", ou la composition déjà créée par vos soins, s'affiche
 
-:digit\_three: Cliquez sur le bouton![](../../../.gitbook/assets/screenshot-2021-08-19t161919.604.png) et saisissez les premières lettres de l'élément fourniture à ajouter :
+:digit\_three: Cliquez sur le bouton![](../../../.gitbook/assets/screenshot-2021-08-19t161919.604.png) et saisissez les premières lettres de l'élément fourniture à ajouter :&#x20;
+
+Les éléments iBAT© sont automatiquement proposés dans la liste déroulante, les prix d'achat sont ceux que vous avez négocié avec votre fournisseur, ou à défaut, ceux proposés sur la plateforme iBAT©
 
 ![](../../../.gitbook/assets/IBAT113.png)
 
@@ -28,7 +30,7 @@ Rien de plus simple, tout se déroule sous le logiciel :&#x20;
 
 :digit\_three: Indiquez les quantités nécessaires de ces éléments pour réaliser cet ouvrage
 
-__:digit\_four:_ _Vérifiez ou modifiez les prix (d'achat et de vente) et/ou les marges
+__:digit\_four:_ _Vérifiez ou modifiez les prix et/ou les marges si nécessaire
 
 :digit\_five: Enregistrez.
 
@@ -38,10 +40,12 @@ __:digit\_four:_ _Vérifiez ou modifiez les prix (d'achat et de vente) et/ou les
 
 :digit\_one: Cliquez sur l'onglet "Composition" de l'ouvrage créé
 
-:digit\_two: Ajoutez les différents [éléments](../../bibliotheque-de-chiffrage/la-bibliotheque-delements.md) nécessaires à la réalisation de cet ouvrage : fournitures, main d'oeuvre, sous-traitance, outillage, ... _Si votre main d'oeuvre est exprimée en heures, le _[_temps prévu_](../../les-devis/le-devis-en-details/prevoir-le-temps-passe.md)_ pour réaliser cet ouvrage sera automatiquement affiché_
+:digit\_two: Cliquez sur le bouton "Ajouter" et saisissez les premières lettres de l'élément fourniture à ajouter :&#x20;
+
+Les éléments iBAT© sont automatiquement proposés dans la liste déroulante, les prix d'achat sont ceux que vous avez négocié avec votre fournisseur, ou à défaut, ceux proposés sur la plateforme iBAT©
 
 :digit\_three: Indiquez les quantités nécessaires de ces éléments pour réaliser cet ouvrage
 
-__:digit\_four:_ _Vérifiez ou modifiez les prix (d'achat et de vente) et/ou les marges
+__:digit\_four:_ _Vérifiez ou modifiez les prix et/ou les marges si nécessaire
 
 :digit\_five: Enregistrez.
