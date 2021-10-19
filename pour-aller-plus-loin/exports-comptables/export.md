@@ -16,26 +16,28 @@ La liste des exports comptables déjà réalisés s'affiche :&#x20;
 
 
 
-:digit\_one: Cliquez sur le bouton vert "Nouvel export", et choisissez le journal à exporter : Ventes, Achats, Règlements
+:digit\_one: Ouvrez le menu "Gestion > Exports comptables"
 
-:digit\_two: Sélectionnez la période d'export, et le format du logiciel de comptabilité (Quadratus, ACD, EBP, Coala, etc...)
+:digit\_two: Cliquez sur le bouton vert "Nouvel export", et choisissez le journal à exporter : Ventes, Achats, Règlements
+
+:digit\_three: Sélectionnez la période d'export, et le format du logiciel de comptabilité (Quadratus, ACD, EBP, Coala, etc...)
 
 ![](../../.gitbook/assets/creation-export.jpg)
 
-:digit\_three: Cliquez sur Prévisualiser
+:digit\_four: Cliquez sur Prévisualiser
 
 Si vous avez sélectionné une période déjà exportée, le logiciel n'exportera que les pièces éventuellement ajoutées à cette période. Le nombre de pièces exportées sur le nombre total des pièces de la période est précisé en tête de la prévisualisation :&#x20;
 
 ![](<../../.gitbook/assets/Screenshot (241).png>)
 
-:digit\_four: Après vérification à l'écran, vous pouvez exporter le journal :
+:digit\_five: Après vérification à l'écran, vous pouvez exporter le journal :
 
 * Un fichier sera créé et téléchargé sur votre ordinateur au format d'export demandé
 *   L'export sera enregistré sous le logiciel et affiché dans la liste des exports.
 
 
 
-## 2 - Consulter/annuler un export comptable déja réalisé
+## Consulter/annuler un export comptable déjà réalisé
 
 Si vous exportez une période déjà exportée, la plupart du temps, la prévisualisation sera vide, car le logiciel empêche d'exporter 2 fois les mêmes pièces pour éviter les doublons en comptabilité.
 
