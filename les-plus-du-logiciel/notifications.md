@@ -4,13 +4,13 @@ Le logiciel dispose d'un système de notifications qui se caractérise par une p
 
 En cliquant sur la petite cloche, les notifications s'affichent.
 
-![](../.gitbook/assets/nb_notifs.png)
+![](../.gitbook/assets/nb\_notifs.png)
 
 ## Notifications automatiques
 
 
 
-### :digit_one: Facture en retard de paiement
+### :digit\_one: Facture en retard de paiement
 
 ![](../.gitbook/assets/screenshot-129-.png)
 
@@ -20,22 +20,22 @@ En cliquant sur la petite cloche, les notifications s'affichent.
 
 
 
-### :digit_two: Attestation de TVA en attente de réception
+### :digit\_two: Attestation de TVA en attente de réception
 
 ![](../.gitbook/assets/screenshot-130-.png)
 
 * Cliquez sur la notification pour afficher la liste des attestations de TVA
 * La notification restera active tant que vous n'aurez pas coché la case "Retour client"
 
-:bulb: En faisant [signer électroniquement l'attestation de TVA](signature-electronique/envoyer-une-attestation-de-tva-en-signature-electronique.md), en même temps que le devis ou non, la validation du retour client est automatique et vous est notifiée via cette même cloche.
+:bulb: En faisant [signer électroniquement l'attestation de TVA](../pour-aller-plus-loin/signature-electronique/envoyer-une-attestation-de-tva-en-signature-electronique.md), en même temps que le devis ou non, la validation du retour client est automatique et vous est notifiée via cette même cloche.
 
 
 
-### :digit_three: Signature électronique validée, d'un devis et/ou d'une attestation de TVA
+### :digit\_three: Signature électronique validée, d'un devis et/ou d'une attestation de TVA
 
 ![](../.gitbook/assets/screenshot-133-.png)
 
-(cf [signature électronique](signature-electronique/))
+(cf [signature électronique](../pour-aller-plus-loin/signature-electronique/))
 
 * Cliquez sur la notification pour afficher le devis, le statut du devis est automatiquement passé à "Accepté".
 * Le devis signé se trouve dans l'onglet [ProGBox](progbox-archivage-de-documents.md) du devis
@@ -43,7 +43,7 @@ En cliquant sur la petite cloche, les notifications s'affichent.
 
 
 
-### :digit_four: Restitution de la retenue de garantie
+### :digit\_four: Restitution de la retenue de garantie
 
 ![](../.gitbook/assets/screenshot-132-.png)
 

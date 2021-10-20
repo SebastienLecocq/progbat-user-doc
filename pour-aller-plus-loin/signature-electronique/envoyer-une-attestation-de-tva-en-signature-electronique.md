@@ -1,6 +1,6 @@
 # 📎 Envoyer une attestation de TVA en signature électronique
 
-__[_Cliquez ici_](../attestation-de-tva.md)_ pour apprendre pourquoi et comment créer une attestation de TVA simplifiée._
+__[_Cliquez ici_](../../les-plus-du-logiciel/attestation-de-tva.md)_ pour apprendre pourquoi et comment créer une attestation de TVA simplifiée._
 
 ## Envoyer l'attestation de TVA en même temps que le devis
 
@@ -14,7 +14,7 @@ Cliquez [ici](envoyer-un-devis-en-signature-electronique.md#etape-2-envoyer-un-d
 
 
 
-:digit_one: Ouvrez l'attestation de TVA en cliquant sur l'icône ![](../../.gitbook/assets/images.png):
+:digit\_one: Ouvrez l'attestation de TVA en cliquant sur l'icône ![](../../.gitbook/assets/images.png):
 
 Depuis le menu "Gestion > Attestations de TVA", en bout de ligne :
 
@@ -26,13 +26,13 @@ Ou bien depuis le devis, à côté de l'attestation de TVA déjà créée :
 
 
 
-:digit_two: A droite de la page, cliquez sur le bouton bleu "Signature électronique".
+:digit\_two: A droite de la page, cliquez sur le bouton bleu "Signature électronique".
 
 Un formulaire s'ouvre :
 
 ![](../../.gitbook/assets/screenshot-124a-.png)
 
-#### :point_right: Section "Signataire" :
+#### :point\_right: Section "Signataire" :
 
 Il s'agit de la personne qui va signer l'attestation :
 
@@ -56,7 +56,7 @@ Assurez-vous que l'adresse mail et le numéro de téléphone du client sont à j
 
 
 
-#### :point_right: Section "Email" :
+#### :point\_right: Section "Email" :
 
 Il s'agit de l'email que votre client recevra de la part de Docage, et qui lui permettra de consulter et signer l'attestation.
 
@@ -70,7 +70,7 @@ En envoyant le mail, votre nouveau texte sera enregistré et proposé au prochai
 
 
 
-:digit_three: Vous pouvez maintenant envoyer l'attestation à votre client.
+:digit\_three: Vous pouvez maintenant envoyer l'attestation à votre client.
 
 
 
@@ -82,19 +82,19 @@ En envoyant le mail, votre nouveau texte sera enregistré et proposé au prochai
 
 
 
-:digit_one: Vous et votre client recevez un mail confirmant la signature du/des documents, ainsi que ces mêmes documents en pièce jointe
+:digit\_one: Vous et votre client recevez un mail confirmant la signature du/des documents, ainsi que ces mêmes documents en pièce jointe
 
-:digit_two: Vous recevez une [notification](../notifications.md#signature-electronique-validee-dun-devis-et-ou-dune-attestation-de-tva)![](../../.gitbook/assets/screenshot-127a-.png)sur votre tableau de bord, vous informant que votre client a signé
+:digit\_two: Vous recevez une [notification](../../les-plus-du-logiciel/notifications.md#signature-electronique-validee-dun-devis-et-ou-dune-attestation-de-tva)![](../../.gitbook/assets/screenshot-127a-.png)sur votre tableau de bord, vous informant que votre client a signé
 
-:digit_three: L'attestation de TVA est automatiquement indiquée "Transmise" (à l'envoi) et "Retournée par le client" (à la signature), vous gagnez du temps sur le suivi administratif :
+:digit\_three: L'attestation de TVA est automatiquement indiquée "Transmise" (à l'envoi) et "Retournée par le client" (à la signature), vous gagnez du temps sur le suivi administratif :
 
 ![](../../.gitbook/assets/screenshot-136f-.png)
 
 
 
-:point_right: Si l'attestation de TVA est envoyée avec le devis :
+:point\_right: Si l'attestation de TVA est envoyée avec le devis :
 
 * Le devis passe automatiquement au statut "Accepté"
-* Les documents signés sont automatiquement archivés dans la [ProGBox ](../progbox-archivage-de-documents.md)du devis.
+* Les documents signés sont automatiquement archivés dans la [ProGBox ](../../les-plus-du-logiciel/progbox-archivage-de-documents.md)du devis.
 
-:point_right: Si l'attestation de TVA est envoyée seule : l'attestation signée est automatiquement archivée dans la [ProGBox](../progbox-archivage-de-documents.md) du client.
+:point\_right: Si l'attestation de TVA est envoyée seule : l'attestation signée est automatiquement archivée dans la [ProGBox](../../les-plus-du-logiciel/progbox-archivage-de-documents.md) du client.

@@ -44,7 +44,7 @@ C'est la méthode conseillée, car l'attestation sera rattachée au devis et vou
 ## Comment transmettre l'attestation de TVA à mon client ?
 
 {% hint style="info" %}
-**Nouveauté** : Gagnez du temps en faisant signer électroniquement l'attestation de TVA simplifiée générée depuis le logiciel. [_Cliquez ici pour savoir comment procéder._](signature-electronique/)__
+**Nouveauté** : Gagnez du temps en faisant signer électroniquement l'attestation de TVA simplifiée générée depuis le logiciel. [_Cliquez ici pour savoir comment procéder._](../pour-aller-plus-loin/signature-electronique/)__
 {% endhint %}
 
 ### Depuis le devis

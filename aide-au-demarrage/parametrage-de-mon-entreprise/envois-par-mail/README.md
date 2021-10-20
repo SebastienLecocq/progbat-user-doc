@@ -1,6 +1,6 @@
 # Envois par mail
 
-:bulb:Optez pour la [signature électronique](../../../les-plus-du-logiciel/signature-electronique/) de vos devis, pour un envoi, réception et archivage en un clic !
+:bulb:Optez pour la [signature électronique](../../../pour-aller-plus-loin/signature-electronique/) de vos devis, pour un envoi, réception et archivage en un clic !
 
 
 
@@ -22,13 +22,13 @@ Cliquez [ici](parametrer-ma-propre-adresse-mail.md).
 
 ## **Envoyer vos mails, facilement**
 
-****:point_right:** **Après avoir ouvert un document (devis, facture), cliquez sur le bouton "Imprimer/Envoyer" puis sur "Envoyer par email" :
+****:point\_right:** **Après avoir ouvert un document (devis, facture), cliquez sur le bouton "Imprimer/Envoyer" puis sur "Envoyer par email" :
 
 ![](../../../.gitbook/assets/screenshot-224a-.png)
 
 
 
-:digit_one: Cliquez dans la barre de recherche "Ajouter un destinataire" :
+:digit\_one: Cliquez dans la barre de recherche "Ajouter un destinataire" :
 
 :bulb: Les adresses mail de tous les contacts de votre client s'affichent automatiquement, sélectionnez-en un. Vous pourrez juste après en ajouter un ou plusieurs autres
 
@@ -39,13 +39,13 @@ Cliquez [ici](parametrer-ma-propre-adresse-mail.md).
 
 
 
-:digit_two: Renseignez l'objet du devis ("Devis rénovation ..." par exemple)
+:digit\_two: Renseignez l'objet du devis ("Devis rénovation ..." par exemple)
 
-:digit_three: Gagnez du temps de saisie, [insérez un texte pré-enregistré](../../../les-plus-du-logiciel/bibliotheque-de-textes.md) dans le contenu de votre mail
+:digit\_three: Gagnez du temps de saisie, [insérez un texte pré-enregistré](../../../les-plus-du-logiciel/bibliotheque-de-textes.md) dans le contenu de votre mail
 
-:digit_four: Ajoutez un ou plusieurs documents (plans, facture précédente,...), directement depuis votre [ProGBox](../../../les-plus-du-logiciel/progbox-archivage-de-documents.md), ou bien depuis votre ordinateur
+:digit\_four: Ajoutez un ou plusieurs documents (plans, facture précédente,...), directement depuis votre [ProGBox](../../../les-plus-du-logiciel/progbox-archivage-de-documents.md), ou bien depuis votre ordinateur
 
-:digit_five: Ne modifiez que si nécessaire l'adresse mail de réponse. :warning: Enregistrer les options modifie votre paramétrage d'envoi de mails.
+:digit\_five: Ne modifiez que si nécessaire l'adresse mail de réponse. :warning: Enregistrer les options modifie votre paramétrage d'envoi de mails.
 
 
 
@@ -63,6 +63,6 @@ Survolez la date d'envoi pour voir apparaître l'adresse mail des destinataires.
 
 
 
-:bulb: Sur votre liste de devis, factures ou commandes, un document envoyé par mail sera immédiatement identifié :  
+:bulb: Sur votre liste de devis, factures ou commandes, un document envoyé par mail sera immédiatement identifié : &#x20;
 
-L'icône![](../../../.gitbook/assets/screenshot-185a-.png)en bout de ligne passera au bleu ![](../../../.gitbook/assets/screenshot-211-.png) 
+L'icône![](../../../.gitbook/assets/screenshot-185a-.png)en bout de ligne passera au bleu ![](../../../.gitbook/assets/screenshot-211-.png)&#x20;

@@ -4,17 +4,17 @@
 
 
 
-:digit_one: Ouvrez le menu utilisateur, et accédez à la page "Préférences"
+:digit\_one: Ouvrez le menu utilisateur, et accédez à la page "Préférences"
 
-:digit_two: Saisissez (ou vérifiez) votre "Adresse mail expéditeur"
+:digit\_two: Saisissez (ou vérifiez) votre "Adresse mail expéditeur"
 
-:digit_three: Dans le menu déroulant central "Méthode d'envoi des emails", sélectionnez "Votre boîte mail"
+:digit\_three: Dans le menu déroulant central "Méthode d'envoi des emails", sélectionnez "Votre boîte mail"
 
 _Vérifiez les données pré-remplies par le logiciel_
 
-:digit_four: Cochez la case "Copier vos mails dans votre boîte de messages envoyés" si vous souhaitez retrouver vos mails envoyés, via le logiciel, dans le dossier "Envoyés" ou "Sent" de votre boîte mail
+:digit\_four: Cochez la case "Copier vos mails dans votre boîte de messages envoyés" si vous souhaitez retrouver vos mails envoyés, via le logiciel, dans le dossier "Envoyés" ou "Sent" de votre boîte mail
 
-:digit_five: Enregistrez vos préférences
+:digit\_five: Enregistrez vos préférences
 
 _Le logiciel va immédiatement tenter de se connecter pour vérifier les informations que vous avez saisies._
 
@@ -25,7 +25,7 @@ __
 
 
 {% hint style="info" %}
-### :bulb:_** **_**Astuces**_** **_:bulb: 
+### :bulb:_** **_**Astuces**_** **_:bulb:&#x20;
 
 *   _ _**En cas de saisie incorrecte**, le logiciel va entourer en rouge ce qui pose problème en priorité. Vérifiez vos saisies à l'aide du pas à pas ci-dessus jusqu'à pouvoir enregistrer votre paramétrage. En cas de nouvel échec, adressez une copie écran de la page au support technique.
 
@@ -54,13 +54,11 @@ __
 
 Vous avez une adresse Gmail ou une adresse mail professionnelle Google, de type contact@monentreprise.com ou j.dupond@monentreprise.com ?
 
-![](../../../.gitbook/assets/screenshot-54-.png)
+![](<../../../.gitbook/assets/Screenshot (246b) (1).png>)
 
+:digit\_one: Ouvrez le menu utilisateur (celui portant votre prénom, à côté du menu "Administration"), et accédez à la page "Connexions partenaires".
 
-
-:digit_one: Ouvrez le menu utilisateur (celui portant votre prénom, à côté du menu "Administration"), et accédez à la page "Connexions partenaires".
-
-:digit_two: Activez le bouton "Gmail - Envoi de documents par email", une fenêtre va s'ouvrir pour vous connecter à votre boîte Gmail / Google Workspace.
+:digit\_two: Activez le bouton "Gmail - Envoi de documents par email", une fenêtre va s'ouvrir pour vous connecter à votre boîte Gmail / Google Workspace.
 
 _Tous les mails envoyés depuis le logiciel seront disponibles dans votre boite d'envoi Gmail / Google Workspace._
 
@@ -68,11 +66,11 @@ _Tous les mails envoyés depuis le logiciel seront disponibles dans votre boite 
 * **Gmail vous demande de renouveler votre authentification au moment où vous envoyez un mail ? **_Cela arrive parfois pour des raisons de sécurité ou après un changement de mot de passe par exemple._
   *   Dans ce cas :
 
-      :digit_one: Ouvrez le menu utilisateur (celui portant votre prénom, à côté du menu "Administration"), et accédez à la page "Connexions partenaires"
+      :digit\_one: Ouvrez le menu utilisateur (celui portant votre prénom, à côté du menu "Administration"), et accédez à la page "Connexions partenaires"
 
-      :digit_two: Désactivez le bouton "Utilisez votre compte Gmail"
+      :digit\_two: Désactivez le bouton "Utilisez votre compte Gmail"
 
-      :digit_three: Réactivez-le et authentifiez-vous à nouveau.
+      :digit\_three: Réactivez-le et authentifiez-vous à nouveau.
 {% endhint %}
 
 ###

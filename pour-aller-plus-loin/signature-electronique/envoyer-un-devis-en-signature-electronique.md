@@ -20,15 +20,15 @@ Vous voulez, vous aussi, signer électroniquement ce devis ? Ajoutez le tag _**"
 
 
 
-:digit_one:_ _Votre devis est prêt, cliquez comme d'habitude sur le bouton "Imprimer / Envoyer"
+:digit\_one:_ _Votre devis est prêt, cliquez comme d'habitude sur le bouton "Imprimer / Envoyer"
 
-:digit_two: Sélectionnez un modèle de document adapté à la signature électronique, comme indiqué [ci-dessus](envoyer-un-devis-en-signature-electronique.md#utiliser-un-modele-personnalise-incluant-la-signature)
+:digit\_two: Sélectionnez un modèle de document adapté à la signature électronique, comme indiqué [ci-dessus](envoyer-un-devis-en-signature-electronique.md#utiliser-un-modele-personnalise-incluant-la-signature)
 
 :bulb: Pour faire signer en même temps le devis et l'attestation de TVA, cochez simplement la case correspondante
 
 ![](../../.gitbook/assets/screenshot-51-.png)
 
-:digit_three: A droite de la page, cliquez sur le bouton bleu "Signature électronique".
+:digit\_three: A droite de la page, cliquez sur le bouton bleu "Signature électronique".
 
 Un formulaire s'ouvre :
 
@@ -70,7 +70,7 @@ En envoyant le mail, votre nouveau texte sera enregistré et proposé au prochai
 
 
 
-:digit_four: Vous pouvez maintenant envoyer le devis à votre client.
+:digit\_four: Vous pouvez maintenant envoyer le devis à votre client.
 
 
 
@@ -80,26 +80,26 @@ Votre client reçoit un email contenant un lien vers le devis et sa signature. C
 
 Votre client doit maintenant :
 
-:digit_one: Cliquer sur ce lien et parcourir l'ensemble des pages du/des documents à signer
+:digit\_one: Cliquer sur ce lien et parcourir l'ensemble des pages du/des documents à signer
 
-:digit_two: Cliquer sur le bouton "Signer ou refuser", confirmer son choix et cocher la case d'acceptation des conditions
+:digit\_two: Cliquer sur le bouton "Signer ou refuser", confirmer son choix et cocher la case d'acceptation des conditions
 
 ![](../../.gitbook/assets/screenshot-125a-.png)
 
-:digit_three: Demander à recevoir un code de confirmation par SMS, et le saisir pour signer le/les documents
+:digit\_three: Demander à recevoir un code de confirmation par SMS, et le saisir pour signer le/les documents
 
 ![](../../.gitbook/assets/screenshot-126a-.png)
 
 ## Etape 4 - Le devis est signé par votre client
 
-:digit_one: Vous et votre client recevez un mail confirmant la signature du devis, ainsi que ce devis en pièce jointe
+:digit\_one: Vous et votre client recevez un mail confirmant la signature du devis, ainsi que ce devis en pièce jointe
 
-:digit_two: Vous recevez une [notification](../notifications.md#signature-electronique-validee-dun-devis-et-ou-dune-attestation-de-tva)![](../../.gitbook/assets/screenshot-127a-.png)sur votre tableau de bord, vous informant que votre client a signé le devis
+:digit\_two: Vous recevez une [notification](../../les-plus-du-logiciel/notifications.md#signature-electronique-validee-dun-devis-et-ou-dune-attestation-de-tva)![](../../.gitbook/assets/screenshot-127a-.png)sur votre tableau de bord, vous informant que votre client a signé le devis
 
 ![](../../.gitbook/assets/screenshot-133-.png)
 
-:digit_three: Le devis passe automatiquement au statut "Accepté"
+:digit\_three: Le devis passe automatiquement au statut "Accepté"
 
-:digit_four: Le devis signé est automatiquement archivé dans la [ProGBox](../progbox-archivage-de-documents.md#progbox-un-cloud-integre-pour-tous-vos-documents) du devis, vous pourrez également le retrouver depuis la fiche chantier, ainsi que la fiche client.
+:digit\_four: Le devis signé est automatiquement archivé dans la [ProGBox](../../les-plus-du-logiciel/progbox-archivage-de-documents.md#progbox-un-cloud-integre-pour-tous-vos-documents) du devis, vous pourrez également le retrouver depuis la fiche chantier, ainsi que la fiche client.
 
 ![](../../.gitbook/assets/capture-decran-du-2021-08-15-05-02-291.png)
