@@ -18,3 +18,6 @@ Le logiciel permet, après paramétrage, d’éditer vos journaux de vente, d’
 [tva-sur-encaissements.md](tva-sur-encaissements.md)
 {% endcontent-ref %}
 
+{% content-ref url="cloture-dexercice.md" %}
+[cloture-dexercice.md](cloture-dexercice.md)
+{% endcontent-ref %}
