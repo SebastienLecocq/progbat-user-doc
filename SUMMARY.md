@@ -118,7 +118,7 @@
   * [📎 Frais Généraux](pour-aller-plus-loin/les-achats/les-frais-generaux.md)
   * [📎 iBAT© facilite & optimise vos achats](pour-aller-plus-loin/les-achats/ibat-c-facilite-and-optimise-vos-achats/README.md)
     * [➖ Activer iBAT©](pour-aller-plus-loin/les-achats/ibat-c-facilite-and-optimise-vos-achats/activer-ibat-c.md)
-    * [➖ Composer vos ouvrages avec iBAT©](pour-aller-plus-loin/les-achats/ibat-c-facilite-and-optimise-vos-achats/composer-vos-ouvrages-avec-ibat-c.md)
+    * [➖ Chiffrer précisément grâce à iBAT©](pour-aller-plus-loin/les-achats/ibat-c-facilite-and-optimise-vos-achats/chiffrer-precisement-grace-a-ibat-c.md)
     * [➖ Commander avec iBAT©](pour-aller-plus-loin/les-achats/ibat-c-facilite-and-optimise-vos-achats/commander-avec-ibat-c.md)
 * [👫 Salariés](pour-aller-plus-loin/le-personnel/README.md)
   * [📎 Fiche personnel](pour-aller-plus-loin/le-personnel/fiche-personnel.md)

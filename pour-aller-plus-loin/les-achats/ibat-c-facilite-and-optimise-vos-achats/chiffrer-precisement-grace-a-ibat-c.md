@@ -1,10 +1,12 @@
-# ➖ Composer vos ouvrages avec iBAT©
+# ➖ Chiffrer précisément grâce à iBAT©
 
 Le logiciel vous permet de composer vos ouvrages, depuis la bibliothèque, ou directement depuis le devis, grâce à :&#x20;
 
 * &#x20;Votre bibliothèque d'éléments
 * &#x20;Votre / Vos bibliothèques BatiChiffrage©
 * &#x20;**Et maintenant, iBAT© !**
+
+:ballot\_box\_with\_check: Récupérez directement vos prix d'achat fournisseurs !
 
 
 
