@@ -23,7 +23,7 @@ Sous le logiciel, il existe 2 manières de créer un client (ou un prospect) :
 
 
 
-### :digit_one: Au moment de la création d'un devis
+### :digit\_one: Au moment de la création d'un devis
 
 {% hint style="info" %}
 :bulb: Cette méthode permet de constituer votre liste de clients au fil de vos chiffrages.
@@ -42,18 +42,18 @@ Sous le logiciel, il existe 2 manières de créer un client (ou un prospect) :
 
 
 
-:point_right: Si vous n'avez jamais travaillé pour ce client, identifiez-le comme "Prospect", il sera enregistré dans la [catégorie](../categories-et-groupes-de-tiers.md#categories) du même nom :
+:point\_right: Si vous n'avez jamais travaillé pour ce client, identifiez-le comme "Prospect", il sera enregistré dans la [catégorie](../categories-et-groupes-de-tiers.md#categories) du même nom :
 
 * A l'acceptation du devis, le prospect devient automatiquement client
 * Depuis la [fiche du prospect](la-fiche-client-en-details.md), consultez les devis en attente de retour ou refusés, pour relancer ce prospect ou analyser les raisons de son refus (chiffrage peu attractif?), et peut-être lui faire une meilleure offre.
 
 
 
-:point_right: Les champs suivis d'un astérisque![](../../../.gitbook/assets/screenshot-172-.png)doivent être renseignés pour pouvoir valider la création du client (ou prospect), mais il est conseillé de remplir le formulaire au complet, votre fiche client sera ainsi déjà complétée avec ces informations, et vous n'aurez pas à les saisir plus tard.
+:point\_right: Les champs suivis d'un astérisque![](../../../.gitbook/assets/screenshot-172-.png)doivent être renseignés pour pouvoir valider la création du client (ou prospect), mais il est conseillé de remplir le formulaire au complet, votre fiche client sera ainsi déjà complétée avec ces informations, et vous n'aurez pas à les saisir plus tard.
 
 
 
-:point_right: Un identifiant client est automatiquement créé, sous le format "NOM VILLE". Modifiez au besoin cet identifiant, car il vous permettra de retrouver rapidement votre client sous le logiciel (à la création d'un devis / facture par exemple).
+:point\_right: Un identifiant client est automatiquement créé, sous le format "NOM VILLE". Modifiez au besoin cet identifiant, car il vous permettra de retrouver rapidement votre client sous le logiciel (à la création d'un devis / facture par exemple).
 
 Deux clients ne peuvent pas avoir le même identifiant, ainsi, pas de risque d'erreur :
 
@@ -61,14 +61,14 @@ Deux clients ne peuvent pas avoir le même identifiant, ainsi, pas de risque d'e
 
 
 
-:point_right: Le dernier champ "Taux de TVA" permet de déterminer une TVA par défaut. 
+:point\_right: Le dernier champ "Taux de TVA" permet de déterminer une TVA par défaut.&#x20;
 
 * Ce taux sera alors appliqué automatiquement à la création d'un devis/facture pour ce client
-* Vous pourrez [modifier ce taux](../../les-devis/le-devis-en-details/tva-multiple.md) depuis vos documents, et ainsi l'ajuster en fonction des ouvrages à réaliser.
+* Vous pourrez [modifier ce taux](../../les-devis/les-indispensables-du-devis/tva-multiple.md) depuis vos documents, et ainsi l'ajuster en fonction des ouvrages à réaliser.
 
 
 
-### :digit_two:  Depuis la liste des clients, ou celle des prospects
+### :digit\_two:  Depuis la liste des clients, ou celle des prospects
 
 *   Ouvrez le menu "Tiers", et sélectionnez "Client", ou "Prospect"
 

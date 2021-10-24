@@ -1,4 +1,4 @@
-# 🔴 Import - Export de devis / DPGF
+# 📎 Import & Export de devis - DPGF
 
 ## Import de DPGF et devis au format Excel
 
@@ -6,7 +6,7 @@ Le logiciel permet d'importer le contenu d'un DPGF, d'un DQE, ou d'un devis au f
 
 
 
-### :digit_one: Préparez votre fichier Excel
+### :digit\_one: Préparez votre fichier Excel
 
 Le fichier Excel doit être "formaté", c'est à dire que les colonnes doivent respecter un ordre précis :
 
@@ -34,7 +34,7 @@ Le fichier Excel doit être "formaté", c'est à dire que les colonnes doivent r
 
 
 
-### :digit_two: Enregistrez au format .csv
+### :digit\_two: Enregistrez au format .csv
 
 * Sur Excel, cliquez en haut à gauche sur "Fichier"
 * Puis sur "Exporter"
@@ -46,12 +46,12 @@ Le fichier Excel doit être "formaté", c'est à dire que les colonnes doivent r
 
 
 
-### :digit_three: Importez le fichier
+### :digit\_three: Importez le fichier
 
 *   Créez un [nouveau devis](broken-reference), puis ouvrez l'onglet "Lignes"
 
 
-*    Cliquez à droite de la page sur le bouton "Import/Export", et choisissez "Importer le contenu"
+*   &#x20;Cliquez à droite de la page sur le bouton "Import/Export", et choisissez "Importer le contenu"
 
 
 *   Sélectionnez le fichier CSV que vous venez d'enregistrer
@@ -83,7 +83,7 @@ Le logiciel permet d'exporter le contenu d'un devis au format Excel, pour simpli
 * Cliquez à droite de la page sur le bouton "Import/Export", et choisissez "Exporter le contenu"
 * Choisissez le format d'export (Excel par défaut)
 * Choisissez l'ordre des colonnes
-*   Et exportez :slight_smile:
+*   Et exportez :slight\_smile:
 
 
 

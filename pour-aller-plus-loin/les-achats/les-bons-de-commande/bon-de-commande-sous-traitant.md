@@ -10,29 +10,11 @@ Il existe 2 manières de créer une commande fournisseur :
 
 
 
-### :point_right: Créer "automatiquement" une commande sous-traitant
+### :point\_right: Créer "automatiquement" une commande sous-traitant
 
-**Gain de temps considérable!  **La [synthèse du devis](../../les-devis/le-devis-en-details/synthese-du-devis.md) permet de créer automatiquement votre bon de commande, sans avoir à en saisir les lignes :
+**Gain de temps considérable!  **La [synthèse du devis](../../les-devis/les-indispensables-du-devis/synthese-du-devis.md) permet de créer automatiquement votre bon de commande, sans avoir à en saisir les lignes :
 
-:digit_one: Depuis l'onglet "Synthèse" du devis, cliquez sur le bouton "Actions", puis choisissez de "Créer une commande sous-traitant à partir des ouvrages"
-
-Recherchez un Sous-traitant. S'il n'existe pas, cliquez sur le bouton "[Créer un sous-traitant](../../les-tiers/les-sous-traitants/creer-un-sous-traitant.md)"
-
-Recherchez un Chantier
-
-Précisez la date de commande, puis les dates de début et de fin de travaux, et enfin validez
-
-:digit_two: La liste des ouvrages de votre chantier (indiqués au devis) s'affiche, décochez certains ouvrages au besoin et validez
-
-:digit_three: Le formulaire de saisie de commande s'ouvre, déjà pré-rempli.
-
-
-
-### :point_right: Créer "librement" une commande sous-traitant
-
-:digit_one: Ouvrez le menu "Dépenses > Commandes", ou cliquez simplement sur l'accès rapide "Commandes" de votre tableau de bord
-
-:digit_two: Cliquez sur le bouton "Nouveau document", et choisissez "Commande sous-traitant"
+:digit\_one: Depuis l'onglet "Synthèse" du devis, cliquez sur le bouton "Actions", puis choisissez de "Créer une commande sous-traitant à partir des ouvrages"
 
 Recherchez un Sous-traitant. S'il n'existe pas, cliquez sur le bouton "[Créer un sous-traitant](../../les-tiers/les-sous-traitants/creer-un-sous-traitant.md)"
 
@@ -40,7 +22,25 @@ Recherchez un Chantier
 
 Précisez la date de commande, puis les dates de début et de fin de travaux, et enfin validez
 
-:digit_three: Le formulaire de saisie de commande s'ouvre :
+:digit\_two: La liste des ouvrages de votre chantier (indiqués au devis) s'affiche, décochez certains ouvrages au besoin et validez
+
+:digit\_three: Le formulaire de saisie de commande s'ouvre, déjà pré-rempli.
+
+
+
+### :point\_right: Créer "librement" une commande sous-traitant
+
+:digit\_one: Ouvrez le menu "Dépenses > Commandes", ou cliquez simplement sur l'accès rapide "Commandes" de votre tableau de bord
+
+:digit\_two: Cliquez sur le bouton "Nouveau document", et choisissez "Commande sous-traitant"
+
+Recherchez un Sous-traitant. S'il n'existe pas, cliquez sur le bouton "[Créer un sous-traitant](../../les-tiers/les-sous-traitants/creer-un-sous-traitant.md)"
+
+Recherchez un Chantier
+
+Précisez la date de commande, puis les dates de début et de fin de travaux, et enfin validez
+
+:digit\_three: Le formulaire de saisie de commande s'ouvre :
 
 [Saisissez les lignes](bon-de-commande-fournisseur.md#saisir-des-lignes-dune-commande) du bon de commande sous-traitant, exactement comme un bon de commande fournisseur.
 
@@ -51,7 +51,7 @@ Enregistrez les ouvrages saisis, dans votre bibliothèque, directement depuis le
     * Si l'ouvrage/élément existe déjà, le logiciel vous propose de le mettre à jour, pratique par exemple pour enregistrer un nouveau prix
     * Si l'article n'existe pas, le logiciel va l'enregistrer dans votre bibliothèque, pour que vous puissiez le réutiliser dans votre prochaine commande.
 
-:digit_five: Choisissez d'[imprimer ou d'envoyer](bon-de-commande-fournisseur.md#imprimer-envoyer-une-commande) par email :
+:digit\_five: Choisissez d'[imprimer ou d'envoyer](bon-de-commande-fournisseur.md#imprimer-envoyer-une-commande) par email :
 
 * Le bon de commande créé à l'instant
 * Un [contrat de sous-traitance](bon-de-commande-sous-traitant.md#contrat-de-sous-traitance) (voir ci-dessous).

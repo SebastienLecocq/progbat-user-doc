@@ -8,12 +8,12 @@
 [la-facture-dacompte.md](la-facture-dacompte.md)
 {% endcontent-ref %}
 
-{% content-ref url="les-factures-en-detail/situation-de-travaux.md" %}
-[situation-de-travaux.md](les-factures-en-detail/situation-de-travaux.md)
+{% content-ref url="situation-de-travaux.md" %}
+[situation-de-travaux.md](situation-de-travaux.md)
 {% endcontent-ref %}
 
-{% content-ref url="les-factures-en-detail/facture-directe.md" %}
-[facture-directe.md](les-factures-en-detail/facture-directe.md)
+{% content-ref url="facture-directe.md" %}
+[facture-directe.md](facture-directe.md)
 {% endcontent-ref %}
 
 {% content-ref url="realiser-un-avoir.md" %}

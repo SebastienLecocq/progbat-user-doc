@@ -6,15 +6,15 @@ Bien suivre et bien gérer les relations avec vos sous-traitants est essentiel p
 
 Sous le logiciel, vous allez pouvoir :
 
-:point_right: [Créer](../les-fournisseurs/creer-un-fournisseur.md) vos sous-traitants, pour les [répertorier](../les-listes-de-tiers.md) clairement et facilement.
+:point\_right: [Créer](../les-fournisseurs/creer-un-fournisseur.md) vos sous-traitants, pour les [répertorier](../les-listes-de-tiers.md) clairement et facilement.
 
-:point_right: Analyser et suivre les relations avec vos sous-traitants, grâce à la [fiche sous-traitant](la-fiche-sous-traitants-en-details.md) et son [outil de pilotage simplifié](la-fiche-sous-traitants-en-details.md#onglet-activite)​​.
+:point\_right: Analyser et suivre les relations avec vos sous-traitants, grâce à la [fiche sous-traitant](la-fiche-sous-traitants-en-details.md) et son [outil de pilotage simplifié](la-fiche-sous-traitants-en-details.md#onglet-activite)​​.
 
-:point_right: Directement depuis la [synthèse du devis](../../les-devis/le-devis-en-details/synthese-du-devis.md), créer un bon de commande de sous-traitance, sans avoir à le saisir.
+:point\_right: Directement depuis la [synthèse du devis](../../les-devis/les-indispensables-du-devis/synthese-du-devis.md), créer un bon de commande de sous-traitance, sans avoir à le saisir.
 
-:point_right: Depuis un [bon de commande sous-traitant](../../les-achats/les-bons-de-commande/#bon-de-commande-sous-traitant), enregistrer et suivre les [livraisons](../../les-achats/les-bons-de-livraison/), puis créer une [facture d'achat](../../les-achats/les-factures-dachat.md), sans avoir à les saisir.
+:point\_right: Depuis un [bon de commande sous-traitant](../../les-achats/les-bons-de-commande/#bon-de-commande-sous-traitant), enregistrer et suivre les [livraisons](../../les-achats/les-bons-de-livraison/), puis créer une [facture d'achat](../../les-achats/les-factures-dachat.md), sans avoir à les saisir.
 
-:point_right: Les factures d'achat seront automatiquement ou manuellement affectées à un ou plusieurs chantiers, pour mieux en évaluer la [rentabilité](../../les-chantiers-1/la-fiche-chantier-en-detail.md#onglet-travaux).
+:point\_right: Les factures d'achat seront automatiquement ou manuellement affectées à un ou plusieurs chantiers, pour mieux en évaluer la [rentabilité](../../les-chantiers-1/la-fiche-chantier-en-detail.md#onglet-travaux).
 
 
 

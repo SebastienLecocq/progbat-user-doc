@@ -80,9 +80,18 @@ Si le client règle le "net à payer" de la facture de travaux, il aura au final
 Le règlement de la facture d'acompte étant supérieur au montant de la facture, la facture d'acompte à un statut "Trop perçu"\
 Le règlement de la facture de travaux, lui, sera inférieur au montant "Net à payer" de la facture, la facture sera donc "partiellement payée".
 
-**Comment faire ? **:thinking: 
+**Comment faire ? **:thinking:&#x20;
 
 * Saisissez bien les montants réellement reçus, même s'ils ne correspondent effectivement pas aux sommes "attendues".
 * Puis, pour chacune des factures :
   * Cliquez sur "Solder sans règlement" dans le cadre "Règlements" à droite de la page.
   * La facture sera considérée comme "soldée"
+
+## Facture impayée / Suivi des échéances
+
+Cliquez [ici](courriers-de-relance-ou-de-situation.md).
+
+## Exporter les règlements clients
+
+Cliquez [ici](../exports-comptables/export.md#creer-un-export-comptable).
+

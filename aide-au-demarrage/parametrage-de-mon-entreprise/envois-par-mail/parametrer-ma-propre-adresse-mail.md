@@ -54,7 +54,7 @@ __
 
 Vous avez une adresse Gmail ou une adresse mail professionnelle Google, de type contact@monentreprise.com ou j.dupond@monentreprise.com ?
 
-![](<../../../.gitbook/assets/Screenshot (246b) (1).png>)
+![](<../../../.gitbook/assets/Screenshot (246b).png>)
 
 :digit\_one: Ouvrez le menu utilisateur (celui portant votre prénom, à côté du menu "Administration"), et accédez à la page "Connexions partenaires".
 

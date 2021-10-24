@@ -1,2 +1,0 @@
-# 📎 Les factures, en détail
-

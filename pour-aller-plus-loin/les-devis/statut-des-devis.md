@@ -2,7 +2,7 @@
 
 Il existe 2 types de statuts pour les devis :
 
-## :digit_one: Le statut "Commercial" du devis
+## :digit\_one: Le statut "Commercial" du devis
 
 
 
@@ -30,14 +30,14 @@ Il existe 2 types de statuts pour les devis :
 **De manière générale, si vous devez modifier un devis, utilisez plutôt les **[**révisions**](revision-et-copie-de-devis.md#revision-de-devis)**, permettant de conserver tout l'historique des différentes versions d'un même devis.**
 {% endhint %}
 
-## :digit_two: Le statut "Travaux" d'un devis
+## :digit\_two: Le statut "Travaux" d'un devis
 
 Tant qu'un devis est en statut "A l'étude" ou "En attente", le logiciel considère que les travaux n'ont pas commencé, et aucune mention particulière n'est affichée.
 
 Mais dès que vous passez le devis en statut "Accepté", un "Statut de travaux" apparaît sur l'entête du devis:
 
-*  A la création d'une facture d'acompte, les travaux seront toujours au statut "non commencés", cliquez [ici](../les-factures/la-facture-dacompte.md#ne-pas-confondre-facture-dacompte-et-facture-davancement-situation-de-travaux) pour savoir pourquoi.
-* A la création d'une [situation de travaux](../les-factures/les-factures-en-detail/situation-de-travaux.md), le statut du devis passera automatiquement en "Travaux en cours".
+* &#x20;A la création d'une facture d'acompte, les travaux seront toujours au statut "non commencés", cliquez [ici](../les-factures/la-facture-dacompte.md#ne-pas-confondre-facture-dacompte-et-facture-davancement-situation-de-travaux) pour savoir pourquoi.
+* A la création d'une [situation de travaux](../les-factures/situation-de-travaux.md), le statut du devis passera automatiquement en "Travaux en cours".
 * Si vous créez une facture de fin de travaux, le statut du devis passera automatiquement en "Travaux terminés".
 
 {% hint style="info" %}

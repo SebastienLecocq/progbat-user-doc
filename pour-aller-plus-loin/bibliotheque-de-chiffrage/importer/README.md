@@ -1,4 +1,4 @@
-# 🔴 Importer une bibliothèque de prix
+# 📎 Importer une bibliothèque de prix
 
 {% content-ref url="import-de-fichier-fournitures-ou-ouvrages.md" %}
 [import-de-fichier-fournitures-ou-ouvrages.md](import-de-fichier-fournitures-ou-ouvrages.md)

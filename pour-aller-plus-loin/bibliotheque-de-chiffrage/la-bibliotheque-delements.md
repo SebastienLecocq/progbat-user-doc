@@ -14,7 +14,7 @@
 
 Depuis le menu "Bibliothèques > Eléments", accédez aux différents types d'éléments en les sélectionnant sur la droite de la page.
 
-![](../../.gitbook/assets/liste_fournitures.png)
+![](../../.gitbook/assets/liste\_fournitures.png)
 
 **Pourquoi une bib**
 
@@ -46,7 +46,7 @@ L'addition du prix de vente de ces éléments permettra au logiciel de calculer,
 
 ## Les Fournitures
 
-![](../../.gitbook/assets/liste_fournitures.png)
+![](../../.gitbook/assets/liste\_fournitures.png)
 
 Vous allez pouvoir gérer ici les matériaux, fournitures, consommables, etc, que vous utilisez sur vos chantiers.
 
@@ -56,20 +56,20 @@ Vous allez pouvoir gérer ici les matériaux, fournitures, consommables, etc, qu
 
 3 méthodes existent sous le logiciel :
 
-****:digit_one: **La plus simple, et surtout la plus rapide, est d'importer un fichier de fournitures**
+****:digit\_one: **La plus simple, et surtout la plus rapide, est d'importer un fichier de fournitures**
 
 Vous avez le choix :
 
 * [Importez le tarif de votre fournisseur ](importer/import-de-tarifs-fournisseurs.md)principal
-* [Importez votre propre fichier de fournitures](importer/import-de-fichier-fournitures-ou-ouvrages.md), récupéré sur votre ancien logiciel (Excel ou autre). 
+* [Importez votre propre fichier de fournitures](importer/import-de-fichier-fournitures-ou-ouvrages.md), récupéré sur votre ancien logiciel (Excel ou autre).&#x20;
 
 Vous aurez en quelques minutes un fichier complet, avec vos propres prix d'achat.
 
 
 
-:digit_two: **Vous pouvez également créer manuellement vos articles**, simplement en cliquant sur le bouton "Nouvel élément" depuis votre bibliothèque d'éléments :
+:digit\_two: **Vous pouvez également créer manuellement vos articles**, simplement en cliquant sur le bouton "Nouvel élément" depuis votre bibliothèque d'éléments :
 
-![](../../.gitbook/assets/formulaire_fournitures.png)
+![](../../.gitbook/assets/formulaire\_fournitures.png)
 
 **Actif/Inactif**
 
@@ -89,7 +89,7 @@ Saisissez dans ce champ le libellé complet (désignation) de l'article, par exe
 
 
 
-#### :digit_three: Créer un élément depuis une commande fournisseur (ou une demande de prix)
+#### :digit\_three: Créer un élément depuis une commande fournisseur (ou une demande de prix)
 
 Depuis le [bon de commande](../les-achats/les-bons-de-commande/bon-de-commande-fournisseur.md), ou même une [demande de prix](../les-achats/demandes-de-prix.md) :
 
@@ -102,7 +102,7 @@ Depuis le [bon de commande](../les-achats/les-bons-de-commande/bon-de-commande-f
 
 Créez un élément de main d'oeuvre différent selon le coût de votre personnel, par exemple "Main d'oeuvre - Personnel", "MO - Conducteur de travaux".
 
-Vous pouvez choisir de créer un élément de main d'oeuvre en heures, ou bien en m² par exemple. Mais il est recommandé de choisir l'unité "heure", car elle permettra une [estimation rapide et claire du temps à consacrer à vos ouvrages](../les-devis/le-devis-en-details/prevoir-le-temps-passe.md), dès la saisie du devis.
+Vous pouvez choisir de créer un élément de main d'oeuvre en heures, ou bien en m² par exemple. Mais il est recommandé de choisir l'unité "heure", car elle permettra une [estimation rapide et claire du temps à consacrer à vos ouvrages](../les-devis/les-indispensables-du-devis/prevoir-le-temps-passe.md), dès la saisie du devis.
 
 
 
@@ -110,7 +110,7 @@ Vous pouvez choisir de créer un élément de main d'oeuvre en heures, ou bien e
 
 De la même manière que vous avez créé vos éléments de main d'oeuvre, vous pourrez créer vos éléments de sous-traitance : en heures s'il ne s'agit que de main d'oeuvre, à l'unité s'il s'agit de travaux réalisés en totalité, ou encore en m² par exemple.
 
-Indiquer la sous-traitance en heures vous permettra une [estimation rapide et claire du temps de travaux](../les-devis/le-devis-en-details/prevoir-le-temps-passe.md), dès la saisie du devis.
+Indiquer la sous-traitance en heures vous permettra une [estimation rapide et claire du temps de travaux](../les-devis/les-indispensables-du-devis/prevoir-le-temps-passe.md), dès la saisie du devis.
 
 
 
@@ -122,21 +122,21 @@ Cette catégorie d'éléments vous permet par exemple d'ajouter des coûts d'amo
 
 ## Mettre à jour un élément
 
-3 méthodes existent : 
+3 méthodes existent :&#x20;
 
 
 
-:digit_one: Depuis la bibliothèque, ouvrez la fiche de l'élément pour mettre à jour les informations souhaitées.
+:digit\_one: Depuis la bibliothèque, ouvrez la fiche de l'élément pour mettre à jour les informations souhaitées.
 
 
 
-:digit_two: Depuis un bon de commande (ou une demande de prix) :
+:digit\_two: Depuis un bon de commande (ou une demande de prix) :
 
 Cliquez sur les trois petits points![](../../.gitbook/assets/screenshot-228-.png)en bout de ligne, et choisissez "Enregistrer l'élément" : comme l'article existe déjà, le logiciel vous propose de le mettre à jour, pratique par exemple pour enregistrer un nouveau prix.
 
 
 
-:digit_three: **Mettre à jour plusieurs éléments en même temps :**
+:digit\_three: **Mettre à jour plusieurs éléments en même temps :**
 
 * Exportez votre bibliothèque d'éléments depuis le menu "Gestion > Exporter mes données > Bibliothèque > Éléments"
 * Effectuez votre modification "en masse" (augmentation du prix d'achat de 3% par exemple)

@@ -13,9 +13,9 @@ La bibliothèque d'ouvrages contient les travaux, les prestations, que vous alle
 
 **Cette bibliothèque a 2 rôles essentiels :**
 
-:point_right: [Simplifier la saisie de vos devis](../../les-devis/le-devis-en-details/saisir-les-lignes-du-devis/#methodes-de-saisie), en y insérant les ouvrages déjà enregistrés, plutôt que de tout retaper à chaque fois
+:point\_right: [Simplifier la saisie de vos devis](../../les-devis/les-indispensables-du-devis/saisir-les-lignes-du-devis/#methodes-de-saisie), en y insérant les ouvrages déjà enregistrés, plutôt que de tout retaper à chaque fois
 
-:point_right: Chiffrer vos ouvrages, c'est à dire calculer précisément le coût de revient (déboursé) d'un ouvrage, et en déterminer très précisément son prix de vente.
+:point\_right: Chiffrer vos ouvrages, c'est à dire calculer précisément le coût de revient (déboursé) d'un ouvrage, et en déterminer très précisément son prix de vente.
 
 
 

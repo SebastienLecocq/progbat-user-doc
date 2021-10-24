@@ -1,4 +1,4 @@
-# 📎 Révision et copie de devis
+# ▪ Révision & copie de devis
 
 ## Révision de devis
 
@@ -13,7 +13,7 @@ Le logiciel permet de créer des révisions, c'est à dire plusieurs versions di
 
 Ainsi, plutôt que de modifier le devis original, créez autant de révisions que nécessaire, jusqu'à la décision finale de votre client.
 
-:point_right: A partir du devis, cliquez à droite de la page sur "Nouveau devis", et choisissez "Nouvelle révision".
+:point\_right: A partir du devis, cliquez à droite de la page sur "Nouveau devis", et choisissez "Nouvelle révision".
 
 * Une nouvelle révision est immédiatement créée. C'est une copie exacte du devis :
   * La révision porte le même numéro que le devis initial,
@@ -32,7 +32,7 @@ Ainsi, plutôt que de modifier le devis original, créez autant de révisions qu
 
 Il est parfois utile de copier un devis existant, pour un nouveau client par exemple, pour des travaux similaires.
 
-:point_right: A partir du devis, cliquez à droite de la page sur "Nouveau devis", et choisissez "Copier ce devis".
+:point\_right: A partir du devis, cliquez à droite de la page sur "Nouveau devis", et choisissez "Copier ce devis".
 
 *   Le logiciel vous propose :
 

@@ -1,4 +1,4 @@
-# 📎 Avoir
+# ▪ Avoir
 
 Il y a 2 types d'avoir :
 
@@ -9,7 +9,7 @@ Il y a 2 types d'avoir :
 
 Il n'est pas possible de supprimer une facture validée, pour des raisons légales et fiscales.
 
-Si une facture doit être supprimée, il faudra donc l'annuler par un avoir, comme expliqué [dans cet article](les-factures-en-detail/modifier-supprimer-ou-annuler-une-facture.md#annulation).
+Si une facture doit être supprimée, il faudra donc l'annuler par un avoir, comme expliqué [dans cet article](modifier-supprimer-ou-annuler-une-facture.md#annulation).
 
 ## Avoir "simple".
 
@@ -33,7 +33,7 @@ Il peut vous arriver de devoir réaliser un avoir pour des travaux non réalisé
 
 #### En copiant la facture de travaux
 
-Si vous avez de nombreuses lignes à déduire, copiez la facture, supprimez les lignes qui ne sont pas  modifiées, et saisissez des quantités ou des prix négatifs sur les lignes à modifier. 
+Si vous avez de nombreuses lignes à déduire, copiez la facture, supprimez les lignes qui ne sont pas  modifiées, et saisissez des quantités ou des prix négatifs sur les lignes à modifier.&#x20;
 
 Cela vous évitera de ressaisir de nombreuses lignes de facture.
 

@@ -1,4 +1,4 @@
-# 📎 Acompte
+# ▪ Acompte
 
 ## Un document obligatoire
 
@@ -20,7 +20,7 @@ La facture d'acompte correspond à une somme d'argent versée par le client avan
 Comptablement et fiscalement, **la facture d'acompte n'est pas du chiffre d'affaires**
 {% endhint %}
 
-Lorsque les travaux ont débuté, et que l'on souhaite établir une facture intermédiaire pour obtenir un règlement, il faut réaliser une [facture d'avancement](les-factures-en-detail/situation-de-travaux.md) (ou situation de travaux).
+Lorsque les travaux ont débuté, et que l'on souhaite établir une facture intermédiaire pour obtenir un règlement, il faut réaliser une [facture d'avancement](situation-de-travaux.md) (ou situation de travaux).
 
 {% hint style="warning" %}
 **La réalisation de factures d'acompte, en cours de chantier, n'est pas légale (en France).**
@@ -103,7 +103,7 @@ Vous avez émis une facture d'acompte sous l'ancien logiciel et vous devez dédu
 
 :digit\_one: [Importez votre devis](../les-devis/import-export.md#import-de-dpgf-et-devis-au-format-excel), ou saisissez-le manuellement
 
-:digit\_two: Créez votre [facture de travaux](broken-reference), ou [situation de travaux](les-factures-en-detail/situation-de-travaux.md), à partir du devis
+:digit\_two: Créez votre [facture de travaux](broken-reference), ou [situation de travaux](situation-de-travaux.md), à partir du devis
 
 :digit\_three: Dans le pied de la facture, cliquez sur le petit crayon à côté de l'acompte :
 

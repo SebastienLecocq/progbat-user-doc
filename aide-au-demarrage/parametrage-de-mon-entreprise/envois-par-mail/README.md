@@ -1,6 +1,10 @@
 # Envois par mail
 
-:bulb:Optez pour la [signature électronique](../../../pour-aller-plus-loin/signature-electronique/) de vos devis, pour un envoi, réception et archivage en un clic !
+:bulb:Optez pour la [signature électronique](../../../les-plus-du-logiciel/signature-electronique/) de vos devis, pour un envoi, réception et archivage en un clic !
+
+
+
+## Paramétrage des envois par mail
 
 
 
@@ -14,13 +18,15 @@ Par défaut, le logiciel utilise son propre serveur d'envoi de mails.
 
 Bien que pratique, cette solution a l'inconvénient de considérer plus souvent les mails comme des spams ou indésirables. De plus, vos clients ne reçoivent pas le mail depuis votre adresse mail, mais depuis celle du logiciel.
 
-**Il est donc conseillé de paramétrer votre propre messagerie dans le logiciel**, **en cliquant **[**ici**](parametrer-ma-propre-adresse-mail.md)**,** pour que vos mails soient parfaitement identifiés par vos clients et fournisseurs.
+****:information\_source: **Il est donc conseillé de paramétrer votre propre messagerie dans le logiciel**, **en cliquant **[**ici**](parametrer-ma-propre-adresse-mail.md)**,** pour que vos mails soient parfaitement identifiés par vos clients et fournisseurs.
 
-## **Paramétrer ma propre adresse mail**
+
+
+### **Paramétrer ma propre adresse mail**
 
 Cliquez [ici](parametrer-ma-propre-adresse-mail.md).
 
-## **Envoyer vos mails, facilement**
+## **Envoyer un document, par mail**
 
 ****:point\_right:** **Après avoir ouvert un document (devis, facture), cliquez sur le bouton "Imprimer/Envoyer" puis sur "Envoyer par email" :
 
@@ -28,7 +34,7 @@ Cliquez [ici](parametrer-ma-propre-adresse-mail.md).
 
 
 
-:digit\_one: Cliquez dans la barre de recherche "Ajouter un destinataire" :
+:digit\_one: **Destinataire : **Cliquez dans la barre de recherche "Ajouter un destinataire" :
 
 :bulb: Les adresses mail de tous les contacts de votre client s'affichent automatiquement, sélectionnez-en un. Vous pourrez juste après en ajouter un ou plusieurs autres
 
@@ -39,11 +45,11 @@ Cliquez [ici](parametrer-ma-propre-adresse-mail.md).
 
 
 
-:digit\_two: Renseignez l'objet du devis ("Devis rénovation ..." par exemple)
+:digit\_two: **Objet du mail :** "Devis D2110/0183 - Rénovation ..." par exemple
 
-:digit\_three: Gagnez du temps de saisie, [insérez un texte pré-enregistré](../../../les-plus-du-logiciel/bibliotheque-de-textes.md) dans le contenu de votre mail
+:digit\_three: **Contenu du mail :** Gagnez du temps de saisie, [insérez un texte pré-enregistré](../../../les-plus-du-logiciel/bibliotheque-de-textes.md) dans le contenu de votre mail
 
-:digit\_four: Ajoutez un ou plusieurs documents (plans, facture précédente,...), directement depuis votre [ProGBox](../../../les-plus-du-logiciel/progbox-archivage-de-documents.md), ou bien depuis votre ordinateur
+:digit\_four: **Ajoutez des pièces jointes :** Ajoutez un ou plusieurs documents (plans, facture précédente,...), directement depuis votre [ProGBox](../../../les-plus-du-logiciel/progbox-archivage-de-documents.md), ou bien depuis votre ordinateur
 
 :digit\_five: Ne modifiez que si nécessaire l'adresse mail de réponse. :warning: Enregistrer les options modifie votre paramétrage d'envoi de mails.
 
@@ -63,6 +69,6 @@ Survolez la date d'envoi pour voir apparaître l'adresse mail des destinataires.
 
 
 
-:bulb: Sur votre liste de devis, factures ou commandes, un document envoyé par mail sera immédiatement identifié : &#x20;
+:bulb: Sur votre liste de devis, factures, commandes, et échéances, un document envoyé par mail sera immédiatement identifié : &#x20;
 
 L'icône![](../../../.gitbook/assets/screenshot-185a-.png)en bout de ligne passera au bleu ![](../../../.gitbook/assets/screenshot-211-.png)&#x20;

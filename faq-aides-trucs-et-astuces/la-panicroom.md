@@ -10,7 +10,7 @@
 
 "Bug", en anglais, signifie "punaise", et plus généralement "insecte". Mais quel rapport entre un insecte, et un dysfonctionnement informatique ?
 
-Même si l'origine réelle semble appartenir au télégraphe et au XIXème siècle, la popularisation du mot et son lien avec l'informatique remonte à 1946. On les doit à  [Grace Murray Hopper](https://en.wikipedia.org/wiki/Grace_Hopper), informaticienne au service de l'armée américaine, et au dysfonctionnement d'un ordinateur à cause d'un papillon de nuit coincé entre 2 relais.... Le bug était né !
+Même si l'origine réelle semble appartenir au télégraphe et au XIXème siècle, la popularisation du mot et son lien avec l'informatique remonte à 1946. On les doit à  [Grace Murray Hopper](https://en.wikipedia.org/wiki/Grace\_Hopper), informaticienne au service de l'armée américaine, et au dysfonctionnement d'un ordinateur à cause d'un papillon de nuit coincé entre 2 relais.... Le bug était né !
 
 
 
@@ -21,7 +21,7 @@ Mais la complexité et la fréquence des mises à jour et évolutions des logici
 
 Mais tout aussi souvent, ce que l'utilisateur pense être un bug, ne l'est pas, et les informaticiens s'amusent à dire que le bug est "entre la chaise et l'écran", c'est à dire dans l'utilisation du logiciel.
 
-Voici donc ce qui parfois vous met en panique, vous agace, vous énerve, mais qui n'est pas un bug... 
+Voici donc ce qui parfois vous met en panique, vous agace, vous énerve, mais qui n'est pas un bug...&#x20;
 
 
 
@@ -29,17 +29,17 @@ Voici donc ce qui parfois vous met en panique, vous agace, vous énerve, mais qu
 
 ****
 
-****:point_right: **Votre liste de devis (ou toute autre liste) est vide, ou presque ?**
+****:point\_right: **Votre liste de devis (ou toute autre liste) est vide, ou presque ?**
 
-****:point_right: **Vous ne retrouvez pas votre document dans la liste ?**
+****:point\_right: **Vous ne retrouvez pas votre document dans la liste ?**
 
 ![](../.gitbook/assets/screenshot-79-.png)
 
-:digit_one: Vérifiez dans les entêtes de colonne qu'une recherche n'est pas active. Effacez les recherches en cours.
+:digit\_one: Vérifiez dans les entêtes de colonne qu'une recherche n'est pas active. Effacez les recherches en cours.
 
-:digit_two: Vérifiez dans la partie droite de la page (cachée sur tablettes) qu'un filtre ou plusieurs filtres ne sont pas activés. Désactivez les filtres, ou sélectionnez uniquement ceux que vous souhaitez.
+:digit\_two: Vérifiez dans la partie droite de la page (cachée sur tablettes) qu'un filtre ou plusieurs filtres ne sont pas activés. Désactivez les filtres, ou sélectionnez uniquement ceux que vous souhaitez.
 
-:digit_three: Vérifiez que vous n'êtes pas sur la dernière page de la liste, qui n'afficherait alors peut-être que les 2 ou 3 derniers devis.
+:digit\_three: Vérifiez que vous n'êtes pas sur la dernière page de la liste, qui n'afficherait alors peut-être que les 2 ou 3 derniers devis.
 
 Votre liste retrouvera tous ses petits.
 
@@ -49,11 +49,11 @@ Votre liste retrouvera tous ses petits.
 
 
 
-## Je viens de faire un devis, et il n'est pas dans la liste ![](../.gitbook/assets/peur3.gif) 
+## Je viens de faire un devis, et il n'est pas dans la liste ![](../.gitbook/assets/peur3.gif)&#x20;
 
 _"Et pourtant, je n'ai aucuns filtre ou recherche activés."_
 
-Le plus souvent, c'est parce que vous venez de faire votre 21ème devis. 
+Le plus souvent, c'est parce que vous venez de faire votre 21ème devis.&#x20;
 
 La liste des devis est paramétrée par défaut pour afficher 20 devis sur une page.
 
@@ -65,7 +65,7 @@ Lorsque vous validez votre 21ème devis, celui-ci se retrouve en page 2, vous ne
 
 
 
-## Impossible de travailler à plusieurs en même temps ![](../.gitbook/assets/stp.gif) 
+## Impossible de travailler à plusieurs en même temps ![](../.gitbook/assets/stp.gif)&#x20;
 
 _"Le logiciel est pourtant bien prévu pour que plusieurs utilisateurs travaillent en même temps, mais dès que mon boss se connecte, je suis déconnecté."_
 
@@ -79,15 +79,15 @@ Si vous souhaitez que d'autres personnes puissent se connecter au compte de votr
 
 
 
-## Le Chiffre d'affaires affiché est faux ![](../.gitbook/assets/surprise3.gif) 
+## Le Chiffre d'affaires affiché est faux ![](../.gitbook/assets/surprise3.gif)&#x20;
 
 _"Sur la liste des factures, le total de la colonne Total H.T. ne correspond à mon chiffre d'affaires, et en plus, il est différent du chiffre d'affaires affiché sur le graphique du tableau de bord. En fait, tout est faux ! "_
 
 Rassurez-vous, tout est juste, mais il faut bien comprendre à quoi correspondent tous ces chiffres :
 
-*   La liste des factures affiche un total en tête de colonne, mais ce total n'est absolument pas un chiffre d'affaires, **c'est simplement le total des lignes affichées**. 
+*   La liste des factures affiche un total en tête de colonne, mais ce total n'est absolument pas un chiffre d'affaires, **c'est simplement le total des lignes affichées**.&#x20;
 
-    Dans votre liste de factures, vous avez des factures validées, des factures provisoires, des factures annulées, et des acomptes. Toutes ces factures seront ajoutées au total de la liste. 
+    Dans votre liste de factures, vous avez des factures validées, des factures provisoires, des factures annulées, et des acomptes. Toutes ces factures seront ajoutées au total de la liste.&#x20;
 
     Evidemment, **ce total n'aura rien à voir avec votre chiffre d'affaires.**
 
@@ -110,7 +110,7 @@ Les différentes sections vous donneront de nombreuses informations sur votre en
 
 
 
-## Le correcteur orthographique ne fonctionne pas![](../.gitbook/assets/tenor-5-.gif) 
+## Le correcteur orthographique ne fonctionne pas![](../.gitbook/assets/tenor-5-.gif)&#x20;
 
 Le logiciel utilise le correcteur orthographique de votre navigateur.
 
@@ -118,15 +118,15 @@ Lorsqu'un mot est souligné en rouge, cliquez sur ce mot et appuyez simultanéme
 
 
 
-## Impossible d'imprimer ou envoyer mon devis - facture![](../.gitbook/assets/3d-robot-2.gif) 
+## Impossible d'imprimer ou envoyer mon devis - facture![](../.gitbook/assets/3d-robot-2.gif)&#x20;
 
 Il arrive parfois que la configuration de l'affichage des PDF se modifie lors d'une mise à jour du navigateur web, empêchant les devis et factures de s'afficher en impression.
 
 ****
 
-### ****:point_right: **Mon devis & facture s'ouvre dans une autre fenêtre que le logiciel**
+### ****:point\_right: **Mon devis & facture s'ouvre dans une autre fenêtre que le logiciel**
 
-### ****:point_right: **Mon devis & facture s'enregistre en PDF dans mon ordinateur, avant que je ne puisse l'envoyer ou l'imprimer !**
+### ****:point\_right: **Mon devis & facture s'enregistre en PDF dans mon ordinateur, avant que je ne puisse l'envoyer ou l'imprimer !**
 
 ****
 
@@ -146,23 +146,23 @@ Un exemple avec le navigateur Firefox **(à adapter à votre navigateur) :**
 
 ** **
 
-### ****:point_right: **La numérotation des lignes du devis & facture est incohérente**
+### ****:point\_right: **La numérotation des lignes du devis & facture est incohérente**
 
-Le logiciel raisonne de façon logique et ordonnée, mais si on ajoute les titres après des lignes par exemple, la numérotation des lignes peut ne plus être cohérente. **Ne modifiez pas manuellement les numéros de lignes du devis !** 
+Le logiciel raisonne de façon logique et ordonnée, mais si on ajoute les titres après des lignes par exemple, la numérotation des lignes peut ne plus être cohérente. **Ne modifiez pas manuellement les numéros de lignes du devis !**&#x20;
 
-Il faut alors simplement réorganiser votre devis : commencez toujours votre devis par un titre, puis si nécessaire, déplacez les titres et lignes pour que leur numérotation reprenne du sens [Comment faire ? ](../pour-aller-plus-loin/les-devis/le-devis-en-details/saisir-les-lignes-du-devis/le-menu-de-lignes.md#deplacement-de-ligne)
-
-
-
-### ****:point_right: **Le titre ou sous-titre du devis & facture est à 0 !**
-
-En cliquant sur un titre & sous-titre, vous pourrez voir quelles lignes son total contient (fond bleu). Vous avez dû ajouter ou déplacer le titre après avoir créé les lignes du devis, le titre n'a donc pas encore de contenu (il est seul à avoir ce fond bleu) : il faut ajouter les lignes dans le contenu du titre grâce à la double flèche de déplacement. [Comment faire ? ](../pour-aller-plus-loin/les-devis/le-devis-en-details/saisir-les-lignes-du-devis/le-menu-de-lignes.md#deplacement-de-ligne)
+Il faut alors simplement réorganiser votre devis : commencez toujours votre devis par un titre, puis si nécessaire, déplacez les titres et lignes pour que leur numérotation reprenne du sens [Comment faire ? ](../pour-aller-plus-loin/les-devis/les-indispensables-du-devis/saisir-les-lignes-du-devis/le-menu-de-lignes.md#deplacement-de-ligne)
 
 
 
-### ****:point_right:** Le total du titre & sous-titre est incorrect**
+### ****:point\_right: **Le titre ou sous-titre du devis & facture est à 0 !**
 
-Comme juste au dessus, en cliquant sur le titre, vous verrez que toutes les lignes ne sont pas contenues dans le titre (fond bleu). Il vous faut alors ajouter les lignes dans le contenu du titre grâce à la double flèche de déplacement.** **[Comment faire ? ](../pour-aller-plus-loin/les-devis/le-devis-en-details/saisir-les-lignes-du-devis/le-menu-de-lignes.md#deplacement-de-ligne)
+En cliquant sur un titre & sous-titre, vous pourrez voir quelles lignes son total contient (fond bleu). Vous avez dû ajouter ou déplacer le titre après avoir créé les lignes du devis, le titre n'a donc pas encore de contenu (il est seul à avoir ce fond bleu) : il faut ajouter les lignes dans le contenu du titre grâce à la double flèche de déplacement. [Comment faire ? ](../pour-aller-plus-loin/les-devis/les-indispensables-du-devis/saisir-les-lignes-du-devis/le-menu-de-lignes.md#deplacement-de-ligne)
+
+
+
+### ****:point\_right:** Le total du titre & sous-titre est incorrect**
+
+Comme juste au dessus, en cliquant sur le titre, vous verrez que toutes les lignes ne sont pas contenues dans le titre (fond bleu). Il vous faut alors ajouter les lignes dans le contenu du titre grâce à la double flèche de déplacement.** **[Comment faire ? ](../pour-aller-plus-loin/les-devis/les-indispensables-du-devis/saisir-les-lignes-du-devis/le-menu-de-lignes.md#deplacement-de-ligne)
 
 
 
@@ -174,16 +174,16 @@ Cela arrive lorsque vous avez demandé à ce que vos documents aient un entête 
 
 ![](<../.gitbook/assets/Screenshot (239).png>)
 
-Vous avez alors le choix : 
+Vous avez alors le choix :&#x20;
 
 
 
-:point_right: Ouvrez le menu "Administration > Modèles de documents" et sélectionnez le modèle de votre choix, puis cliquez sur le corps du document, et enfin décochez la case encadrée ci-dessus.
+:point\_right: Ouvrez le menu "Administration > Modèles de documents" et sélectionnez le modèle de votre choix, puis cliquez sur le corps du document, et enfin décochez la case encadrée ci-dessus.
 
 L'entête de colonnes ne sera alors plus rappelé à chaque page, mais les colonnes sont aisément identifiables sans cela. Vous pourrez alors insérez vos sauts de page dans vos documents, sans encombres et sans pages blanches !
 
 
 
-:point_right: Vous souhaitez conserver les entêtes de colonne sur toutes les pages ? 
+:point\_right: Vous souhaitez conserver les entêtes de colonne sur toutes les pages ?&#x20;
 
 À la place des sauts de page, insérez une ou plusieurs lignes de commentaire vides, cela aérera votre devis de la même manière.

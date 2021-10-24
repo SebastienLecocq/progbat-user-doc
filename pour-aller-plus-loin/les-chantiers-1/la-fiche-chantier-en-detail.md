@@ -2,14 +2,14 @@
 
 La fiche chantier est décomposée en 4 onglets :
 
-## :digit_one: Onglet "Coordonnées du chantier"
+## :digit\_one: Onglet "Coordonnées du chantier"
 
 Ce premier onglet affiche :
 
 * Les coordonnées du chantier et celles du client
 * Les [conditions de règlement](../../aide-au-demarrage/parametrage-de-mon-entreprise/conditions-de-reglement.md#conditions-de-reglement-specifiques) du chantier
 * Un champ pour saisir librement des informations internes
-*   Le statut du chantier : 
+*   Le statut du chantier :&#x20;
 
     :bulb: Lorsqu'un devis rattaché à un chantier est passé au statut "Accepté", le statut du chantier passe automatiquement "En cours"
 
@@ -17,7 +17,7 @@ Ce premier onglet affiche :
 
 
 
-## :digit_two: Onglet "Travaux"
+## :digit\_two: Onglet "Travaux"
 
 {% hint style="info" %}
 **Cet onglet est probablement le plus important, et celui que vous consulterez le plus souvent**
@@ -29,7 +29,7 @@ Il contient de nombreuses vignettes, chacune d'elle affichant un graphique stati
 
 ![](<../../.gitbook/assets/image (1).png>)
 
-* Visualisez les montants de vos achats et de votre main d'œuvre, en les comparant instantanément aux [prévisions](../les-devis/le-devis-en-details/prevoir-le-temps-passe.md). La vignette "Analyse du chantier" vous permet de constater l'état de rentabilité de votre chantier à ce jour :
+* Visualisez les montants de vos achats et de votre main d'œuvre, en les comparant instantanément aux [prévisions](../les-devis/les-indispensables-du-devis/prevoir-le-temps-passe.md). La vignette "Analyse du chantier" vous permet de constater l'état de rentabilité de votre chantier à ce jour :
 
 ![](<../../.gitbook/assets/image (8).png>)
 
@@ -38,7 +38,7 @@ Il contient de nombreuses vignettes, chacune d'elle affichant un graphique stati
 
 
 
-## :digit_three: Onglet "Contacts"
+## :digit\_three: Onglet "Contacts"
 
 Si vous réalisez plutôt de "gros" chantiers, vous allez régulièrement rencontrer les mêmes architectes, maîtres d'œuvre, coordinateurs de sécurité, OPC, etc...
 
@@ -48,7 +48,7 @@ Vous pourrez alors simplement ajouter les contacts pour chaque chantier, pour fa
 
 
 
-## :digit_four: Onglet "ProGBox"
+## :digit\_four: Onglet "ProGBox"
 
 Comme partout sous le logiciel, vous retrouvez sur la fiche chantier l'espace de stockage de documents [ProGBox](../../les-plus-du-logiciel/progbox-archivage-de-documents.md). Ne recherchez plus vos documents quelque part sur Google Drive ou sur DropBox, tout est organisé automatiquement dans [ProGBox](../../les-plus-du-logiciel/progbox-archivage-de-documents.md).
 

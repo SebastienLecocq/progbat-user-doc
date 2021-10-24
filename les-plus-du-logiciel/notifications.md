@@ -27,7 +27,7 @@ En cliquant sur la petite cloche, les notifications s'affichent.
 * Cliquez sur la notification pour afficher la liste des attestations de TVA
 * La notification restera active tant que vous n'aurez pas coché la case "Retour client"
 
-:bulb: En faisant [signer électroniquement l'attestation de TVA](../pour-aller-plus-loin/signature-electronique/envoyer-une-attestation-de-tva-en-signature-electronique.md), en même temps que le devis ou non, la validation du retour client est automatique et vous est notifiée via cette même cloche.
+:bulb: En faisant [signer électroniquement l'attestation de TVA](signature-electronique/envoyer-une-attestation-de-tva-en-signature-electronique.md), en même temps que le devis ou non, la validation du retour client est automatique et vous est notifiée via cette même cloche.
 
 
 
@@ -35,7 +35,7 @@ En cliquant sur la petite cloche, les notifications s'affichent.
 
 ![](../.gitbook/assets/screenshot-133-.png)
 
-(cf [signature électronique](../pour-aller-plus-loin/signature-electronique/))
+(cf [signature électronique](signature-electronique/))
 
 * Cliquez sur la notification pour afficher le devis, le statut du devis est automatiquement passé à "Accepté".
 * Le devis signé se trouve dans l'onglet [ProGBox](progbox-archivage-de-documents.md) du devis
@@ -47,7 +47,7 @@ En cliquant sur la petite cloche, les notifications s'affichent.
 
 ![](../.gitbook/assets/screenshot-132-.png)
 
-(cf gestion des [retenues de garantie](../pour-aller-plus-loin/les-devis/le-devis-en-details/deductions-complementaires/retenue-de-garantie.md#gerer-les-retenues-de-garantie))
+(cf gestion des [retenues de garantie](retenue-de-garantie.md#gerer-les-retenues-de-garantie))
 
 * Si vous avez bien renseigné la date de réception des travaux, et la durée de la retenue de garantie, une notification apparaîtra 15 jours avant terme. (généralement 12 mois après la date de réception)
 * En cliquant sur la notification, vous pourrez immédiatement générer le courrier de demande de libération

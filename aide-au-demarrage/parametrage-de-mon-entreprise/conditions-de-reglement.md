@@ -16,7 +16,7 @@ La facture "héritera" automatiquement des conditions de règlement du devis.
 
 ## Créer ou modifier les conditions de règlement
 
-### :digit_one: Conditions de règlement "par défaut"
+### :digit\_one: Conditions de règlement "par défaut"
 
 * Ouvrez le menu "Administration" > "Mon entreprise"
 * Ouvrez la section "Autres paramètres"
@@ -25,7 +25,7 @@ La facture "héritera" automatiquement des conditions de règlement du devis.
 
 
 
-### :digit_two: Conditions de règlement spécifiques
+### :digit\_two: Conditions de règlement spécifiques
 
 #### Pour un client ou chantier :
 
@@ -33,13 +33,13 @@ La facture "héritera" automatiquement des conditions de règlement du devis.
 * Dans le cadre "Conditions de règlement", cliquez sur "Modifier"
 * Une fois les conditions définies (voir plus bas), enregistrez..
   * :bulb: Cliquez sur "Enregistrer comme conditions par défaut" pour que ces conditions soient à la fois  appliquées au client (ou au chantier) et définies par défaut.
-  *  Pour rétablir les conditions par défaut de votre entreprise, cliquez sur "Appliquer les conditions par défaut".
+  * &#x20;Pour rétablir les conditions par défaut de votre entreprise, cliquez sur "Appliquer les conditions par défaut".
 
 Ces conditions spécifiques seront appliquées par défaut sur tous les documents créés pour ce client ou ce chantier.
 
 
 
-####  Pour un devis ou facture :
+#### &#x20;Pour un devis ou facture :
 
 * Ouvrez votre devis
 * Accédez à l'onglet "Pied" du devis
@@ -52,7 +52,7 @@ Ces conditions spécifiques seront appliquées par défaut sur tous les document
 
 ## Définissez vos conditions
 
-### :digit_one: Échéances
+### :digit\_one: Échéances
 
 ![](../../.gitbook/assets/screenshot-80-.png)
 
@@ -70,7 +70,7 @@ Vous pourrez la modifier manuellement si nécessaire au moment de la validation 
 
 
 
-### :digit_two: Acomptes
+### :digit\_two: Acomptes
 
 ![](../../.gitbook/assets/screenshot-81-.png)
 
@@ -79,7 +79,7 @@ Ce paramètre permet au logiciel de calculer et d'afficher sur le devis le monta
 * Dans cet exemple, nous demanderons 10% d'acompte à la signature du devis, et 20% au démarrage des travaux.
 * En fonction des taux et des textes que vous aurez saisis, le logiciel va créer un texte "dynamique", qui se mettra à jour dans vos devis en fonction du montant du devis, entouré de 2 "balises" \[acomptes] et \[/acomptes].
 
-![](../../.gitbook/assets/parametrage_texte_conditions.png)
+![](../../.gitbook/assets/parametrage\_texte\_conditions.png)
 
 {% hint style="info" %}
 :warning: **Il est important de ne pas modifier les balises \[acomptes] et \[/acomptes] ni leur contenu, le calcul automatique ne se ferait plus.**
@@ -89,21 +89,21 @@ Bien entendu, les balises \[acomptes] et \[/acomptes] ne seront pas affichées d
 
 ****
 
-### ****:digit_three: **Retenue de garantie**
+### ****:digit\_three: **Retenue de garantie**
 
-Le logiciel permet une gestion complète des [retenues de garantie](../../pour-aller-plus-loin/les-devis/le-devis-en-details/deductions-complementaires/retenue-de-garantie.md), de son application automatique sur chaque facture, à la demande de libération, et à la gestion de son remboursement.
+Le logiciel permet une gestion complète des [retenues de garantie](../../les-plus-du-logiciel/retenue-de-garantie.md), de son application automatique sur chaque facture, à la demande de libération, et à la gestion de son remboursement.
 
 Cela concerne le plus souvent les marchés publics, et n'est que rarement utilisé sur les chantiers aux particuliers.
 
-![](../../.gitbook/assets/parametrage_rg.png)
+![](../../.gitbook/assets/parametrage\_rg.png)
 
-Ce paramètre permet donc de définir le taux de retenue de garantie qui sera appliqué au marché. 
+Ce paramètre permet donc de définir le taux de retenue de garantie qui sera appliqué au marché.&#x20;
 
 La retenue de garantie sera calculée automatiquement sur chaque facture au prorata de l'avancement (situations de travaux), et sera déduite du Total TTC.
 
 
 
-### :digit_four: Texte affiché dans les documents commerciaux
+### :digit\_four: Texte affiché dans les documents commerciaux
 
 ![](../../.gitbook/assets/screenshot-84-.png)
 
@@ -112,7 +112,7 @@ Ce paramètre vous permet de saisir le texte que vous souhaitez afficher dans vo
 * Comme précisé un peu plus haut, le texte entre balises \[acomptes] ne doit pas être modifié ici, mais dans le [paramétrage des acomptes](conditions-de-reglement.md#acomptes).
 * Les zones de textes avant et après les balises \[acomptes] sont totalement libres.
 * Le champ "insérer un texte enregistré" permet de gagner beaucoup de temps si vous avez par exemple l'habitude de modifier vos conditions de règlement selon le type de chantier ou de client :
-  * Cliquez à l'endroit ou vous souhaitez ajouter ce texte, puis dans la barre de recherche "insérer un texte enregistré" 
+  * Cliquez à l'endroit ou vous souhaitez ajouter ce texte, puis dans la barre de recherche "insérer un texte enregistré"&#x20;
   * Vous pouvez ici récupérer les textes de vos différentes conditions de règlement
 
 [_Cliquez ici pour apprendre à créer des textes pré-enregistrés._](../../les-plus-du-logiciel/bibliotheque-de-textes.md#les-textes-pre-enregistres)__
