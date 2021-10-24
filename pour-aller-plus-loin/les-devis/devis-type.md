@@ -1,4 +1,4 @@
-# 📎 Devis-type  &  BPU
+# ▪ Devis-type  &  BPU
 
 ## Qu'est ce qu'un devis-type ?
 
@@ -26,7 +26,7 @@ Pour fixer un prix, fermez le cadenas ![](../../.gitbook/assets/screenshot-40-.p
 
 
 
-### :digit_one: Depuis un devis existant
+### :digit\_one: Depuis un devis existant
 
 *   Cliquez à droite de la page sur "Import / Export"
 
@@ -37,7 +37,7 @@ Pour fixer un prix, fermez le cadenas ![](../../.gitbook/assets/screenshot-40-.p
 
 
 
-### :digit_two: Depuis la liste des devis-type
+### :digit\_two: Depuis la liste des devis-type
 
 *   Ouvrez la liste des devis, et cliquez à droite de la page sur "Voir les Devis type"
 
@@ -63,7 +63,7 @@ par exemple :
 
 
 
-###  :digit_three: Depuis un autre devis-type
+### &#x20;:digit\_three: Depuis un autre devis-type
 
 Ouvrez le devis-type, et cliquez à droite de la page sur le bouton "Copier le devis type".
 

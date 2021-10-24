@@ -98,6 +98,7 @@
   * [📎 Modifier & Annuler une facture](pour-aller-plus-loin/les-factures/modifier-supprimer-ou-annuler-une-facture.md)
   * [📎 Imprimer une facture](pour-aller-plus-loin/les-factures/imprimer-une-facture.md)
   * [📎 Importer & exporter mes factures](pour-aller-plus-loin/les-factures/importer-and-exporter-mes-factures.md)
+  * [📎 Factures impayées](pour-aller-plus-loin/les-factures/factures-impayees.md)
 * [💳 Achats](pour-aller-plus-loin/les-achats/README.md)
   * [📎 Demandes de prix](pour-aller-plus-loin/les-achats/demandes-de-prix.md)
   * [📎 Commandes](pour-aller-plus-loin/les-achats/les-bons-de-commande/README.md)
