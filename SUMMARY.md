@@ -81,7 +81,7 @@
   * [▪ Options  &  variantes](pour-aller-plus-loin/les-devis/options-et-variantes.md)
   * [▪ Attestation de TVA](pour-aller-plus-loin/les-devis/creer-une-attestation-de-tva.md)
   * [▪ Révision & copie de devis](pour-aller-plus-loin/les-devis/revision-et-copie-de-devis.md)
-  * [📎 Devis-type  &  BPU](pour-aller-plus-loin/les-devis/devis-type.md)
+  * [▪ Devis-type  &  BPU](pour-aller-plus-loin/les-devis/devis-type.md)
   * [📎 Avenant](pour-aller-plus-loin/les-devis/les-avenants.md)
   * [📎 Statut des devis](pour-aller-plus-loin/les-devis/statut-des-devis.md)
   * [📎 Import & Export de devis - DPGF](pour-aller-plus-loin/les-devis/import-export.md)
