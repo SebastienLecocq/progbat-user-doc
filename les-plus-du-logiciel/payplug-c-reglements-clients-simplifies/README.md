@@ -4,9 +4,15 @@
 
 &#x20;
 
-**PayPlug**©** **est une solution Française extrêmement simple et sécurisée pour automatiser et prendre en charge de vos clients (par carte bancaire) :
+**PayPlug**©** **est un établissement de paiement agréé par la Banque de France (ACPR) depuis 2016.
 
-:heavy\_check\_mark: Une fois PayPlug© activé sous le logiciel, un lien de paiement sera automatiquement proposé à vos clients à chaque envoi de facture
+
+
+Il s'agit d'une solution Française extrêmement simple et sécurisée pour automatiser et prendre en charge de vos clients (par carte bancaire) :&#x20;
+
+
+
+:heavy\_check\_mark: Une fois PayPlug© activé sous le logiciel, un lien de paiement (sans expiration) sera automatiquement proposé à vos clients à chaque envoi de facture
 
 :heavy\_check\_mark: Vos clients pourront ainsi directement régler cette facture, le règlement effectué sera automatiquement saisi sous le logiciel, et la facture sera soldée&#x20;
 
@@ -39,10 +45,10 @@
 
 **Côté clients :**&#x20;
 
-*   Vos clients n'ont pas besoin de créer un compte PayPlug© pour vous payer. Ils leur suffit de saisir leurs informations de carte sur votre page de paiement, après avoir cliqué sur le lien de paiement**.**
+*   Vos clients n'ont pas besoin de créer un compte PayPlug© pour vous payer. Ils leur suffit de saisir leurs informations de carte bancaire sur votre page de paiement, après avoir cliqué sur le lien de paiement**. **Bien sûr, ils ne payent aucun frais.
 
 
-*   Toutes les cartes de crédit et de débit Françaises, Européennes et Internationales sont acceptées sous PayPlug© (Visa©, MasterCard©, etc, y compris les cartes à consultation de solde Electron© et Maestro©).
+*   Toutes les cartes de crédit et de débit Françaises et Européennes sont acceptées sous PayPlug© (Visa©, MasterCard©, etc, y compris les cartes à consultation de solde Electron© et Maestro©). Certaines cartes internationales le sont aussi !
 
     Les cartes bancaires de réseaux tels que American Express©, Union Pay© ou Bancontact© ne sont pas acceptées.
 

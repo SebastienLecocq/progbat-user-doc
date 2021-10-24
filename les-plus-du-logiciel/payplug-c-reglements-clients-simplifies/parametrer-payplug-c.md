@@ -1,6 +1,16 @@
 # 📎 Paramétrer PayPlug©
 
-## Paramétrage essentiel
+## Paramétrage sous le logiciel
+
+__
+
+Le seul paramétrage que vous ayez à faire sous le logiciel (en dehors de l'[activation du plugin PayPlug©](activer-payplug-c.md#lier-payplug-c-a-votre-compte-entreprise)) est d'ordre **comptable**.
+
+Cliquez [ici](payplug-c-comptabilite.md) pour savoir comment paramétrer les règlements clients effectués via PayPlug©.
+
+__
+
+## Paramétrage PayPlug©
 
 
 
@@ -27,3 +37,5 @@ _Clé Test : Si vous souhaitez dans un premier temps tester PayPlug_©_, récup�
 _Clé Live : Si vous souhaitez de suite pouvoir encaisser vos règlements clients, activez votre compte puis récupérez cette clé Live._
 
 __
+
+:bulb:** Encore plus d'informations sur : **[**https://support.payplug.com/hc/fr**](https://support.payplug.com/hc/fr)****

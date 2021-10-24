@@ -46,3 +46,6 @@ Activez votre compte PayPlug©, cliquez sur le lien ci-contre pour savoir commen
 
 :warning: **Une fois votre compte activé, pensez à remplacer la clé "Test" par la **[**clé "Live" sous le logiciel**](activer-payplug-c.md#lier-payplug-c-a-votre-compte-entreprise)**.**
 
+****
+
+:bulb:_ Encore plus d'informations sur : _[_https://support.payplug.com/hc/fr_](https://support.payplug.com/hc/fr)__

@@ -50,7 +50,7 @@ Rendez-vous sur le site [https://portal.payplug.com/signup](https://portal.paypl
 
 ![](<../../.gitbook/assets/Screenshot (247a).png>)
 
-Après activation de votre compte, et validation par PayPlug©, un lien de paiement sera automatiquement envoyé à vos clients en même temps que la facture, sans rien avoir à faire de plus qu'avant !
+Après activation de votre compte, et validation par PayPlug© (sous 2 jours ouvrés en moyenne), un lien de paiement sera automatiquement envoyé à vos clients en même temps que la facture, sans rien avoir à faire de plus qu'avant !
 
 
 
@@ -72,3 +72,6 @@ Après activation de votre compte, et validation par PayPlug©, un lien de paiem
 [payplug-c-comptabilite.md](payplug-c-comptabilite.md)
 {% endcontent-ref %}
 
+
+
+:bulb:** Encore plus d'informations sur : **[**https://support.payplug.com/hc/fr**](https://support.payplug.com/hc/fr)****
