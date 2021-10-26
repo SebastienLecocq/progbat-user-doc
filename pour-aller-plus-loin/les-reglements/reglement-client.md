@@ -119,13 +119,11 @@ La facture d'acompte a un statut "Trop perçu" ![](<../../.gitbook/assets/Screen
 * Saisissez bien les montants réellement reçus, sur chacune des factures même s'ils ne correspondent effectivement pas aux sommes "attendues"
 * Puis, pour chacune des factures : Cliquez sur "Solder sans règlement" dans le cadre "Règlements" à droite de la page. Les factures seront considérées comme "soldées" ![](<../../.gitbook/assets/Screenshot (261).png>).
 
-
-
 **Si besoin, en complément, après avoir établi la facture de travaux :**
 
-* Ouvrez le menu "Gestion->Échéances",
-* Recherchez la facture concernée, et cliquez sur l'imprimante au bout de la ligne,
-* Choisissez "Relevé de compte client".
+* Ouvrez le menu "Gestion > Échéances"
+* Recherchez la facture concernée, et cliquez sur l'imprimante au bout de la ligne
+* Choisissez "Relevé de compte client"
 * Ce relevé mettra bien en évidence la somme restant due à ce jour.
 
 
@@ -133,6 +131,18 @@ La facture d'acompte a un statut "Trop perçu" ![](<../../.gitbook/assets/Screen
 ## Facture impayée / Suivi des échéances
 
 Cliquez [ici](courriers-de-relance-ou-de-situation.md).
+
+
+
+## Relevés de compte
+
+Le logiciel permet d'imprimer un relevé de compte client, ou un relevé de compte chantier.
+
+Comme tous les modèles, les relevés de compte proposés par défaut sont totalement [personnalisable](../modeles-de-document.md).
+
+:point\_right: Procédez comme pour un courrier de relance : Cliquez [ici](reglement-client.md#envoyer-un-courrier-de-relance).
+
+
 
 ## Exporter les règlements clients
 

@@ -1,8 +1,20 @@
 # 📎 Échéances clients & fournisseurs
 
+Sous le logiciel, vous allez pouvoir :&#x20;
+
+:heavy\_check\_mark: Consulter la liste des factures partiellement ou non réglées par vos clients, ou auprès de vos fournisseurs et sous-traitants
+
+:heavy\_check\_mark: Éditer et envoyer des courriers de relance
+
+:heavy\_check\_mark: Éditer et envoyer des relevés de compte.
+
+
+
 ## Liste des factures partiellement ou non réglées
 
 ![](../../.gitbook/assets/echeance.png)
+
+
 
 Ouvrez le menu "Gestion > Échéances", ou bien directement sur votre tableau de bord, sur le pavé "Échéances" :&#x20;
 
@@ -50,7 +62,9 @@ L'icône![](../../.gitbook/assets/screenshot-185a-.png)en bout de ligne passera 
 
 Le logiciel permet d'imprimer un relevé de compte client, ou un relevé de compte chantier.
 
-Procédez comme pour un courrier de relance : Cliquez [ici](courriers-de-relance-ou-de-situation.md#envoyer-un-courrier-de-relance).
+Comme tous les modèles, les relevés de compte proposés par défaut sont totalement [personnalisables](../modeles-de-document.md).
+
+:point\_right: Procédez comme pour un courrier de relance : Cliquez [ici](courriers-de-relance-ou-de-situation.md#envoyer-un-courrier-de-relance).
 
 
 

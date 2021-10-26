@@ -4,7 +4,7 @@
 
 
 
-Rendez-vous sur le site [https://portal.payplug.com/signup](https://portal.payplug.com/signup) et créez votre compte PayPlug© en 4 étapes simples, présentées ci-dessous :&#x20;
+Cliquez sur le lien [https://portal.payplug.com/signup?sponsor=1494 ](https://portal.payplug.com/signup?sponsor=1494)et créez votre compte PayPlug© en 4 étapes simples, présentées ci-dessous :&#x20;
 
 ![](../../.gitbook/assets/Payplug.png)
 

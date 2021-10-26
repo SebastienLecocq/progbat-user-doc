@@ -6,7 +6,7 @@ __
 
 Le seul paramétrage que vous ayez à faire sous le logiciel (en dehors de l'[activation du plugin PayPlug©](activer-payplug-c.md#lier-payplug-c-a-votre-compte-entreprise)) est d'ordre **comptable**.
 
-Cliquez [ici](payplug-c-comptabilite.md) pour savoir comment paramétrer les règlements clients effectués via PayPlug©.
+Cliquez [ici](payplug-c-comptabilite.md) pour savoir comment paramétrer le logiciel pour les règlements clients effectués via PayPlug©.
 
 __
 
