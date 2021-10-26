@@ -2,7 +2,7 @@
 
 La loi oblige à utiliser un logiciel qui lui est conforme. Ce logiciel devra permettre d'éditer une attestation de conformité, qui vous sera demandée par l'administration fiscale en cas de contrôle, au risque d'une forte amende.&#x20;
 
-Ce logiciel est conforme à la loi, dite "anti-fraude à la TVA". _Consultez le texte de loi en cliquant_[_ ici._](http://bofip.impots.gouv.fr/bofip/10691-PGP.html)__
+**Ce logiciel est certifié conforme** à la loi dite "anti-fraude à la TVA". _Consultez le texte de loi en cliquant_[_ ici._](http://bofip.impots.gouv.fr/bofip/10691-PGP.html)__
 
 Il vous permet donc d'éditer une attestation de conformité, au besoin.
 

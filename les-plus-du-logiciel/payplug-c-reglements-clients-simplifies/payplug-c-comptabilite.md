@@ -21,9 +21,7 @@ Lorsque vous activez votre compte PayPlug©, vous ouvrez un compte de trésoreri
 
 :point\_right: Depuis le menu "Administration > Mon entreprise > Comptes bancaires", créez un nouveau compte bancaire nommé Payplug© par exemple. _Inutile d'indiquer un R.I.B. _
 
-:point\_right: Depuis le menu "Administration > Paramétrage comptable > Comptes financiers", saisissez le compte comptable commençant par 512.&#x20;
-
-_**N'hésitez pas à consulter votre expert comptable.**_
+:point\_right: Depuis le menu "Administration > Paramétrage comptable > Comptes financiers", saisissez le compte comptable commençant par 512.  _**N'hésitez pas à consulter votre expert comptable.**_
 
 ![](<../../.gitbook/assets/Screenshot (259).png>)
 

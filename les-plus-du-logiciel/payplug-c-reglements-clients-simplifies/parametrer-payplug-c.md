@@ -39,3 +39,5 @@ _Clé Live : Si vous souhaitez de suite pouvoir encaisser vos règlements client
 __
 
 :bulb:** Encore plus d'informations sur : **[**https://support.payplug.com/hc/fr**](https://support.payplug.com/hc/fr)****
+
+****
