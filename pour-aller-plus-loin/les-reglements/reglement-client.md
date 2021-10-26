@@ -6,13 +6,11 @@
 
 :digit\_one: Ouvrez la facture concernée :&#x20;
 
-* Depuis la liste des factures
-* À droite de la page, cliquez sur le bouton "Saisir le règlement"
+* Depuis la liste des factures : à droite de la page, cliquez sur le bouton "Saisir le règlement"
 
 **ou**
 
-* Depuis la liste des échéances, menu "Gestion > Échéances"
-* Cliquez sur l'icône![](../../.gitbook/assets/screenshot-185-.png)en bout de ligne
+* Depuis la liste des échéances, menu "Gestion > Échéances" : Cliquez sur l'icône![](../../.gitbook/assets/screenshot-185-.png)en bout de ligne de la facture concernée
 
 :digit\_two: Le formulaire de saisie du règlement s'ouvre, pré-rempli
 
@@ -22,7 +20,7 @@
 
 :digit\_five: Validez
 
-
+![](<../../.gitbook/assets/Screenshot (263).png>)
 
 
 
@@ -138,7 +136,7 @@ Cliquez [ici](courriers-de-relance-ou-de-situation.md).
 
 Le logiciel permet d'imprimer un relevé de compte client, ou un relevé de compte chantier.
 
-Comme tous les modèles, les relevés de compte proposés par défaut sont totalement [personnalisable](../modeles-de-document.md).
+Comme tous les modèles, les relevés de compte proposés par défaut sont totalement [personnalisables](../modeles-de-document.md).
 
 :point\_right: Procédez comme pour un courrier de relance : Cliquez [ici](reglement-client.md#envoyer-un-courrier-de-relance).
 
