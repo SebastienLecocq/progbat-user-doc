@@ -12,7 +12,7 @@
 * [1⃣ Tester le logiciel](aide-au-demarrage/tester-le-logiciel.md)
 * [2⃣ Paramétrage](aide-au-demarrage/parametrage-de-mon-entreprise/README.md)
   * [Informations officielles de mon entreprise](aide-au-demarrage/parametrage-de-mon-entreprise/informations-officielles-de-mon-entreprise.md)
-  * [Coordonnées et assurances de l'entreprise](aide-au-demarrage/parametrage-de-mon-entreprise/coordonnees-et-assurances-de-lentreprise.md)
+  * [Coordonnées, Assurances & CGV](aide-au-demarrage/parametrage-de-mon-entreprise/coordonnees-et-assurances-de-lentreprise.md)
   * [Logo et signature de l'entreprise](aide-au-demarrage/parametrage-de-mon-entreprise/logo-et-signature-de-lentreprise.md)
   * [Numérotation des documents](aide-au-demarrage/parametrage-de-mon-entreprise/numerotation-des-documents.md)
   * [Conditions de règlement](aide-au-demarrage/parametrage-de-mon-entreprise/conditions-de-reglement.md)
