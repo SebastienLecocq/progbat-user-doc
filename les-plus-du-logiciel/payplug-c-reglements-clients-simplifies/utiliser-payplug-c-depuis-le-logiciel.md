@@ -57,7 +57,7 @@ Une fois votre compte activé, et votre clé "Live" saisie sous le logiciel, Pay
 
 
 
-Après avoir cliqué sur le lien de paiement (qui n'expirera qu'après paiement), votre client est automatiquement redirigé vers une page récapitulative du paiement demandé
+Après avoir cliqué sur le lien de paiement (qui n'expirera qu'après paiement), votre client est automatiquement redirigé vers une page récapitulative du paiement demandé.
 
 Il choisira son moyen de paiement (type de carte bancaire), et sera redirigé vers la page de [paiement sécurisée PayPlug© que vous aurez au préalable personnalisée](parametrer-payplug-c.md#parametrage-essentiel).
 
