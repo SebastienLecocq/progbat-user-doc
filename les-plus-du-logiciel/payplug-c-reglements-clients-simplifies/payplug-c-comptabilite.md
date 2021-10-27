@@ -11,7 +11,7 @@ Au cours du mois, la solution enregistre au fil de l’eau :
 * Les règlements de vos clients (aboutis ou échoués)
 * Les virements de votre compte PayPlug© vers votre compte bancaire enregistré.
 
-Le premier jour du mois suivant, une facture est émise et prélevée (TTC) directement en une seule fois sur votre compte PayPlug©. La TVA est calculée et appliquée sur l’ensemble de la facture générée et non pas transaction par transaction.** **PayPlug© impose donc l’immobilisation des montants des frais à prévoir (abonnement et frais de transactions).
+Le premier jour du mois suivant, une facture est émise et prélevée (TTC) directement en une seule fois sur votre compte PayPlug©. La TVA est calculée et appliquée sur l’ensemble de la facture générée et non pas transaction par transaction.** **
 
 ****
 

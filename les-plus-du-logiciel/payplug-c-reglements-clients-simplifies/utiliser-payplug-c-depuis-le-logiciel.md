@@ -105,7 +105,7 @@ Les paiements effectués par vos clients via PayPlug© sont immédiatement plac�
 
 Conformément à la réglementation bancaire française, le compte de cantonnement permet que les fonds dont vous disposez sur votre compte PayPlug© ne soient en aucun cas confondus avec ceux d'autres marchands ou de la société PayPlug© elle-même.
 
-**L'argent disponible sur votre compte PayPlug© ne travaille donc pas et reste votre propriété**, même lorsqu'il n'est pas encore transféré sur votre compte bancaire.
+**L'argent disponible sur votre compte PayPlug© ne travaille donc pas et reste votre propriété**, même lorsqu'il n'est pas encore transféré sur votre compte bancaire. PayPlug© impose simplement l’immobilisation des montants des frais à prévoir (abonnement et frais de transactions).
 
 
 
