@@ -28,8 +28,6 @@ Rendez-vous sur le menu "Paramètres" de votre compte PayPlug© :&#x20;
 
 Le 3-D Secure permet de déclencher une authentification forte (sécurisation) pour une transaction en ligne.
 
-_Depuis l'entrée en vigueur de la DSP2, c'est la banque du client qui décide de l’exécution d'une authentification forte. Avec PayPlug_©_, vous pouvez émettre des recommandations auprès de la banque de vos clients. Cliquez _[_ici_](https://support.payplug.com/hc/fr/articles/360032122071)_ pour en savoir plus._
-
 :digit\_four: **Notifications : **Choisissez les Notifications que vous et vos clients recevrez.
 
 :digit\_five: **Clés API :** Récupérez vos clés de connexion entre PayPlug et le logiciel ("clé secrète")&#x20;
