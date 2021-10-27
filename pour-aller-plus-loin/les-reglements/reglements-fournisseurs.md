@@ -1,6 +1,6 @@
-# 📎 Règlements fournisseur
+# 📎 Règlements des achats
 
-## Saisir le règlement d'une facture fournisseur
+## Saisir le règlement d'une facture fournisseur, sous-traitants, et autres tiers
 
 
 
@@ -50,29 +50,25 @@ La facture est alors simplement "soldée", et marquée de la couleur bleue ![](<
 
 ****
 
-## Suivi des échéances de factures d'achat
+## Paiement direct sous-traitant
 
 
 
-![](../../.gitbook/assets/echeance.png)
+Vous faites appel à un ou plusieurs sous-traitant?
+
+D'ordinaire, vous payez simplement vos sous-traitants sur facture. Mais certains marchés (publics) vous permettent d'effectuer un paiement direct au sous-traitant, comment le gérer sous le logiciel?
 
 
 
-Ouvrez le menu "Gestion > Échéances > Échéance Achats", ou bien directement sur votre tableau de bord, sur le pavé "Échéances" :&#x20;
+:digit\_one: Dans le pied de la facture, cliquez sur le bouton "Déductions sur TTC"
 
-![](<../../.gitbook/assets/Screenshot (253a).png>)
+:digit\_two: Ajoutez une déduction, en cliquant sur le bouton vert ![](../../.gitbook/assets/screenshot-2021-08-19t161919.604.png)
 
-* Le premier onglet affiche la liste des factures client partiellement ou non réglées
-* La colonne Échéance vous permet de contrôler si le paiement d'une facture est en retard
-* La date d'échéance des factures en retard est affichée en rouge pour les mettre en évidence
-
-{% hint style="info" %}
-:bulb: Il est conseillé de trier la colonne échéance par ordre croissant. Ainsi, toutes les factures en retard seront affichées en début de liste.
-{% endhint %}
+:digit\_three: Saisissez un libellé, par exemple : "Paiement direct entreprise DUPONT facture 123456 du jj/mm/aa"
 
 
 
-## Exporter les règlements clients
+## Exporter les règlements fournisseurs et autres tiers
 
 Cliquez [ici](../exports-comptables/export.md#creer-un-export-comptable).
 

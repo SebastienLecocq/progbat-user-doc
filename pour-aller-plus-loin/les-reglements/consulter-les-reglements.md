@@ -1,10 +1,14 @@
 # 📎 Consulter les règlements
 
-Sous le logiciel, vous pourrez consulter :
+**Sous le logiciel, vous pourrez consulter :**
 
-* La liste de tous les règlements : encaissements et paiements de vos clients, fournisseurs et sous-traitants, y compris les restitutions de retenues de garantie
-* La liste des règlements d'un client, fournisseur ou sous-traitant en particulier
-* Les règlements enregistrés pour une même facture.
+:heavy\_check\_mark: La liste de tous les règlements : encaissements et paiements de vos clients, fournisseurs et sous-traitants, y compris les restitutions de retenues de garantie
+
+:heavy\_check\_mark: La liste des règlements d'un client, fournisseur ou sous-traitant en particulier
+
+:heavy\_check\_mark: Les règlements enregistrés pour une même facture.
+
+
 
 ## :digit\_one: Liste des règlements
 

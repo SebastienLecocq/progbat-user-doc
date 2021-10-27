@@ -10,8 +10,8 @@ Le logiciel vous permet très simplement de saisir et de suivre vos règlements 
 [reglements-fournisseurs.md](reglements-fournisseurs.md)
 {% endcontent-ref %}
 
-{% content-ref url="reglements-sous-traitants.md" %}
-[reglements-sous-traitants.md](reglements-sous-traitants.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="courriers-de-relance-ou-de-situation.md" %}

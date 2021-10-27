@@ -50,7 +50,7 @@ Cliquez sur le lien [https://portal.payplug.com/signup?sponsor=1494 ](https://po
 
 ![](<../../.gitbook/assets/Screenshot (247a).png>)
 
-Après activation de votre compte, et validation par PayPlug© (sous 2 jours ouvrés en moyenne), un lien de paiement sera automatiquement envoyé à vos clients en même temps que la facture, sans rien avoir à faire de plus qu'avant !
+Après activation de votre compte, et validation par PayPlug© (sous 2 jours ouvrés en moyenne), un lien de paiement pourra automatiquement être envoyé à vos clients en même temps que la facture, en 1 clic supplémentaire !
 
 
 

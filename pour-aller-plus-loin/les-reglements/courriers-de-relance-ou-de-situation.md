@@ -1,12 +1,14 @@
-# 📎 Échéances clients & fournisseurs
+# 🎯 Échéances clients
 
-Sous le logiciel, vous allez pouvoir :&#x20;
+**Sous le logiciel, vous allez pouvoir : **
 
-:heavy\_check\_mark: Consulter la liste des factures partiellement ou non réglées par vos clients, ou auprès de vos fournisseurs et sous-traitants
+:heavy\_check\_mark: Consulter la liste des factures partiellement ou non réglées par vos clients
 
 :heavy\_check\_mark: Éditer et envoyer des courriers de relance
 
-:heavy\_check\_mark: Éditer et envoyer des relevés de compte.
+:heavy\_check\_mark: Éditer et envoyer des relevés de compte
+
+:heavy\_check\_mark: Saisir un règlement client.
 
 
 
@@ -18,7 +20,7 @@ Sous le logiciel, vous allez pouvoir :&#x20;
 
 Ouvrez le menu "Gestion > Échéances", ou bien directement sur votre tableau de bord, sur le pavé "Échéances" :&#x20;
 
-![](<../../.gitbook/assets/Screenshot (253a).png>)
+![](<../../.gitbook/assets/Screenshot (266a).png>)
 
 * Le premier onglet affiche la liste des factures client partiellement ou non réglées
 * La colonne Échéance vous permet de contrôler si le paiement d'une facture est en retard
@@ -44,7 +46,7 @@ Ouvrez le menu "Gestion > Échéances", ou bien directement sur votre tableau de
 * &#x20;**Factures client en retard**
 * &#x20;Relevé de compte client
 
-Comme tous les modèles, les courriers de relance proposés par défaut est totalement [personnalisable](../modeles-de-document.md).
+Comme tous les modèles, les courriers de relance proposés par défaut sont totalement [personnalisables](../modeles-de-document.md).
 
 :digit\_three: Imprimez ou envoyez par email ce courrier, accompagné si besoin de pièces jointes
 
@@ -64,7 +66,7 @@ Le logiciel permet d'imprimer un relevé de compte client, ou un relevé de comp
 
 Comme tous les modèles, les relevés de compte proposés par défaut sont totalement [personnalisables](../modeles-de-document.md).
 
-:point\_right: Procédez comme pour un courrier de relance : Cliquez [ici](courriers-de-relance-ou-de-situation.md#envoyer-un-courrier-de-relance).
+:point\_right: Procédez comme pour un courrier de relance, en choisissant le modèle "relevé de compte client", ou "relevé de compte chantier" : Cliquez [ici](courriers-de-relance-ou-de-situation.md#envoyer-un-courrier-de-relance).
 
 
 
