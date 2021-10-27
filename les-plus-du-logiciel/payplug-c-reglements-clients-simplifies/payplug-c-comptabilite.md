@@ -4,7 +4,7 @@
 
 
 
-Votre compte PayPlug© est assimilable à un compte bancaire, à la différence qu’il ne dispose pas d’une carte bancaire et vous ne pouvez pas effectuer de virements vers des tiers (fournisseurs, clients … ).
+Votre compte PayPlug© est assimilable à un compte bancaire, à la différence qu’il ne dispose pas d’une carte bancaire et que vous ne pouvez pas effectuer de virements vers des tiers (fournisseurs, clients … ).
 
 Au cours du mois, la solution enregistre au fil de l’eau :
 
