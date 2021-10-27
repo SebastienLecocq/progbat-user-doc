@@ -8,7 +8,7 @@
 
 
 
-Il s'agit d'une solution Française extrêmement simple et sécurisée pour automatiser et prendre en charge de vos clients (par carte bancaire) :&#x20;
+Il s'agit d'une solution française extrêmement simple et sécurisée pour automatiser et prendre en charge les paiements de vos clients (par carte bancaire) :&#x20;
 
 
 
