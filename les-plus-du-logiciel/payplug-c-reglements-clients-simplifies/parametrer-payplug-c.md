@@ -10,7 +10,7 @@ Cliquez [ici](payplug-c-comptabilite.md) pour savoir comment paramétrer le logi
 
 __
 
-## Paramétrage PayPlug©
+## Paramétrage sous PayPlug©
 
 
 
