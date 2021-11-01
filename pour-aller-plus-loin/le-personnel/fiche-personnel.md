@@ -1,6 +1,6 @@
 # 📎 Le personnel
 
-Le logiciel vous permet d'enregistrer les informations de vos salariés, dans le respect du [RGPD](https://www.batiment-gestion.com/politique-confidentialite-progbat-v1.pdf)
+Le logiciel vous permet d'enregistrer les informations de vos salariés, dans le respect du [RGPD](https://www.batiment-gestion.com/politique-confidentialite-progbat-v1.pdf).
 
 ![](<../../.gitbook/assets/Screenshot (267a).png>)
 
@@ -36,20 +36,34 @@ Les dates de contrat sont très importantes à renseigner, car elles vont décid
 
 ### :digit\_three: Coordonnées
 
-Saisissez simplement les coordonnées de postales et de contact du salarié
+Saisissez simplement les coordonnées postales et de contact du salarié.
 
 
 
 ### :digit\_four: Saisie des heures par le salarié
 
-Vous pouvez donner à votre salarié la possibilité de saisir ses propres heures travaillées, depuis son smartphone.\
+****:bulb: **Gain de temps ! **Vous pouvez donner à votre salarié ("compagnon") la possibilité de saisir ses propres heures travaillées, depuis son smartphone (Option à souscrire).
+
+\
 Pour cela :
 
-* Renseignez dans les coordonnées (point 3) son adresse mail.
-* Cochez la case "Ce salarié peut saisir ses heures".
-  * Le salarié recevra automatiquement un mail à son adresse, avec son mot de passe provisoire.
-  * A sa première connexion, il sera invité à créer son mot de passe personnel et sécurisé.
-  *   Il pourra ensuite saisir ses propres heures.
+:point\_right: Renseignez son adresse mail dans ses coordonnées (Point 3)
+
+:point\_right: Cochez la case "Ce salarié peut saisir ses heures"
+
+:point\_right: Le salarié recevra automatiquement un mail d'activation à l'adresse indiquée (vérifier dans les mails indésirables si le mail semble ne pas parvenir, ou bien dans la catégorie "Promotions" s'il s'agit d'une adresse Gmail)
+
+:point\_right: À sa première connexion, il sera invité à créer son mot de passe personnel et sécurisé
+
+:point\_right: Il bénéficiera alors d'un accès restreint, mais dédié, au logiciel, depuis smartphone, tablette ou ordinateur, pour visualiser son planning, et saisir les heures qu'il a effectué chaque jour sur un chantier donné.
+
+{% hint style="info" %}
+**Affectez ce salarié au planning d'un chantier, avant même qu'il y travaille : **
+
+:heavy\_check\_mark:Depuis l'accès "compagnon" décrit ci-dessus, votre salarié aura connaissance de ses affectations sur chantiers, à l'avance.
+
+:heavy\_check\_mark: Lors de la validation de ses heures effectuées, pas besoin de sélectionner le chantier sur lequel ont été faites ces heures, puisque le chantier est déjà enregistré ! Gain de temps et d'organisation supplémentaires.
+{% endhint %}
 
 
 
