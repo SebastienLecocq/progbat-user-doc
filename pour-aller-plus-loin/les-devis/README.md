@@ -30,8 +30,12 @@ Découvrez dans les chapitres suivants les outils mis à votre disposition pour 
 
 Pour apprendre à créer un devis, à en saisir les lignes, et connaître tous les détails et avantages :
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="les-indispensables-du-devis/" %}
+[les-indispensables-du-devis](les-indispensables-du-devis/)
+{% endcontent-ref %}
+
+{% content-ref url="les-indispensables-du-devis/prevoir-le-temps-passe.md" %}
+[prevoir-le-temps-passe.md](les-indispensables-du-devis/prevoir-le-temps-passe.md)
 {% endcontent-ref %}
 
 {% content-ref url="les-indispensables-du-devis/synthese-du-devis.md" %}
@@ -41,6 +45,10 @@ Pour apprendre à créer un devis, à en saisir les lignes, et connaître tous l
 
 
 Une fois votre devis créé :
+
+{% content-ref url="options-et-variantes.md" %}
+[options-et-variantes.md](options-et-variantes.md)
+{% endcontent-ref %}
 
 {% content-ref url="creer-une-attestation-de-tva.md" %}
 [creer-une-attestation-de-tva.md](creer-une-attestation-de-tva.md)
