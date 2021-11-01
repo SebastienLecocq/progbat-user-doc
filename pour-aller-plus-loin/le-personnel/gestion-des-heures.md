@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/temps-de-travail-acces-rapide.png)
 
-![](../../.gitbook/assets/menu_heures.png)
+![](<../../.gitbook/assets/Screenshot (268).png>)
 
 Le logiciel permet de saisir les heures de vos compagnons, et de les ventiler par chantier.
 
@@ -12,7 +12,7 @@ Les heures saisies sont automatiquement valorisées sur vos chantiers, pour en s
 
 ## Saisie des heures "au bureau"
 
-![](../../.gitbook/assets/saisie_heures_planning.png)
+![](../../.gitbook/assets/saisie\_heures\_planning.png)
 
 La page de saisie des heures se présente sous la forme d'un tableau affichant tous les jours du mois, et tous les salariés en contrat dans l'entreprise sur le mois affiché.
 
@@ -24,7 +24,7 @@ La page de saisie des heures se présente sous la forme d'un tableau affichant t
 * Placez la souris dans la cellule correspondante au jour et au salarié, et cliquez sur le bouton "+".
 * Le formulaire s'affiche, prérempli avec les heures "habituelles" de ce salarié, définies dans sa fiche personnel.
 
-![](../../.gitbook/assets/saisie_heures_formulaire.png)
+![](../../.gitbook/assets/saisie\_heures\_formulaire.png)
 
 * Choisissez et sélectionnez le chantier,
 * Modifiez éventuellement les heures passées ce jour là.
@@ -39,7 +39,7 @@ Votre salarié à passé toute la semaine sur le même chantier, et à fait les 
 
 * Sélectionnez une plage de dates : du ...... au .......
 * Sélectionnez le chantier,
-* Modifiez éventuellement les heures passées chaque jour, 
+* Modifiez éventuellement les heures passées chaque jour,&#x20;
 * Si vous définissez une plage de 15 jours par exemple, les week-end et jours feriés ne seront pas pris en compte, sauf si vous cochez la case "Inclure les jours non ouvrés".
 * Enregistrez.
 * La saisie va être automatiquement dupliquée sur tous les jours demandés.
@@ -56,12 +56,12 @@ Votre salarié à passé toute la semaine sur le même chantier, et à fait les 
 
 ## Saisie des heures par les compagnons
 
-Le logiciel permet à vos compagnons de saisir eux-mêmes leurs heures depuis l’application mobile. 
+Le logiciel permet à vos compagnons de saisir eux-mêmes leurs heures depuis l’application mobile.&#x20;
 
 Ainsi, vous n’aurez plus qu’un travail de vérification et de validation des heures.
 
 {% hint style="info" %}
-La saisie des heures par les salariés nécessite [d'affecter le personnel sur le planning](../les-chantiers-1/planning-de-chantiers.md#affecter-du-personnel-a-un-chantier) chantier 
+La saisie des heures par les salariés nécessite [d'affecter le personnel sur le planning](../les-chantiers-1/planning-de-chantiers.md#affecter-du-personnel-a-un-chantier) chantier&#x20;
 {% endhint %}
 
 ### Donner l'accès à la saisie des heures.
@@ -87,13 +87,13 @@ L'interface de l'application mobile permet à chacun de vos compagnons :
 
 ![](../../.gitbook/assets/screenshot\_6.png)
 
-Sur le panneau de saisie des heures, le compagnon peut renseigner différents éléments : 
+Sur le panneau de saisie des heures, le compagnon peut renseigner différents éléments :&#x20;
 
-* Signaler une absence. 
+* Signaler une absence.&#x20;
 * La sélection du chantier
   * Le compagnon n'a pas accès à la liste des chantiers, et aura uniquement le choix entre le chantier prévu, et "Autre chantier".
-* La possibilité de laisser un commentaire. 
-* Les heures travaillées et la pause repas. 
+* La possibilité de laisser un commentaire.&#x20;
+* Les heures travaillées et la pause repas.&#x20;
 
 Une fois les informations vérifiées, le compagnon n’a plus qu’à les enregistrer.
 
@@ -110,7 +110,7 @@ Toutes les heures saisies par vos compagnons sont affichées dans la page de sai
 
 * Vérifiez les heures saisies par vos compagnons,
 * Validez la saisie en bout de ligne.
-* Une fois les heures d'un compagnon validées, elle ne pourront plus être modifiées par le compagnon sur l'application mobile. 
+* Une fois les heures d'un compagnon validées, elle ne pourront plus être modifiées par le compagnon sur l'application mobile.&#x20;
 
 ## Consultation des heures saisies
 
